@@ -1,0 +1,42 @@
+# این Workflow هرروز به‌صورت خودکار اجرا می‌شود، لیست محصولاتِ موجود
+# سایت را از Store API عمومی ووکامرس می‌خواند، فایل
+# data/daily-prices.json را می‌سازد/به‌روزرسانی می‌کند و همان لحظه
+# آن را در همین ریپو کامیت می‌کند.
+#
+# نکته: مقدار WC_BASE_URL باید در تنظیمات ریپو به‌عنوان یک
+# Repository Secret تعریف شود (Settings ← Secrets and variables ←
+# Actions). چون GitHub به localhost دسترسی ندارد، این مقدار باید
+# آدرس سایت اصلی باشد، مثلاً: https://nolix.ir
+
+name: Daily WooCommerce Price Fetch
+
+on:
+  schedule:
+    # 05:30 UTC = 09:00 به وقت ایران
+    - cron: "30 5 * * *"
+  workflow_dispatch: {} # امکان اجرای دستی از تب Actions
+
+jobs:
+  fetch-and-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Run fetch script
+        env:
+          WC_BASE_URL: ${{ secrets.WC_BASE_URL }}
+        run: node fetch-daily-prices.js
+
+      - name: Commit updated data file
+        run: |
+          git config user.name "nolix-price-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/daily-prices.json
+          git diff --cached --quiet && echo "no changes" || git commit -m "daily price update $(date +'%Y-%m-%d')"
+          git push
