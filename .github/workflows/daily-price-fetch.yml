@@ -1,7 +1,6 @@
 # این Workflow هرروز به‌صورت خودکار اجرا می‌شود، لیست محصولاتِ موجود
-# سایت را از Store API عمومی ووکامرس می‌خواند، فایل
-# data/daily-prices.json را می‌سازد/به‌روزرسانی می‌کند و همان لحظه
-# آن را در همین ریپو کامیت می‌کند.
+# سایت را از REST API ووکامرس می‌خواند، فایل data/daily-prices.json
+# را می‌سازد/به‌روزرسانی می‌کند و همان لحظه آن را در همین ریپو کامیت می‌کند.
 #
 # نکته: مقادیر WC_BASE_URL، WC_CONSUMER_KEY و WC_CONSUMER_SECRET باید
 # در تنظیمات ریپو به‌عنوان Repository Secrets تعریف شوند.
@@ -10,8 +9,8 @@ name: Daily WooCommerce Price Fetch
 
 on:
   schedule:
-    # 05:30 UTC = 09:00 به وقت ایران
-    - cron: "30 5 * * *"
+    # 11:30 UTC = 15:00 به وقت ایران
+    - cron: "30 11 * * *"
   workflow_dispatch: {} # امکان اجرای دستی از تب Actions
 
 jobs:
