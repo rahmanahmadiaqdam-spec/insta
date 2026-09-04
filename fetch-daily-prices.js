@@ -3,7 +3,7 @@
  * ----------------------------------------------------------------
  * منطق نهایی:
  *   ۱) همهٔ محصولات را از REST API مدیریتی (wc/v3) با meta می‌خوانیم.
- *   ۲) «گوشی بودن» را از روی دسته‌بندی تشخیص می‌دهیم (آیفون/سامسونگ|گلکسی).
+ *   ۲) «گوشی بودن» را از روی دسته‌بندی تشخیص می‌دهیم (آیفون/سامسونگ/گلکسی).
  *      فقط برای گوشی‌ها بحث رجیستر مطرح است.
  *   ۳) «رجیستر شده» را از انتهای نام محصول می‌خوانیم؛ محصولاتی که در
  *      نامشان «رجیستر شده» ندارند، نسخهٔ بدون‌رجیستر (محور) هستند.
@@ -161,7 +161,7 @@ async function main() {
     // واریشن‌های خودِ محصول (بدون‌رجیستر)
     let ownVariations = [];
     if (product.type === "variable") {
-      if (!product.is_in_stock) continue;
+      if (product.stock_status !== "instock") continue;
       ownVariations = await getVars(product.id);
     }
 
@@ -188,12 +188,13 @@ async function main() {
           variationId: v.id,
           color,
           priceUnregistered: num(v.price),
-          priceRegistered: regPrice,
+          priceRegistered: regPrice, // ممکن است null باشد اگر جفت/رنگ موجود نبود
           isPhone: phone,
         });
       }
     } else {
-      if (!product.is_in_stock) continue;
+      // محصول ساده (غیرگوشی معمولاً)
+      if (product.stock_status !== "instock") continue;
       records.push({
         ...info,
         variationId: null,
