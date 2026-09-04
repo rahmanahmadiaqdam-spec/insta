@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T11:42:43.539Z",
+  "generatedAt": "2026-09-04T20:11:59.874Z",
   "sourceBaseUrl": "https://nolix.ir",
   "totalItems": 198,
   "itemsWithDualPrice": 2,
@@ -16,7 +16,8 @@
       "color": "—",
       "priceUnregistered": 51800000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 20648,
@@ -30,7 +31,8 @@
       "color": "—",
       "priceUnregistered": 41700000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 20643,
@@ -45,7 +47,8 @@
       "color": "مشکی",
       "priceUnregistered": 461300000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 20640,
@@ -60,7 +63,8 @@
       "color": "نقره‌ای",
       "priceUnregistered": 438800000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 20628,
@@ -75,7 +79,8 @@
       "color": "White",
       "priceUnregistered": 187900000,
       "priceRegistered": null,
-      "isPhone": true
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
     },
     {
       "id": 20618,
@@ -91,7 +96,8 @@
       "color": "Sky Blue",
       "priceUnregistered": 209300000,
       "priceRegistered": null,
-      "isPhone": true
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
     },
     {
       "id": 20618,
@@ -107,7 +113,8 @@
       "color": "Space Black",
       "priceUnregistered": 209300000,
       "priceRegistered": null,
-      "isPhone": true
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
     },
     {
       "id": 20610,
@@ -123,7 +130,8 @@
       "color": "Silver",
       "priceUnregistered": 346500000,
       "priceRegistered": null,
-      "isPhone": true
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
     },
     {
       "id": 20610,
@@ -139,7 +147,8 @@
       "color": "Deep Blue",
       "priceUnregistered": 348800000,
       "priceRegistered": null,
-      "isPhone": true
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
     },
     {
       "id": 20610,
@@ -155,7 +164,8 @@
       "color": "Cosmic Orange",
       "priceUnregistered": 342000000,
       "priceRegistered": null,
-      "isPhone": true
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
     },
     {
       "id": 20602,
@@ -171,7 +181,8 @@
       "color": "Silver",
       "priceUnregistered": 308300000,
       "priceRegistered": null,
-      "isPhone": true
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
     },
     {
       "id": 20602,
@@ -187,7 +198,8 @@
       "color": "Deep Blue",
       "priceUnregistered": 306000000,
       "priceRegistered": null,
-      "isPhone": true
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
     },
     {
       "id": 20602,
@@ -203,7 +215,8 @@
       "color": "Cosmic Orange",
       "priceUnregistered": 297000000,
       "priceRegistered": null,
-      "isPhone": true
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
     },
     {
       "id": 20554,
@@ -217,7 +230,8 @@
       "color": "Violet Shadow",
       "priceUnregistered": 438800000,
       "priceRegistered": null,
-      "isPhone": true
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
     },
     {
       "id": 20554,
@@ -231,7 +245,8 @@
       "color": "Cream",
       "priceUnregistered": 438800000,
       "priceRegistered": null,
-      "isPhone": true
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
     },
     {
       "id": 20306,
@@ -248,7 +263,8 @@
       "color": "Silver",
       "priceUnregistered": 380300000,
       "priceRegistered": null,
-      "isPhone": true
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
     },
     {
       "id": 20306,
@@ -265,7 +281,8 @@
       "color": "Deep Blue",
       "priceUnregistered": 380300000,
       "priceRegistered": null,
-      "isPhone": true
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
     },
     {
       "id": 20284,
@@ -279,7 +296,8 @@
       "color": "Natural Titanium",
       "priceUnregistered": 180000000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 20284,
@@ -293,7 +311,8 @@
       "color": "Black Titanium",
       "priceUnregistered": 180000000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 20282,
@@ -307,7 +326,8 @@
       "color": "Natural Titanium",
       "priceUnregistered": 180000000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 20282,
@@ -321,7 +341,8 @@
       "color": "Black Titanium",
       "priceUnregistered": 180000000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 20279,
@@ -335,7 +356,8 @@
       "color": "Natural Titanium",
       "priceUnregistered": 213800000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 20279,
@@ -349,7 +371,8 @@
       "color": "Black Titanium",
       "priceUnregistered": 213800000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 20263,
@@ -364,7 +387,8 @@
       "color": "بنفش",
       "priceUnregistered": 162000000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 20263,
@@ -379,7 +403,8 @@
       "color": "آبی",
       "priceUnregistered": 162000000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 20263,
@@ -394,7 +419,8 @@
       "color": "استارلایت",
       "priceUnregistered": 162000000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 20263,
@@ -409,7 +435,8 @@
       "color": "خاکستری",
       "priceUnregistered": 162000000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 20258,
@@ -424,7 +451,8 @@
       "color": "بنفش",
       "priceUnregistered": 137300000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 20258,
@@ -439,7 +467,8 @@
       "color": "آبی",
       "priceUnregistered": 137300000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 20258,
@@ -454,7 +483,8 @@
       "color": "استارلایت",
       "priceUnregistered": 137300000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 20258,
@@ -469,7 +499,8 @@
       "color": "خاکستری",
       "priceUnregistered": 137300000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 20240,
@@ -485,7 +516,8 @@
       "color": "Deep Purple",
       "priceUnregistered": 164300000,
       "priceRegistered": null,
-      "isPhone": true
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
     },
     {
       "id": 20234,
@@ -501,7 +533,8 @@
       "color": "Space Black",
       "priceUnregistered": 155300000,
       "priceRegistered": null,
-      "isPhone": true
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
     },
     {
       "id": 20234,
@@ -517,7 +550,8 @@
       "color": "Deep Purple",
       "priceUnregistered": 155300000,
       "priceRegistered": null,
-      "isPhone": true
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
     },
     {
       "id": 20227,
@@ -533,7 +567,8 @@
       "color": "Sierra Blue",
       "priceUnregistered": 108000000,
       "priceRegistered": null,
-      "isPhone": true
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
     },
     {
       "id": 20119,
@@ -547,7 +582,8 @@
       "color": "Purple",
       "priceUnregistered": 135000000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 20119,
@@ -561,7 +597,8 @@
       "color": "Blue",
       "priceUnregistered": 135000000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 20119,
@@ -575,7 +612,8 @@
       "color": "Starlight",
       "priceUnregistered": 135000000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 20119,
@@ -589,7 +627,8 @@
       "color": "Midnight",
       "priceUnregistered": 135000000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 20119,
@@ -603,7 +642,8 @@
       "color": "Orange",
       "priceUnregistered": 123800000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 20117,
@@ -618,7 +658,8 @@
       "color": "نقره‌ای",
       "priceUnregistered": 842400000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 20117,
@@ -633,7 +674,8 @@
       "color": "اسپیس بلک",
       "priceUnregistered": 842400000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 20115,
@@ -648,7 +690,8 @@
       "color": "اسپیس بلک",
       "priceUnregistered": 669200000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 20110,
@@ -663,7 +706,8 @@
       "color": "آبی",
       "priceUnregistered": 405000000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 20108,
@@ -678,7 +722,8 @@
       "color": "نقره‌ای",
       "priceUnregistered": 202500000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 20076,
@@ -694,7 +739,8 @@
       "color": "Space Black",
       "priceUnregistered": 263300000,
       "priceRegistered": 316600000,
-      "isPhone": true
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
     },
     {
       "id": 20062,
@@ -710,7 +756,8 @@
       "color": "Teal",
       "priceUnregistered": 162000000,
       "priceRegistered": 251000000,
-      "isPhone": true
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
     },
     {
       "id": 19777,
@@ -725,7 +772,8 @@
       "color": "سبز",
       "priceUnregistered": 301500000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19777,
@@ -740,7 +788,8 @@
       "color": "صورتی",
       "priceUnregistered": 301500000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19775,
@@ -755,7 +804,8 @@
       "color": "صورتی",
       "priceUnregistered": 240600000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19775,
@@ -770,7 +820,8 @@
       "color": "سبز",
       "priceUnregistered": 292500000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19773,
@@ -785,7 +836,8 @@
       "color": "نقره‌ای",
       "priceUnregistered": 1107300000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19771,
@@ -800,7 +852,8 @@
       "color": "اسپیس بلک",
       "priceUnregistered": 914700000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19771,
@@ -815,7 +868,8 @@
       "color": "نقره‌ای",
       "priceUnregistered": 914700000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19767,
@@ -830,7 +884,8 @@
       "color": "اسپیس بلک",
       "priceUnregistered": 679100000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19764,
@@ -845,7 +900,8 @@
       "color": "اسپیس بلک",
       "priceUnregistered": 623500000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19764,
@@ -860,7 +916,8 @@
       "color": "نقره‌ای",
       "priceUnregistered": 625800000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19762,
@@ -875,7 +932,8 @@
       "color": "نقره‌ای",
       "priceUnregistered": 598500000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19760,
@@ -890,7 +948,8 @@
       "color": "نقره‌ای",
       "priceUnregistered": 597000000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19760,
@@ -905,7 +964,8 @@
       "color": "اسپیس بلک",
       "priceUnregistered": 597000000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19757,
@@ -920,7 +980,8 @@
       "color": "اسپیس بلک",
       "priceUnregistered": 520000000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19757,
@@ -935,7 +996,8 @@
       "color": "نقره‌ای",
       "priceUnregistered": 520000000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19755,
@@ -950,7 +1012,8 @@
       "color": "نقره‌ای",
       "priceUnregistered": 452500000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19755,
@@ -965,7 +1028,8 @@
       "color": "اسپیس بلک",
       "priceUnregistered": 452500000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19752,
@@ -980,7 +1044,8 @@
       "color": "نقره‌ای",
       "priceUnregistered": 213800000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19752,
@@ -995,7 +1060,8 @@
       "color": "بلاش",
       "priceUnregistered": 222800000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19752,
@@ -1010,7 +1076,8 @@
       "color": "ایندیگو",
       "priceUnregistered": 216000000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19752,
@@ -1025,7 +1092,8 @@
       "color": "سیترس",
       "priceUnregistered": 213800000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19747,
@@ -1040,7 +1108,8 @@
       "color": "نقره‌ای",
       "priceUnregistered": 191300000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19747,
@@ -1055,7 +1124,8 @@
       "color": "ایندیگو",
       "priceUnregistered": 191300000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19747,
@@ -1070,7 +1140,8 @@
       "color": "سیترس",
       "priceUnregistered": 191300000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19747,
@@ -1085,7 +1156,8 @@
       "color": "بلاش",
       "priceUnregistered": 195800000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19742,
@@ -1100,7 +1172,8 @@
       "color": "استارلایت",
       "priceUnregistered": 483800000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19742,
@@ -1115,7 +1188,8 @@
       "color": "آبی آسمانی",
       "priceUnregistered": 483800000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19742,
@@ -1130,7 +1204,8 @@
       "color": "نقره‌ای",
       "priceUnregistered": 461300000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19742,
@@ -1145,7 +1220,8 @@
       "color": "میدنایت",
       "priceUnregistered": 461300000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19737,
@@ -1160,7 +1236,8 @@
       "color": "استارلایت",
       "priceUnregistered": 416300000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19737,
@@ -1175,7 +1252,8 @@
       "color": "آبی آسمانی",
       "priceUnregistered": 416300000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19737,
@@ -1190,7 +1268,8 @@
       "color": "نقره‌ای",
       "priceUnregistered": 416300000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19737,
@@ -1205,7 +1284,8 @@
       "color": "میدنایت",
       "priceUnregistered": 416300000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19734,
@@ -1220,7 +1300,8 @@
       "color": "میدنایت",
       "priceUnregistered": 353300000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19734,
@@ -1235,7 +1316,8 @@
       "color": "استارلایت",
       "priceUnregistered": 353300000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19734,
@@ -1250,7 +1332,8 @@
       "color": "آبی آسمانی",
       "priceUnregistered": 353300000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19731,
@@ -1265,7 +1348,8 @@
       "color": "استارلایت",
       "priceUnregistered": 366800000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19723,
@@ -1280,7 +1364,8 @@
       "color": "استارلایت",
       "priceUnregistered": 438800000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19723,
@@ -1295,7 +1380,8 @@
       "color": "آبی آسمانی",
       "priceUnregistered": 438800000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19723,
@@ -1310,7 +1396,8 @@
       "color": "میدنایت",
       "priceUnregistered": 438800000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19718,
@@ -1325,7 +1412,8 @@
       "color": "استارلایت",
       "priceUnregistered": 360900000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19718,
@@ -1340,7 +1428,8 @@
       "color": "نقره‌ای",
       "priceUnregistered": 360900000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19718,
@@ -1355,7 +1444,8 @@
       "color": "میدنایت",
       "priceUnregistered": 360900000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19713,
@@ -1370,7 +1460,8 @@
       "color": "استارلایت",
       "priceUnregistered": 312800000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19713,
@@ -1385,7 +1476,8 @@
       "color": "آبی آسمانی",
       "priceUnregistered": 311900000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19713,
@@ -1400,7 +1492,8 @@
       "color": "نقره‌ای",
       "priceUnregistered": 318000000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19713,
@@ -1415,7 +1508,8 @@
       "color": "میدنایت",
       "priceUnregistered": 311900000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19709,
@@ -1430,7 +1524,8 @@
       "color": "نقره‌ای",
       "priceUnregistered": 625800000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19707,
@@ -1445,7 +1540,8 @@
       "color": "نقره‌ای",
       "priceUnregistered": 601700000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19703,
@@ -1460,7 +1556,8 @@
       "color": "نقره‌ای",
       "priceUnregistered": 227300000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19688,
@@ -1476,7 +1573,8 @@
       "color": "White Titanium",
       "priceUnregistered": 249800000,
       "priceRegistered": null,
-      "isPhone": true
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
     },
     {
       "id": 19688,
@@ -1492,7 +1590,8 @@
       "color": "Black Titanium",
       "priceUnregistered": 249800000,
       "priceRegistered": null,
-      "isPhone": true
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
     },
     {
       "id": 19684,
@@ -1506,7 +1605,8 @@
       "color": "Gold",
       "priceUnregistered": 182300000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19680,
@@ -1520,7 +1620,8 @@
       "color": "Slate",
       "priceUnregistered": 191300000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19680,
@@ -1534,7 +1635,8 @@
       "color": "Gold",
       "priceUnregistered": 191300000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19658,
@@ -1549,7 +1651,8 @@
       "color": "Titanium Jetblack",
       "priceUnregistered": 281300000,
       "priceRegistered": null,
-      "isPhone": true
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
     },
     {
       "id": 19658,
@@ -1564,7 +1667,8 @@
       "color": "Titanium Silverblue",
       "priceUnregistered": 281300000,
       "priceRegistered": null,
-      "isPhone": true
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
     },
     {
       "id": 19658,
@@ -1579,7 +1683,8 @@
       "color": "Titanium Gray",
       "priceUnregistered": 238500000,
       "priceRegistered": null,
-      "isPhone": true
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
     },
     {
       "id": 19658,
@@ -1594,7 +1699,8 @@
       "color": "Titanium Black",
       "priceUnregistered": 238500000,
       "priceRegistered": null,
-      "isPhone": true
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
     },
     {
       "id": 19658,
@@ -1609,7 +1715,8 @@
       "color": "Titanium Whitesilver",
       "priceUnregistered": 238500000,
       "priceRegistered": null,
-      "isPhone": true
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
     },
     {
       "id": 19655,
@@ -1624,7 +1731,8 @@
       "color": "Titanium Silverblue",
       "priceUnregistered": 182300000,
       "priceRegistered": null,
-      "isPhone": true
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
     },
     {
       "id": 19643,
@@ -1638,7 +1746,8 @@
       "color": "Black",
       "priceUnregistered": 90000000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19636,
@@ -1652,7 +1761,8 @@
       "color": "White",
       "priceUnregistered": 29300000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19636,
@@ -1666,7 +1776,8 @@
       "color": "Black",
       "priceUnregistered": 29300000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19574,
@@ -1681,7 +1792,8 @@
       "color": "Soft Pink",
       "priceUnregistered": 144000000,
       "priceRegistered": null,
-      "isPhone": true
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
     },
     {
       "id": 19574,
@@ -1696,7 +1808,8 @@
       "color": "White",
       "priceUnregistered": 144000000,
       "priceRegistered": null,
-      "isPhone": true
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
     },
     {
       "id": 19567,
@@ -1711,7 +1824,8 @@
       "color": "Sky Blue",
       "priceUnregistered": 310500000,
       "priceRegistered": null,
-      "isPhone": true
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
     },
     {
       "id": 19553,
@@ -1726,7 +1840,8 @@
       "color": "White",
       "priceUnregistered": 270000000,
       "priceRegistered": null,
-      "isPhone": true
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
     },
     {
       "id": 19553,
@@ -1741,7 +1856,8 @@
       "color": "Sky Blue",
       "priceUnregistered": 259900000,
       "priceRegistered": null,
-      "isPhone": true
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
     },
     {
       "id": 19553,
@@ -1756,7 +1872,8 @@
       "color": "Cobalt Violet",
       "priceUnregistered": 259900000,
       "priceRegistered": null,
-      "isPhone": true
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
     },
     {
       "id": 19553,
@@ -1771,7 +1888,8 @@
       "color": "Black",
       "priceUnregistered": 259900000,
       "priceRegistered": null,
-      "isPhone": true
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
     },
     {
       "id": 19525,
@@ -1785,7 +1903,8 @@
       "color": "گارانتی سلامت و اصالت کالا، فعال نشده (NotActive)",
       "priceUnregistered": 54000000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19498,
@@ -1800,7 +1919,8 @@
       "color": "بنفش",
       "priceUnregistered": 198000000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19498,
@@ -1815,7 +1935,8 @@
       "color": "آبی",
       "priceUnregistered": 198000000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19498,
@@ -1830,7 +1951,8 @@
       "color": "استارلایت",
       "priceUnregistered": 198000000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19498,
@@ -1845,7 +1967,8 @@
       "color": "خاکستری",
       "priceUnregistered": 198000000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19493,
@@ -1860,7 +1983,8 @@
       "color": "بنفش",
       "priceUnregistered": 171000000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19493,
@@ -1875,7 +1999,8 @@
       "color": "آبی",
       "priceUnregistered": 171000000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19493,
@@ -1890,7 +2015,8 @@
       "color": "استارلایت",
       "priceUnregistered": 171000000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19493,
@@ -1905,7 +2031,8 @@
       "color": "خاکستری",
       "priceUnregistered": 171000000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19488,
@@ -1920,7 +2047,8 @@
       "color": "صورتی",
       "priceUnregistered": 126000000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19488,
@@ -1935,7 +2063,8 @@
       "color": "زرد",
       "priceUnregistered": 126000000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19488,
@@ -1950,7 +2079,8 @@
       "color": "نقره‌ای",
       "priceUnregistered": 126000000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19488,
@@ -1965,7 +2095,8 @@
       "color": "آبی",
       "priceUnregistered": 126000000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19483,
@@ -1980,7 +2111,8 @@
       "color": "صورتی",
       "priceUnregistered": 103500000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19483,
@@ -1995,7 +2127,8 @@
       "color": "زرد",
       "priceUnregistered": 103500000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19483,
@@ -2010,7 +2143,8 @@
       "color": "نقره‌ای",
       "priceUnregistered": 103500000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19483,
@@ -2025,7 +2159,8 @@
       "color": "آبی",
       "priceUnregistered": 103500000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19469,
@@ -2040,7 +2175,8 @@
       "color": "نقره‌ای",
       "priceUnregistered": 366800000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19469,
@@ -2055,7 +2191,8 @@
       "color": "مشکی",
       "priceUnregistered": 366800000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19465,
@@ -2070,7 +2207,8 @@
       "color": "مشکی",
       "priceUnregistered": 303800000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19462,
@@ -2085,7 +2223,8 @@
       "color": "نقره‌ای",
       "priceUnregistered": 315000000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19462,
@@ -2100,7 +2239,8 @@
       "color": "مشکی",
       "priceUnregistered": 315000000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19460,
@@ -2115,7 +2255,8 @@
       "color": "نقره‌ای",
       "priceUnregistered": 270000000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19460,
@@ -2130,7 +2271,8 @@
       "color": "مشکی",
       "priceUnregistered": 270000000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19435,
@@ -2144,7 +2286,8 @@
       "color": "Starlight",
       "priceUnregistered": 69800000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19435,
@@ -2158,7 +2301,8 @@
       "color": "Midnight",
       "priceUnregistered": 69800000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19432,
@@ -2172,7 +2316,8 @@
       "color": "Starlight",
       "priceUnregistered": 74300000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19432,
@@ -2186,7 +2331,8 @@
       "color": "Midnight",
       "priceUnregistered": 74300000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19428,
@@ -2200,7 +2346,8 @@
       "color": "Rose Gold",
       "priceUnregistered": 90000000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19428,
@@ -2214,7 +2361,8 @@
       "color": "Silver",
       "priceUnregistered": 90000000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19428,
@@ -2228,7 +2376,8 @@
       "color": "Space Gray",
       "priceUnregistered": 90000000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19428,
@@ -2242,7 +2391,8 @@
       "color": "Jet Black",
       "priceUnregistered": 90000000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19425,
@@ -2256,7 +2406,8 @@
       "color": "Silver",
       "priceUnregistered": 90000000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19425,
@@ -2270,7 +2421,8 @@
       "color": "Space Gray",
       "priceUnregistered": 90000000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19425,
@@ -2284,7 +2436,8 @@
       "color": "Rose Gold",
       "priceUnregistered": 90000000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19425,
@@ -2298,7 +2451,8 @@
       "color": "Jet Black",
       "priceUnregistered": 90000000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19423,
@@ -2312,7 +2466,8 @@
       "color": "Black Titanium",
       "priceUnregistered": 172200000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 19395,
@@ -2327,7 +2482,8 @@
       "color": "Black",
       "priceUnregistered": 166500000,
       "priceRegistered": null,
-      "isPhone": true
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
     },
     {
       "id": 18472,
@@ -2343,7 +2499,8 @@
       "color": "White",
       "priceUnregistered": 198000000,
       "priceRegistered": null,
-      "isPhone": true
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
     },
     {
       "id": 18472,
@@ -2359,7 +2516,8 @@
       "color": "Sage",
       "priceUnregistered": 198000000,
       "priceRegistered": null,
-      "isPhone": true
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
     },
     {
       "id": 18472,
@@ -2375,7 +2533,8 @@
       "color": "Mist Blue",
       "priceUnregistered": 198000000,
       "priceRegistered": null,
-      "isPhone": true
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
     },
     {
       "id": 18472,
@@ -2391,7 +2550,8 @@
       "color": "Lavender",
       "priceUnregistered": 198000000,
       "priceRegistered": null,
-      "isPhone": true
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
     },
     {
       "id": 18472,
@@ -2407,7 +2567,8 @@
       "color": "Black",
       "priceUnregistered": 198000000,
       "priceRegistered": null,
-      "isPhone": true
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
     },
     {
       "id": 18438,
@@ -2422,7 +2583,8 @@
       "color": "White",
       "priceUnregistered": 209300000,
       "priceRegistered": null,
-      "isPhone": true
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
     },
     {
       "id": 18438,
@@ -2437,7 +2599,8 @@
       "color": "Sky Blue",
       "priceUnregistered": 209300000,
       "priceRegistered": null,
-      "isPhone": true
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
     },
     {
       "id": 18438,
@@ -2452,7 +2615,8 @@
       "color": "Cobalt Violet",
       "priceUnregistered": 204800000,
       "priceRegistered": null,
-      "isPhone": true
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
     },
     {
       "id": 18438,
@@ -2467,7 +2631,8 @@
       "color": "Black",
       "priceUnregistered": 211500000,
       "priceRegistered": null,
-      "isPhone": true
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
     },
     {
       "id": 18136,
@@ -2484,7 +2649,8 @@
       "color": "Silver",
       "priceUnregistered": 276800000,
       "priceRegistered": null,
-      "isPhone": true
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
     },
     {
       "id": 18136,
@@ -2501,7 +2667,8 @@
       "color": "Deep Blue",
       "priceUnregistered": 279000000,
       "priceRegistered": null,
-      "isPhone": true
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
     },
     {
       "id": 18136,
@@ -2518,7 +2685,8 @@
       "color": "Cosmic Orange",
       "priceUnregistered": 279000000,
       "priceRegistered": null,
-      "isPhone": true
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
     },
     {
       "id": 18060,
@@ -2534,7 +2702,8 @@
       "color": "Lavender",
       "priceUnregistered": 220500000,
       "priceRegistered": null,
-      "isPhone": true
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
     },
     {
       "id": 18053,
@@ -2550,7 +2719,8 @@
       "color": "White",
       "priceUnregistered": 209300000,
       "priceRegistered": null,
-      "isPhone": true
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
     },
     {
       "id": 18053,
@@ -2566,7 +2736,8 @@
       "color": "Sage",
       "priceUnregistered": 209300000,
       "priceRegistered": null,
-      "isPhone": true
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
     },
     {
       "id": 18053,
@@ -2582,7 +2753,8 @@
       "color": "Mist Blue",
       "priceUnregistered": 209300000,
       "priceRegistered": null,
-      "isPhone": true
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
     },
     {
       "id": 18053,
@@ -2598,7 +2770,8 @@
       "color": "Lavender",
       "priceUnregistered": 209300000,
       "priceRegistered": null,
-      "isPhone": true
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
     },
     {
       "id": 18053,
@@ -2614,7 +2787,8 @@
       "color": "Black",
       "priceUnregistered": 209300000,
       "priceRegistered": null,
-      "isPhone": true
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
     },
     {
       "id": 17977,
@@ -2630,7 +2804,8 @@
       "color": "Silver",
       "priceUnregistered": 301500000,
       "priceRegistered": null,
-      "isPhone": true
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
     },
     {
       "id": 17977,
@@ -2646,7 +2821,8 @@
       "color": "Cosmic Orange",
       "priceUnregistered": 285800000,
       "priceRegistered": null,
-      "isPhone": true
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
     },
     {
       "id": 17929,
@@ -2662,7 +2838,8 @@
       "color": "Deep Blue",
       "priceUnregistered": 405000000,
       "priceRegistered": null,
-      "isPhone": true
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
     },
     {
       "id": 17929,
@@ -2678,7 +2855,8 @@
       "color": "Cosmic Orange",
       "priceUnregistered": 405000000,
       "priceRegistered": null,
-      "isPhone": true
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
     },
     {
       "id": 17915,
@@ -2694,7 +2872,8 @@
       "color": "Cosmic Orange",
       "priceUnregistered": 382500000,
       "priceRegistered": null,
-      "isPhone": true
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
     },
     {
       "id": 17910,
@@ -2710,7 +2889,8 @@
       "color": "Silver",
       "priceUnregistered": 326300000,
       "priceRegistered": null,
-      "isPhone": true
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
     },
     {
       "id": 17910,
@@ -2726,7 +2906,8 @@
       "color": "Deep Blue",
       "priceUnregistered": 319500000,
       "priceRegistered": null,
-      "isPhone": true
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
     },
     {
       "id": 17910,
@@ -2742,7 +2923,8 @@
       "color": "Cosmic Orange",
       "priceUnregistered": 310500000,
       "priceRegistered": null,
-      "isPhone": true
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
     },
     {
       "id": 17885,
@@ -2758,7 +2940,8 @@
       "color": "Cosmic Orange",
       "priceUnregistered": 346500000,
       "priceRegistered": null,
-      "isPhone": true
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
     },
     {
       "id": 17548,
@@ -2775,7 +2958,8 @@
       "color": "Pink",
       "priceUnregistered": 74300000,
       "priceRegistered": null,
-      "isPhone": true
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
     },
     {
       "id": 17402,
@@ -2789,7 +2973,8 @@
       "color": "—",
       "priceUnregistered": 300000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 17393,
@@ -2803,7 +2988,8 @@
       "color": "—",
       "priceUnregistered": null,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 17295,
@@ -2817,7 +3003,8 @@
       "color": "—",
       "priceUnregistered": 3465000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 17294,
@@ -2831,7 +3018,8 @@
       "color": "White",
       "priceUnregistered": 110300000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 17294,
@@ -2845,7 +3033,8 @@
       "color": "White",
       "priceUnregistered": 94500000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 17294,
@@ -2859,7 +3048,8 @@
       "color": "Black",
       "priceUnregistered": 94500000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 17294,
@@ -2873,7 +3063,8 @@
       "color": "Black",
       "priceUnregistered": 110300000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 17293,
@@ -2887,7 +3078,8 @@
       "color": "White",
       "priceUnregistered": 87800000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 17293,
@@ -2901,7 +3093,8 @@
       "color": "Black",
       "priceUnregistered": 87800000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 17291,
@@ -2915,7 +3108,8 @@
       "color": "گارانتی سلامت و اصالت کالا + 7 روز مهلت تست",
       "priceUnregistered": 27000000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 17289,
@@ -2929,7 +3123,8 @@
       "color": "گارانتی سلامت و اصالت کالا، فعال نشده (NotActive)",
       "priceUnregistered": 33800000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 17188,
@@ -2943,7 +3138,8 @@
       "color": "گارانتی سلامت و اصالت کالا، فعال نشده (NotActive)",
       "priceUnregistered": 47300000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 17181,
@@ -2957,7 +3153,8 @@
       "color": "گارانتی سلامت و اصالت کالا + 7 روز مهلت تست",
       "priceUnregistered": 33800000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     },
     {
       "id": 17118,
@@ -2971,7 +3168,8 @@
       "color": "گارانتی سلامت و اصالت کالا + 7 روز مهلت تست",
       "priceUnregistered": 49500000,
       "priceRegistered": null,
-      "isPhone": false
+      "isPhone": false,
+      "registryStatus": null
     }
   ]
 }
