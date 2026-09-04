@@ -87,27 +87,31 @@ function isPhone(product) {
   return /آیفون|سامسونگ|گلکسی|iphone|galaxy|samsung/i.test(cats + " " + name);
 }
 
-// آیا نام محصول نشان‌دهندهٔ «رجیستر شده» است؟
-function isRegisteredByName(name) {
-  return /رجیستر\s*شده/.test(name || "");
+// خواندن وضعیت رجیستر از attribute مخفی pa_registry (منبع دقیق)
+function getRegistryStatus(product) {
+  if (!Array.isArray(product.attributes)) return null;
+  const attr = product.attributes.find((a) => a.slug === "pa_registry" || a.name === "رجیستری");
+  if (!attr) return null;
+  const opts = Array.isArray(attr.options) ? attr.options.join(" ") : String(attr.options || "");
+  if (!opts) return null;
+  if (opts.includes("بدون")) return "بدون رجیستر";
+  if (opts.includes("رجیستر")) return "رجیستر شده";
+  return opts;
 }
 
 // استخراج رنگ خالص از نام واریشنِ REST مدیریتی
-// نام واریشن رنگ به‌صورت attribute جداست؛ اما گاهی گارانتی و رنگ با هم می‌آیند.
+// نام واریشن رنگ به‌صورت attribute جداست؛اما گاهی گارانتی و رنگ با هم می‌آیند.
 function colorFromVariation(variation) {
   if (!Array.isArray(variation.attributes)) return "نامشخص";
-  // دنبال attribute رنگ می‌گردیم
   const colorAttr = variation.attributes.find(
     (a) => (a.name && a.name.includes("رنگ")) || (a.slug && a.slug === "pa_color")
   );
   if (colorAttr && colorAttr.option) return colorAttr.option;
-  // اگر پیدا نشد، از ترکیب attributeها بخش بعد از آخرین اسلش را برداریم
   const joined = variation.attributes.map((a) => a.option).filter(Boolean).join("/");
   if (joined.includes("/")) return joined.split("/").pop().trim();
   return joined || "نامشخص";
 }
 
-// نرمال‌سازی رنگ برای تطبیق بین بدون‌رجیستر و رجیستر
 function normColor(c) {
   return (c || "").toLowerCase().replace(/\s+/g, "").trim();
 }
@@ -132,10 +136,8 @@ async function main() {
   const products = await fetchAllProducts();
   console.log(`تعداد کل محصولات: ${products.length}`);
 
-  // نگاشت id → product برای دسترسی سریع به جفت‌ها
   const byId = new Map(products.map((p) => [p.id, p]));
 
-  // کش واریشن‌ها تا محصول جفت را دوبار نخوانیم
   const variationsCache = new Map();
   async function getVars(id) {
     if (variationsCache.has(id)) return variationsCache.get(id);
@@ -148,29 +150,24 @@ async function main() {
 
   for (const product of products) {
     const phone = isPhone(product);
-    const registeredByName = isRegisteredByName(product.name);
+    const registryStatus = getRegistryStatus(product);
+    const isRegistered = registryStatus === "رجیستر شده";
 
-    // محور کارت = محصول بدون‌رجیستر (یا محصولات غیرگوشی).
-    // محصولات گوشیِ «رجیسترشده» را به‌عنوان محور نمی‌گیریم؛ آن‌ها از طریق
-    // جفتِ بدون‌رجیسترشان به کارت اضافه می‌شوند.
-    if (phone && registeredByName) continue;
+    if (phone && isRegistered) continue;
 
     const info = baseInfo(product);
     const regPairId = phone ? num(getMeta(product, "_nolix_reg_pair")) : null;
 
-    // واریشن‌های خودِ محصول (بدون‌رجیستر)
     let ownVariations = [];
     if (product.type === "variable") {
       if (product.stock_status !== "instock") continue;
       ownVariations = await getVars(product.id);
     }
 
-    // واریشن‌های جفت رجیستر (اگر وجود دارد) برای گرفتن قیمت رجیستر هر رنگ
     let regVariations = [];
     if (regPairId && byId.has(regPairId)) {
       regVariations = await getVars(regPairId);
     }
-    // نگاشت رنگ → قیمت رجیستر
     const regPriceByColor = new Map();
     for (const rv of regVariations) {
       if (rv.stock_status !== "instock") continue;
@@ -188,12 +185,12 @@ async function main() {
           variationId: v.id,
           color,
           priceUnregistered: num(v.price),
-          priceRegistered: regPrice, // ممکن است null باشد اگر جفت/رنگ موجود نبود
+          priceRegistered: regPrice,
           isPhone: phone,
+          registryStatus: registryStatus || null,
         });
       }
     } else {
-      // محصول ساده (غیرگوشی معمولاً)
       if (product.stock_status !== "instock") continue;
       records.push({
         ...info,
@@ -202,6 +199,7 @@ async function main() {
         priceUnregistered: num(product.price),
         priceRegistered: null,
         isPhone: phone,
+        registryStatus: registryStatus || null,
       });
     }
   }
