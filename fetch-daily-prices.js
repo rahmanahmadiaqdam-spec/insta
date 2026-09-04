@@ -1,18 +1,19 @@
 /**
- * fetch-daily-prices.js  (نسخهٔ ۳ — روش دقیق: قیمت/موجودی هر رنگ جداگانه)
+ * fetch-daily-prices.js  (نسخهٔ ۴ — نهایی: جفت رجیستر/بدون‌رجیستر از پلاگین Nolix)
  * ----------------------------------------------------------------
- * منطق:
- *   ۱) فهرست کامل محصولات را از Store API عمومی می‌گیریم
- *      (نام، تصویر، وضعیت رجیستر، نوع محصول). بدون احراز هویت.
- *   ۲) برای هر محصولِ «متغیر»، جزئیات واریشن‌ها (قیمت و موجودیِ
- *      هر رنگ) را از REST API مدیریتی wc/v3 با کلید Read می‌خوانیم.
- *   ۳) فقط رنگ‌های «موجود» را نگه می‌داریم و بر اساس وضعیت رجیستر
- *      (رجیستر/بدون رجیستر) دسته‌بندی می‌کنیم.
- *
- * متغیرهای محیطی موردنیاز (به‌صورت GitHub Secrets):
- *   WC_BASE_URL         مثلاً https://nolix.ir
- *   WC_CONSUMER_KEY     کلید Read که ساختید (ck_...)
- *   WC_CONSUMER_SECRET  رمز Read که ساختید (cs_...)
+ * منطق نهایی:
+ *   ۱) همهٔ محصولات را از REST API مدیریتی (wc/v3) با meta می‌خوانیم.
+ *   ۲) «گوشی بودن» را از روی دسته‌بندی تشخیص می‌دهیم (آیفون/سامسونگ|گلکسی).
+ *      فقط برای گوشی‌ها بحث رجیستر مطرح است.
+ *   ۳) «رجیستر شده» را از انتهای نام محصول می‌خوانیم؛ محصولاتی که در
+ *      نامشان «رجیستر شده» ندارند، نسخهٔ بدون‌رجیستر (محور) هستند.
+ *   ۴) محور هر کارت = محصول بدون‌رجیستر. اگر meta آن کلید
+ *      _nolix_reg_pair را داشته باشد، شناسهٔ محصول رجیسترِ متناظر است؛
+ *      قیمت رجیستر هر رنگ را از همان رنگ در آن محصول می‌خوانیم.
+ *   ۵) قیمت و موجودی هر رنگ از واریشن‌ها می‌آید. رنگِ خالص را از بخش
+ *      بعد از «/» در نام واریشن استخراج می‌کنیم (چون گارانتی هم در
+ *      نام واریشن هست: «گارانتی...NotActive/White»).
+ *   ۶) فقط رنگ‌های موجود (instock) نگه داشته می‌شوند.
  * ----------------------------------------------------------------
  */
 
@@ -25,37 +26,22 @@ const CONSUMER_SECRET = process.env.WC_CONSUMER_SECRET;
 const OUTPUT_PATH = process.env.OUTPUT_PATH || path.join(__dirname, "data", "daily-prices.json");
 const PER_PAGE = 100;
 
-const TAX_REGISTER = "pa_registry";
-const TAX_COLOR = "pa_color";
-
 if (!CONSUMER_KEY || !CONSUMER_SECRET) {
   console.error("خطا: WC_CONSUMER_KEY و WC_CONSUMER_SECRET باید تنظیم شده باشند.");
   process.exit(1);
 }
 
-// ---------- Store API عمومی (بدون احراز هویت) ----------
-async function storeApiFetch(pathAndQuery) {
-  const url = `${BASE_URL}/wp-json/wc/store/v1${pathAndQuery}`;
-  const res = await fetch(url);
-  if (!res.ok) {
-    const body = await res.text().catch(() => "");
-    throw new Error(`Store API خطا در ${pathAndQuery}: ${res.status}\n${body}`);
-  }
-  return res.json();
-}
-
-// ---------- REST API مدیریتی (با کلید Read) ----------
-function adminAuthHeader() {
+function authHeader() {
   const token = Buffer.from(`${CONSUMER_KEY}:${CONSUMER_SECRET}`).toString("base64");
   return { Authorization: `Basic ${token}` };
 }
 
-async function adminApiFetch(pathAndQuery) {
+async function api(pathAndQuery) {
   const url = `${BASE_URL}/wp-json/wc/v3${pathAndQuery}`;
-  const res = await fetch(url, { headers: adminAuthHeader() });
+  const res = await fetch(url, { headers: authHeader() });
   if (!res.ok) {
     const body = await res.text().catch(() => "");
-    throw new Error(`Admin API خطا در ${pathAndQuery}: ${res.status}\n${body}`);
+    throw new Error(`API خطا در ${pathAndQuery}: ${res.status}\n${body.slice(0, 300)}`);
   }
   return res.json();
 }
@@ -65,7 +51,7 @@ async function fetchAllProducts() {
   const all = [];
   // eslint-disable-next-line no-constant-condition
   while (true) {
-    const batch = await storeApiFetch(`/products?per_page=${PER_PAGE}&page=${page}`);
+    const batch = await api(`/products?status=publish&per_page=${PER_PAGE}&page=${page}`);
     if (!Array.isArray(batch) || batch.length === 0) break;
     all.push(...batch);
     if (batch.length < PER_PAGE) break;
@@ -74,15 +60,12 @@ async function fetchAllProducts() {
   return all;
 }
 
-// خواندن واریشن‌های یک محصول متغیر از REST مدیریتی (قیمت و موجودی هر رنگ)
 async function fetchVariations(productId) {
   let page = 1;
   const all = [];
   // eslint-disable-next-line no-constant-condition
   while (true) {
-    const batch = await adminApiFetch(
-      `/products/${productId}/variations?per_page=${PER_PAGE}&page=${page}`
-    );
+    const batch = await api(`/products/${productId}/variations?per_page=${PER_PAGE}&page=${page}`);
     if (!Array.isArray(batch) || batch.length === 0) break;
     all.push(...batch);
     if (batch.length < PER_PAGE) break;
@@ -91,28 +74,47 @@ async function fetchVariations(productId) {
   return all;
 }
 
-function getAttributeTerms(product, taxonomy) {
-  if (!Array.isArray(product.attributes)) return [];
-  const attr = product.attributes.find((a) => a.taxonomy === taxonomy);
-  if (!attr || !Array.isArray(attr.terms)) return [];
-  return attr.terms.map((t) => t.name);
+function getMeta(product, key) {
+  if (!Array.isArray(product.meta_data)) return null;
+  const m = product.meta_data.find((x) => x.key === key);
+  return m ? m.value : null;
 }
 
-function normalizeRegisterStatus(names) {
-  const joined = names.join(" ");
-  if (!joined) return "نامشخص";
-  if (joined.includes("بدون")) return "بدون رجیستر";
-  if (joined.includes("رجیستر")) return "رجیستر شده";
-  return joined;
+// آیا این محصول «گوشی» است؟ (فقط گوشی‌ها بحث رجیستر دارند)
+function isPhone(product) {
+  const cats = (product.categories || []).map((c) => c.name).join(" ");
+  const name = product.name || "";
+  return /آیفون|سامسونگ|گلکسی|iphone|galaxy|samsung/i.test(cats + " " + name);
 }
 
-// از آرایهٔ attributes یک واریشنِ REST مدیریتی، مقدار رنگرا می‌گیریم
+// آیا نام محصول نشان‌دهندهٔ «رجیستر شده» است؟
+function isRegisteredByName(name) {
+  return /رجیستر\s*شده/.test(name || "");
+}
+
+// استخراج رنگ خالص از نام واریشنِ REST مدیریتی
+// نام واریشن رنگ به‌صورت attribute جداست؛ اما گاهی گارانتی و رنگ با هم می‌آیند.
 function colorFromVariation(variation) {
   if (!Array.isArray(variation.attributes)) return "نامشخص";
+  // دنبال attribute رنگ می‌گردیم
   const colorAttr = variation.attributes.find(
-    (a) => (a.name && a.name.includes("رنگ")) || a.slug === TAX_COLOR
+    (a) => (a.name && a.name.includes("رنگ")) || (a.slug && a.slug === "pa_color")
   );
-  return colorAttr && colorAttr.option ? colorAttr.option : "نامشخص";
+  if (colorAttr && colorAttr.option) return colorAttr.option;
+  // اگر پیدا نشد، از ترکیب attributeها بخش بعد از آخرین اسلش را برداریم
+  const joined = variation.attributes.map((a) => a.option).filter(Boolean).join("/");
+  if (joined.includes("/")) return joined.split("/").pop().trim();
+  return joined || "نامشخص";
+}
+
+// نرمال‌سازی رنگ برای تطبیق بین بدون‌رجیستر و رجیستر
+function normColor(c) {
+  return (c || "").toLowerCase().replace(/\s+/g, "").trim();
+}
+
+function num(v) {
+  const n = Number(v);
+  return v && !Number.isNaN(n) ? n : null;
 }
 
 function baseInfo(product) {
@@ -126,65 +128,97 @@ function baseInfo(product) {
 }
 
 async function main() {
-  console.log(`در حال خواندن کاتالوگ از ${BASE_URL} ...`);
+  console.log(`در حال خواندن کاتالوگ (با meta) از ${BASE_URL} ...`);
   const products = await fetchAllProducts();
-  console.log(`تعداد کل محصولات دریافت‌شده: ${products.length}`);
+  console.log(`تعداد کل محصولات: ${products.length}`);
+
+  // نگاشت id → product برای دسترسی سریع به جفت‌ها
+  const byId = new Map(products.map((p) => [p.id, p]));
+
+  // کش واریشن‌ها تا محصول جفت را دوبار نخوانیم
+  const variationsCache = new Map();
+  async function getVars(id) {
+    if (variationsCache.has(id)) return variationsCache.get(id);
+    const v = await fetchVariations(id);
+    variationsCache.set(id, v);
+    return v;
+  }
 
   const records = [];
-  let variableCount = 0;
 
   for (const product of products) {
-    const registerStatus = normalizeRegisterStatus(getAttributeTerms(product, TAX_REGISTER));
+    const phone = isPhone(product);
+    const registeredByName = isRegisteredByName(product.name);
+
+    // محور کارت = محصول بدون‌رجیستر (یا محصولات غیرگوشی).
+    // محصولات گوشیِ «رجیسترشده» را به‌عنوان محور نمی‌گیریم؛ آن‌ها از طریق
+    // جفتِ بدون‌رجیسترشان به کارت اضافه می‌شوند.
+    if (phone && registeredByName) continue;
+
     const info = baseInfo(product);
+    const regPairId = phone ? num(getMeta(product, "_nolix_reg_pair")) : null;
+
+    // واریشن‌های خودِ محصول (بدون‌رجیستر)
+    let ownVariations = [];
+    if (product.type === "variable") {
+      if (!product.is_in_stock) continue;
+      ownVariations = await getVars(product.id);
+    }
+
+    // واریشن‌های جفت رجیستر (اگر وجود دارد) برای گرفتن قیمت رجیستر هر رنگ
+    let regVariations = [];
+    if (regPairId && byId.has(regPairId)) {
+      regVariations = await getVars(regPairId);
+    }
+    // نگاشت رنگ → قیمت رجیستر
+    const regPriceByColor = new Map();
+    for (const rv of regVariations) {
+      if (rv.stock_status !== "instock") continue;
+      const c = normColor(colorFromVariation(rv));
+      if (c && !regPriceByColor.has(c)) regPriceByColor.set(c, num(rv.price));
+    }
 
     if (product.type === "variable") {
-      // فقط اگر محصولِ والد اصلاً موجود است، سراغ واریشن‌ها می‌رویم
-      if (!product.is_in_stock) continue;
-      variableCount += 1;
-      const variations = await fetchVariations(product.id);
-      for (const v of variations) {
-        // فقط رنگ‌های موجود
+      for (const v of ownVariations) {
         if (v.stock_status !== "instock") continue;
+        const color = colorFromVariation(v);
+        const regPrice = regPriceByColor.get(normColor(color)) || null;
         records.push({
           ...info,
           variationId: v.id,
-          color: colorFromVariation(v),
-          price: v.price ? Number(v.price) : null,
-          stockStatus: v.stock_status,
-          registerStatus,
+          color,
+          priceUnregistered: num(v.price),
+          priceRegistered: regPrice,
+          isPhone: phone,
         });
       }
     } else {
-      // محصول ساده
       if (!product.is_in_stock) continue;
-      const colorTerms = getAttributeTerms(product, TAX_COLOR);
       records.push({
         ...info,
         variationId: null,
-        color: colorTerms.length ? colorTerms.join(" / ") : "نامشخص",
-        price: product.prices && product.prices.price ? Number(product.prices.price) : null,
-        stockStatus: "instock",
-        registerStatus,
+        color: "—",
+        priceUnregistered: num(product.price),
+        priceRegistered: null,
+        isPhone: phone,
       });
     }
   }
 
-  console.log(`تعداد محصولات متعیرِ موجود که واریشن‌هایشان خوانده شد: ${variableCount}`);
+  const withDual = records.filter((r) => r.priceRegistered != null).length;
 
   const grouped = {
     generatedAt: new Date().toISOString(),
     sourceBaseUrl: BASE_URL,
     totalItems: records.length,
-    registered: records.filter((r) => r.registerStatus === "رجیستر شده"),
-    unregistered: records.filter((r) => r.registerStatus !== "رجیستر شده"),
+    itemsWithDualPrice: withDual,
+    items: records,
   };
 
   fs.mkdirSync(path.dirname(OUTPUT_PATH), { recursive: true });
   fs.writeFileSync(OUTPUT_PATH, JSON.stringify(grouped, null, 2), "utf-8");
   console.log(`خروجی ذخیره شد در: ${OUTPUT_PATH}`);
-  console.log(
-    `کل موارد موجود: ${records.length} | رجیستر شده: ${grouped.registered.length} | بدون رجیستر: ${grouped.unregistered.length}`
-  );
+  console.log(`کل موارد موجود: ${records.length} | دارای دو قیمت (رجیستر+بدون): ${withDual}`);
 }
 
 main().catch((err) => {
