@@ -153,7 +153,7 @@ async function main() {
     const registryStatus = getRegistryStatus(product);
     const isRegistered = registryStatus === "رجیستر شده";
 
-    if (phone && isRegistered) continue;
+            // [interp-A] removed: registered phones are no longer skipped, so each registered color becomes its own item.
 
     const info = baseInfo(product);
     const regPairId = phone ? num(getMeta(product, "_nolix_reg_pair")) : null;
