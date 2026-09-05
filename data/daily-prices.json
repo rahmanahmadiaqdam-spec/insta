@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-04T20:11:59.874Z",
+  "generatedAt": "2026-09-05T11:43:10.292Z",
   "sourceBaseUrl": "https://nolix.ir",
-  "totalItems": 198,
-  "itemsWithDualPrice": 2,
+  "totalItems": 193,
+  "itemsWithDualPrice": 3,
   "items": [
     {
       "id": 20649,
@@ -30,6 +30,22 @@
       "variationId": null,
       "color": "—",
       "priceUnregistered": 41700000,
+      "priceRegistered": null,
+      "isPhone": false,
+      "registryStatus": null
+    },
+    {
+      "id": 20643,
+      "name": "آیپد پرو M5 ۱۳ اینچ ۲ ترابایت Wi-Fi + سلولار مشکی آکبند ۲۰۲۵",
+      "permalink": "https://nolix.ir/product/%d8%a2%db%8c%d9%be%d8%af-%d9%be%d8%b1%d9%88-m5-%db%b1%db%b3-%d8%a7%db%8c%d9%86%da%86-%db%b2-%d8%aa%d8%b1%d8%a7%d8%a8%d8%a7%db%8c%d8%aa-wi-fi-%d8%b3%d9%84%d9%88%d9%84%d8%a7%d8%b1-%d9%85%d8%b4%da%a9/",
+      "image": "https://nolix.ir/wp-content/uploads/2026/06/ipad-pro-black-front-nolix.jpg",
+      "categories": [
+        "آیپد",
+        "آیپد پرو"
+      ],
+      "variationId": 20645,
+      "color": "نقره‌ای",
+      "priceUnregistered": 416300000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -92,27 +108,10 @@
         "آیفون 17 ایر",
         "آیفون 17 eSIM"
       ],
-      "variationId": 20622,
-      "color": "Sky Blue",
-      "priceUnregistered": 209300000,
-      "priceRegistered": null,
-      "isPhone": true,
-      "registryStatus": "بدون رجیستر"
-    },
-    {
-      "id": 20618,
-      "name": "آیفون 17 ایر نات اکتیو eSIM حافظه 256 گیگابایت پارت نامبر عربی AHA بدون رجیستری",
-      "permalink": "https://nolix.ir/product/%d8%a2%db%8c%d9%81%d9%88%d9%86-17-%d8%a7%db%8c%d8%b1-%d9%86%d8%a7%d8%aa-%d8%a7%da%a9%d8%aa%db%8c%d9%88-esim-%d8%ad%d8%a7%d9%81%d8%b8%d9%87-256-%da%af%db%8c%da%af%d8%a7%d8%a8%d8%a7%db%8c%d8%aa-%d9%be-2/",
-      "image": "https://nolix.ir/wp-content/uploads/2026/07/iphone-air-spaceblack-nolix.jpg",
-      "categories": [
-        "آیفون 17",
-        "آیفون 17 ایر",
-        "آیفون 17 eSIM"
-      ],
       "variationId": 20619,
       "color": "Space Black",
       "priceUnregistered": 209300000,
-      "priceRegistered": null,
+      "priceRegistered": 332300000,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
     },
@@ -244,6 +243,24 @@
       "variationId": 20557,
       "color": "Cream",
       "priceUnregistered": 438800000,
+      "priceRegistered": null,
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
+    },
+    {
+      "id": 20306,
+      "name": "آیفون 17 پرو نات اکتیو تک سیم کارت + eSIM حافظه 1 ترابایت پارت نامبر کره KH/A بدون رجیستری",
+      "permalink": "https://nolix.ir/product/%d8%a2%db%8c%d9%81%d9%88%d9%86-17-%d9%be%d8%b1%d9%88-%d9%86%d8%a7%d8%aa-%d8%a7%da%a9%d8%aa%db%8c%d9%88-%d8%aa%da%a9-%d8%b3%db%8c%d9%85-%da%a9%d8%a7%d8%b1%d8%aa-esim-%d8%ad%d8%a7%d9%81%d8%b8%d9%87-1-2/",
+      "image": "https://nolix.ir/wp-content/uploads/2025/09/iphone-17-pro-deep-blue-nolix.jpg",
+      "categories": [
+        "آیفون 17",
+        "آیفون 17 eSIM",
+        "آیفون 17 پرو",
+        "آیفون 17 پرو 1 ترابایت"
+      ],
+      "variationId": 20335,
+      "color": "Cosmic Orange",
+      "priceUnregistered": 333000000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -1727,6 +1744,38 @@
         "گلکسی S25",
         "گلکسی S25 اولترا"
       ],
+      "variationId": 20501,
+      "color": "Titanium Jetblack",
+      "priceUnregistered": 182300000,
+      "priceRegistered": null,
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
+    },
+    {
+      "id": 19655,
+      "name": "سامسونگ اس ۲۵ اولترا حافظه ۲۵۶ گیگابایت و رم ۱۲ گیگابایت | Samsung S25 Ultra 256/12 بدون رجیستری",
+      "permalink": "https://nolix.ir/product/%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%da%af-%d8%a7%d8%b3-%db%b2%db%b5-%d8%a7%d9%88%d9%84%d8%aa%d8%b1%d8%a7-%d8%ad%d8%a7%d9%81%d8%b8%d9%87-%db%b2%db%b5%db%b6-%da%af%db%8c%da%af%d8%a7%d8%a8%d8%a7%db%8c/",
+      "image": "https://nolix.ir/wp-content/uploads/2026/07/samsung-s25-ultra-titanium-black-nolix.jpg",
+      "categories": [
+        "گلکسی S25",
+        "گلکسی S25 اولترا"
+      ],
+      "variationId": 20324,
+      "color": "Titanium Gray",
+      "priceUnregistered": 182300000,
+      "priceRegistered": null,
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
+    },
+    {
+      "id": 19655,
+      "name": "سامسونگ اس ۲۵ اولترا حافظه ۲۵۶ گیگابایت و رم ۱۲ گیگابایت | Samsung S25 Ultra 256/12 بدون رجیستری",
+      "permalink": "https://nolix.ir/product/%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%da%af-%d8%a7%d8%b3-%db%b2%db%b5-%d8%a7%d9%88%d9%84%d8%aa%d8%b1%d8%a7-%d8%ad%d8%a7%d9%81%d8%b8%d9%87-%db%b2%db%b5%db%b6-%da%af%db%8c%da%af%d8%a7%d8%a8%d8%a7%db%8c/",
+      "image": "https://nolix.ir/wp-content/uploads/2026/07/samsung-s25-ultra-titanium-black-nolix.jpg",
+      "categories": [
+        "گلکسی S25",
+        "گلکسی S25 اولترا"
+      ],
       "variationId": 20323,
       "color": "Titanium Silverblue",
       "priceUnregistered": 182300000,
@@ -1807,22 +1856,6 @@
       "variationId": 19576,
       "color": "White",
       "priceUnregistered": 144000000,
-      "priceRegistered": null,
-      "isPhone": true,
-      "registryStatus": "بدون رجیستر"
-    },
-    {
-      "id": 19567,
-      "name": "سامسونگ اس ۲۶ اولترا حافظه ۱ ترابایت و رم ۱۶ گیگابایت | Samsung S26 Ultra 1TB/16 بدون رجیستری",
-      "permalink": "https://nolix.ir/product/samsung-s26-ultra-1tb-2/",
-      "image": "https://nolix.ir/wp-content/uploads/2026/04/samsung-s26-ultra-black-nolix.jpg",
-      "categories": [
-        "گلکسی S26",
-        "گلکسی S26 اولترا"
-      ],
-      "variationId": 19570,
-      "color": "Sky Blue",
-      "priceUnregistered": 310500000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -2190,22 +2223,6 @@
       "variationId": 19470,
       "color": "مشکی",
       "priceUnregistered": 366800000,
-      "priceRegistered": null,
-      "isPhone": false,
-      "registryStatus": null
-    },
-    {
-      "id": 19465,
-      "name": "آیپد پرو M5 ۱۳ اینچ ۲۵۶ گیگابایت Wi-Fi مشکی آکبند ۲۰۲۵",
-      "permalink": "https://nolix.ir/product/%d8%a2%db%8c%d9%be%d8%af-%d9%be%d8%b1%d9%88-m5-%db%b1%db%b3-%d8%a7%db%8c%d9%86%da%86-%db%b2%db%b5%db%b6-%da%af%db%8c%da%af%d8%a7%d8%a8%d8%a7%db%8c%d8%aa-wi-fi-%d9%85%d8%b4%da%a9%db%8c-%d8%a2%da%a9/",
-      "image": "https://nolix.ir/wp-content/uploads/2026/06/ipad-pro-black-front-nolix.jpg",
-      "categories": [
-        "آیپد",
-        "آیپد پرو"
-      ],
-      "variationId": 19466,
-      "color": "مشکی",
-      "priceUnregistered": 303800000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -2579,22 +2596,6 @@
         "گلکسی S26",
         "گلکسی S26 اولترا"
       ],
-      "variationId": 19543,
-      "color": "White",
-      "priceUnregistered": 209300000,
-      "priceRegistered": null,
-      "isPhone": true,
-      "registryStatus": "بدون رجیستر"
-    },
-    {
-      "id": 18438,
-      "name": "سامسونگ اس ۲۶ اولترا حافظه ۲۵۶ گیگابایت و رم ۱۲ گیگابایت | Samsung S26 Ultra 256/12 بدون رجیستری",
-      "permalink": "https://nolix.ir/product/samsung-s26-ultra-256-2/",
-      "image": "https://nolix.ir/wp-content/uploads/2026/04/samsung-s26-ultra-black-nolix.jpg",
-      "categories": [
-        "گلکسی S26",
-        "گلکسی S26 اولترا"
-      ],
       "variationId": 19542,
       "color": "Sky Blue",
       "priceUnregistered": 209300000,
@@ -2701,91 +2702,6 @@
       "variationId": 18062,
       "color": "Lavender",
       "priceUnregistered": 220500000,
-      "priceRegistered": null,
-      "isPhone": true,
-      "registryStatus": "بدون رجیستر"
-    },
-    {
-      "id": 18053,
-      "name": "آیفون 17 نرمال نات اکتیو تک سیم کارت + eSIM حافظه 256 گیگابایت پارت نامبر هند HNA بدون رجیستری",
-      "permalink": "https://nolix.ir/product/17-not-hna-256/",
-      "image": "https://nolix.ir/wp-content/uploads/2025/09/iphone17-white-nolix-1.jpg",
-      "categories": [
-        "آیفون 17",
-        "آیفون 17 نرمال",
-        "آیفون 17 نرمال 256 گیگابایت"
-      ],
-      "variationId": 18058,
-      "color": "White",
-      "priceUnregistered": 209300000,
-      "priceRegistered": null,
-      "isPhone": true,
-      "registryStatus": "بدون رجیستر"
-    },
-    {
-      "id": 18053,
-      "name": "آیفون 17 نرمال نات اکتیو تک سیم کارت + eSIM حافظه 256 گیگابایت پارت نامبر هند HNA بدون رجیستری",
-      "permalink": "https://nolix.ir/product/17-not-hna-256/",
-      "image": "https://nolix.ir/wp-content/uploads/2025/09/iphone17-white-nolix-1.jpg",
-      "categories": [
-        "آیفون 17",
-        "آیفون 17 نرمال",
-        "آیفون 17 نرمال 256 گیگابایت"
-      ],
-      "variationId": 18057,
-      "color": "Sage",
-      "priceUnregistered": 209300000,
-      "priceRegistered": null,
-      "isPhone": true,
-      "registryStatus": "بدون رجیستر"
-    },
-    {
-      "id": 18053,
-      "name": "آیفون 17 نرمال نات اکتیو تک سیم کارت + eSIM حافظه 256 گیگابایت پارت نامبر هند HNA بدون رجیستری",
-      "permalink": "https://nolix.ir/product/17-not-hna-256/",
-      "image": "https://nolix.ir/wp-content/uploads/2025/09/iphone17-white-nolix-1.jpg",
-      "categories": [
-        "آیفون 17",
-        "آیفون 17 نرمال",
-        "آیفون 17 نرمال 256 گیگابایت"
-      ],
-      "variationId": 18056,
-      "color": "Mist Blue",
-      "priceUnregistered": 209300000,
-      "priceRegistered": null,
-      "isPhone": true,
-      "registryStatus": "بدون رجیستر"
-    },
-    {
-      "id": 18053,
-      "name": "آیفون 17 نرمال نات اکتیو تک سیم کارت + eSIM حافظه 256 گیگابایت پارت نامبر هند HNA بدون رجیستری",
-      "permalink": "https://nolix.ir/product/17-not-hna-256/",
-      "image": "https://nolix.ir/wp-content/uploads/2025/09/iphone17-white-nolix-1.jpg",
-      "categories": [
-        "آیفون 17",
-        "آیفون 17 نرمال",
-        "آیفون 17 نرمال 256 گیگابایت"
-      ],
-      "variationId": 18055,
-      "color": "Lavender",
-      "priceUnregistered": 209300000,
-      "priceRegistered": null,
-      "isPhone": true,
-      "registryStatus": "بدون رجیستر"
-    },
-    {
-      "id": 18053,
-      "name": "آیفون 17 نرمال نات اکتیو تک سیم کارت + eSIM حافظه 256 گیگابایت پارت نامبر هند HNA بدون رجیستری",
-      "permalink": "https://nolix.ir/product/17-not-hna-256/",
-      "image": "https://nolix.ir/wp-content/uploads/2025/09/iphone17-white-nolix-1.jpg",
-      "categories": [
-        "آیفون 17",
-        "آیفون 17 نرمال",
-        "آیفون 17 نرمال 256 گیگابایت"
-      ],
-      "variationId": 18054,
-      "color": "Black",
-      "priceUnregistered": 209300000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
