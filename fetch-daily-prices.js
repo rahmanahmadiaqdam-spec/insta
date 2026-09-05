@@ -33,17 +33,36 @@ if (!CONSUMER_KEY || !CONSUMER_SECRET) {
 
 function authHeader() {
   const token = Buffer.from(`${CONSUMER_KEY}:${CONSUMER_SECRET}`).toString("base64");
-  return { Authorization: `Basic ${token}` };
+    return { Authorization: `Basic ${token}`, "User-Agent": "nolix-price-bot/1.0 (+github-actions)", Accept: "application/json" };
 }
 
-async function api(pathAndQuery) {
+async function api(pathAndQuery, attempt = 1) {
+  const MAX_ATTEMPTS = 4;
   const url = `${BASE_URL}/wp-json/wc/v3${pathAndQuery}`;
+  try {
   const res = await fetch(url, { headers: authHeader() });
   if (!res.ok) {
-    const body = await res.text().catch(() => "");
-    throw new Error(`API خطا در ${pathAndQuery}: ${res.status}\n${body.slice(0, 300)}`);
+  const body = await res.text().catch(() => "");
+  const retryable = res.status === 403 || res.status === 429 || res.status >= 500;
+  if (retryable && attempt < MAX_ATTEMPTS) {
+  const waitMs = 2000 * attempt;
+  console.warn(`hoshdar: ${res.status} dar ${pathAndQuery} (talash ${attempt}/${MAX_ATTEMPTS}) - entezar ${waitMs}ms`);
+  await new Promise((r) => setTimeout(r, waitMs));
+  return api(pathAndQuery, attempt + 1);
+  }
+  throw new Error(`API khata dar ${pathAndQuery}: ${res.status}\n${body.slice(0, 300)}`);
   }
   return res.json();
+  } catch (err) {
+  if (attempt < MAX_ATTEMPTS) {
+  const waitMs = 2000 * attempt;
+  console.warn(`hoshdar: khata-ye shabake dar ${pathAndQuery} (talash ${attempt}/${MAX_ATTEMPTS}) - entezar ${waitMs}ms`);
+  await new Promise((r) => setTimeout(r, waitMs));
+  return api(pathAndQuery, attempt + 1);
+  }
+  throw err;
+  }
+  }
 }
 
 async function fetchAllProducts() {
