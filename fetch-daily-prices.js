@@ -63,7 +63,6 @@ async function api(pathAndQuery, attempt = 1) {
   throw err;
   }
   }
-}
 
 async function fetchAllProducts() {
   let page = 1;
