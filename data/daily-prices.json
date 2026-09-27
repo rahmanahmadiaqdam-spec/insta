@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-26T11:45:04.307Z",
+  "generatedAt": "2026-09-27T11:45:53.136Z",
   "sourceBaseUrl": "https://nolix.ir",
-  "totalItems": 387,
+  "totalItems": 413,
   "itemsWithDualPrice": 6,
   "items": [
     {
@@ -34,7 +34,7 @@
       ],
       "variationId": 21070,
       "color": "Silver",
-      "priceUnregistered": 674800000,
+      "priceUnregistered": 654100000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -51,7 +51,7 @@
       ],
       "variationId": 21069,
       "color": "Black",
-      "priceUnregistered": 685400000,
+      "priceUnregistered": 663500000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -68,24 +68,7 @@
       ],
       "variationId": 21068,
       "color": "Glacier",
-      "priceUnregistered": 674800000,
-      "priceRegistered": null,
-      "isPhone": true,
-      "registryStatus": "رجیستر شده"
-    },
-    {
-      "id": 21066,
-      "name": "آیفون 18 پرو مکس نات اکتیو دو سیم کارت حافظه 256 گیگابایت پارت نامبر CHA رجیستر شده",
-      "permalink": "https://nolix.ir/product/18pm-not-2s-cha-256-reg/",
-      "image": "https://nolix.ir/wp-content/uploads/2026/09/iphone-18-pro-max-burgundy-nolix.jpg",
-      "categories": [
-        "آیفون 18",
-        "آیفون 18 پرو مکس",
-        "آیفون 18 پرو مکس 256 گیگابایت"
-      ],
-      "variationId": 21067,
-      "color": "Burgundy",
-      "priceUnregistered": 691300000,
+      "priceUnregistered": 658800000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -102,7 +85,7 @@
       ],
       "variationId": 21065,
       "color": "Silver",
-      "priceUnregistered": 450800000,
+      "priceUnregistered": 430100000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -119,7 +102,7 @@
       ],
       "variationId": 21064,
       "color": "Black",
-      "priceUnregistered": 461400000,
+      "priceUnregistered": 439500000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -136,24 +119,7 @@
       ],
       "variationId": 21063,
       "color": "Glacier",
-      "priceUnregistered": 450800000,
-      "priceRegistered": null,
-      "isPhone": true,
-      "registryStatus": "بدون رجیستر"
-    },
-    {
-      "id": 21061,
-      "name": "آیفون 18 پرو مکس نات اکتیو دو سیم کارت حافظه 256 گیگابایت پارت نامبر CHA بدون رجیستری",
-      "permalink": "https://nolix.ir/product/18pm-not-2s-cha-256/",
-      "image": "https://nolix.ir/wp-content/uploads/2026/09/iphone-18-pro-max-burgundy-nolix.jpg",
-      "categories": [
-        "آیفون 18",
-        "آیفون 18 پرو مکس",
-        "آیفون 18 پرو مکس 256 گیگابایت"
-      ],
-      "variationId": 21062,
-      "color": "Burgundy",
-      "priceUnregistered": 467300000,
+      "priceUnregistered": 434800000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -171,7 +137,7 @@
       ],
       "variationId": 21060,
       "color": "Silver",
-      "priceUnregistered": 619300000,
+      "priceUnregistered": 607100000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -189,7 +155,7 @@
       ],
       "variationId": 21059,
       "color": "Black",
-      "priceUnregistered": 627600000,
+      "priceUnregistered": 617700000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -207,7 +173,7 @@
       ],
       "variationId": 21058,
       "color": "Glacier",
-      "priceUnregistered": 619300000,
+      "priceUnregistered": 609400000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -225,7 +191,7 @@
       ],
       "variationId": 21057,
       "color": "Burgundy",
-      "priceUnregistered": 642900000,
+      "priceUnregistered": 635300000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -243,7 +209,7 @@
       ],
       "variationId": 21055,
       "color": "Silver",
-      "priceUnregistered": 395300000,
+      "priceUnregistered": 383100000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -261,7 +227,7 @@
       ],
       "variationId": 21054,
       "color": "Black",
-      "priceUnregistered": 403600000,
+      "priceUnregistered": 393700000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -279,7 +245,7 @@
       ],
       "variationId": 21053,
       "color": "Glacier",
-      "priceUnregistered": 395300000,
+      "priceUnregistered": 385400000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -297,7 +263,7 @@
       ],
       "variationId": 21052,
       "color": "Burgundy",
-      "priceUnregistered": 418900000,
+      "priceUnregistered": 411300000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -315,7 +281,7 @@
       ],
       "variationId": 21049,
       "color": "Black",
-      "priceUnregistered": 1021700000,
+      "priceUnregistered": 1006600000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -333,7 +299,7 @@
       ],
       "variationId": 21044,
       "color": "Black",
-      "priceUnregistered": 797700000,
+      "priceUnregistered": 782600000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -351,7 +317,7 @@
       ],
       "variationId": 21037,
       "color": "Burgundy",
-      "priceUnregistered": 803400000,
+      "priceUnregistered": 803300000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -369,7 +335,7 @@
       ],
       "variationId": 21032,
       "color": "Burgundy",
-      "priceUnregistered": 579400000,
+      "priceUnregistered": 579300000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -386,7 +352,7 @@
       ],
       "variationId": 21030,
       "color": "Sky Blue",
-      "priceUnregistered": 382900000,
+      "priceUnregistered": 381800000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -403,7 +369,7 @@
       ],
       "variationId": 21029,
       "color": "Light Gold",
-      "priceUnregistered": 382900000,
+      "priceUnregistered": 381800000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -420,7 +386,7 @@
       ],
       "variationId": 21028,
       "color": "Cloud White",
-      "priceUnregistered": 382900000,
+      "priceUnregistered": 381800000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -437,7 +403,7 @@
       ],
       "variationId": 21027,
       "color": "Space Black",
-      "priceUnregistered": 382900000,
+      "priceUnregistered": 381800000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -454,7 +420,7 @@
       ],
       "variationId": 21025,
       "color": "Sky Blue",
-      "priceUnregistered": 254900000,
+      "priceUnregistered": 253800000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -471,7 +437,7 @@
       ],
       "variationId": 21024,
       "color": "Light Gold",
-      "priceUnregistered": 254900000,
+      "priceUnregistered": 253800000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -488,7 +454,7 @@
       ],
       "variationId": 21023,
       "color": "Cloud White",
-      "priceUnregistered": 254900000,
+      "priceUnregistered": 253800000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -505,7 +471,7 @@
       ],
       "variationId": 21022,
       "color": "Space Black",
-      "priceUnregistered": 254900000,
+      "priceUnregistered": 253800000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -522,7 +488,7 @@
       ],
       "variationId": 21020,
       "color": "Sky Blue",
-      "priceUnregistered": 364000000,
+      "priceUnregistered": 363000000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -539,7 +505,7 @@
       ],
       "variationId": 21019,
       "color": "Light Gold",
-      "priceUnregistered": 364000000,
+      "priceUnregistered": 363000000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -556,7 +522,7 @@
       ],
       "variationId": 21018,
       "color": "Cloud White",
-      "priceUnregistered": 364000000,
+      "priceUnregistered": 363000000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -573,7 +539,7 @@
       ],
       "variationId": 21017,
       "color": "Space Black",
-      "priceUnregistered": 364000000,
+      "priceUnregistered": 363000000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -590,7 +556,7 @@
       ],
       "variationId": 21015,
       "color": "Sky Blue",
-      "priceUnregistered": 236000000,
+      "priceUnregistered": 235000000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -607,7 +573,7 @@
       ],
       "variationId": 21014,
       "color": "Light Gold",
-      "priceUnregistered": 236000000,
+      "priceUnregistered": 235000000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -624,7 +590,7 @@
       ],
       "variationId": 21013,
       "color": "Cloud White",
-      "priceUnregistered": 236000000,
+      "priceUnregistered": 235000000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -641,7 +607,7 @@
       ],
       "variationId": 21012,
       "color": "Space Black",
-      "priceUnregistered": 236000000,
+      "priceUnregistered": 235000000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -658,7 +624,7 @@
       ],
       "variationId": 21010,
       "color": "Sky Blue",
-      "priceUnregistered": 347500000,
+      "priceUnregistered": 346600000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -675,7 +641,7 @@
       ],
       "variationId": 21009,
       "color": "Light Gold",
-      "priceUnregistered": 347500000,
+      "priceUnregistered": 346600000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -692,7 +658,7 @@
       ],
       "variationId": 21008,
       "color": "Cloud White",
-      "priceUnregistered": 347500000,
+      "priceUnregistered": 346600000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -709,7 +675,7 @@
       ],
       "variationId": 21007,
       "color": "Space Black",
-      "priceUnregistered": 347500000,
+      "priceUnregistered": 346600000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -726,7 +692,7 @@
       ],
       "variationId": 21005,
       "color": "Sky Blue",
-      "priceUnregistered": 219500000,
+      "priceUnregistered": 218600000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -743,7 +709,7 @@
       ],
       "variationId": 21004,
       "color": "Light Gold",
-      "priceUnregistered": 219500000,
+      "priceUnregistered": 218600000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -760,7 +726,7 @@
       ],
       "variationId": 21003,
       "color": "Cloud White",
-      "priceUnregistered": 219500000,
+      "priceUnregistered": 218600000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -777,7 +743,7 @@
       ],
       "variationId": 21002,
       "color": "Space Black",
-      "priceUnregistered": 219500000,
+      "priceUnregistered": 218600000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -795,7 +761,7 @@
       ],
       "variationId": 21000,
       "color": "Silver",
-      "priceUnregistered": 493300000,
+      "priceUnregistered": 491900000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -813,7 +779,7 @@
       ],
       "variationId": 20999,
       "color": "Deep Blue",
-      "priceUnregistered": 493300000,
+      "priceUnregistered": 491900000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -831,7 +797,7 @@
       ],
       "variationId": 20998,
       "color": "Cosmic Orange",
-      "priceUnregistered": 491000000,
+      "priceUnregistered": 488400000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -849,7 +815,7 @@
       ],
       "variationId": 20996,
       "color": "Silver",
-      "priceUnregistered": 336300000,
+      "priceUnregistered": 334900000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -867,7 +833,7 @@
       ],
       "variationId": 20995,
       "color": "Deep Blue",
-      "priceUnregistered": 336300000,
+      "priceUnregistered": 334900000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -885,7 +851,7 @@
       ],
       "variationId": 20994,
       "color": "Cosmic Orange",
-      "priceUnregistered": 334000000,
+      "priceUnregistered": 331400000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -902,7 +868,7 @@
       ],
       "variationId": 20992,
       "color": "Silver",
-      "priceUnregistered": 469700000,
+      "priceUnregistered": 468400000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -919,7 +885,7 @@
       ],
       "variationId": 20991,
       "color": "Deep Blue",
-      "priceUnregistered": 462700000,
+      "priceUnregistered": 461400000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -936,7 +902,7 @@
       ],
       "variationId": 20990,
       "color": "Cosmic Orange",
-      "priceUnregistered": 462700000,
+      "priceUnregistered": 461400000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -953,7 +919,7 @@
       ],
       "variationId": 20988,
       "color": "Silver",
-      "priceUnregistered": 312700000,
+      "priceUnregistered": 311400000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -970,7 +936,7 @@
       ],
       "variationId": 20987,
       "color": "Deep Blue",
-      "priceUnregistered": 305700000,
+      "priceUnregistered": 304400000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -987,7 +953,7 @@
       ],
       "variationId": 20986,
       "color": "Cosmic Orange",
-      "priceUnregistered": 305700000,
+      "priceUnregistered": 304400000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -1005,7 +971,25 @@
       ],
       "variationId": 20976,
       "color": "Silver",
-      "priceUnregistered": 665400000,
+      "priceUnregistered": 665800000,
+      "priceRegistered": null,
+      "isPhone": true,
+      "registryStatus": "رجیستر شده"
+    },
+    {
+      "id": 20972,
+      "name": "آیفون 18 پرو مکس اکتیو شده تک سیم کارت + eSIM حافظه 512 گیگابایت پارت نامبر ZAA رجیستر شده",
+      "permalink": "https://nolix.ir/product/18pm-act-1se-zaa-512-reg/",
+      "image": "https://nolix.ir/wp-content/uploads/2026/09/iphone-18-pro-max-burgundy-nolix.jpg",
+      "categories": [
+        "آیفون 18",
+        "آیفون 18 eSIM",
+        "آیفون 18 پرو مکس",
+        "آیفون 18 پرو مکس 512 گیگابایت"
+      ],
+      "variationId": 20975,
+      "color": "Black",
+      "priceUnregistered": 677600000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -1023,7 +1007,7 @@
       ],
       "variationId": 20974,
       "color": "Glacier",
-      "priceUnregistered": 665400000,
+      "priceUnregistered": 665800000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -1041,7 +1025,7 @@
       ],
       "variationId": 20973,
       "color": "Burgundy",
-      "priceUnregistered": 686600000,
+      "priceUnregistered": 685800000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -1059,7 +1043,25 @@
       ],
       "variationId": 20971,
       "color": "Silver",
-      "priceUnregistered": 441400000,
+      "priceUnregistered": 441800000,
+      "priceRegistered": null,
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
+    },
+    {
+      "id": 20967,
+      "name": "آیفون 18 پرو مکس اکتیو شده تک سیم کارت + eSIM حافظه 512 گیگابایت پارت نامبر ZAA بدون رجیستری",
+      "permalink": "https://nolix.ir/product/18pm-act-1se-zaa-512/",
+      "image": "https://nolix.ir/wp-content/uploads/2026/09/iphone-18-pro-max-burgundy-nolix.jpg",
+      "categories": [
+        "آیفون 18",
+        "آیفون 18 eSIM",
+        "آیفون 18 پرو مکس",
+        "آیفون 18 پرو مکس 512 گیگابایت"
+      ],
+      "variationId": 20970,
+      "color": "Black",
+      "priceUnregistered": 453600000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -1077,7 +1079,7 @@
       ],
       "variationId": 20969,
       "color": "Glacier",
-      "priceUnregistered": 441400000,
+      "priceUnregistered": 441800000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -1095,7 +1097,7 @@
       ],
       "variationId": 20968,
       "color": "Burgundy",
-      "priceUnregistered": 462600000,
+      "priceUnregistered": 461800000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -1113,7 +1115,7 @@
       ],
       "variationId": 20966,
       "color": "Silver",
-      "priceUnregistered": 587500000,
+      "priceUnregistered": 584700000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -1131,7 +1133,7 @@
       ],
       "variationId": 20964,
       "color": "Glacier",
-      "priceUnregistered": 587500000,
+      "priceUnregistered": 585900000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -1149,7 +1151,7 @@
       ],
       "variationId": 20963,
       "color": "Burgundy",
-      "priceUnregistered": 611100000,
+      "priceUnregistered": 609400000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -1167,7 +1169,7 @@
       ],
       "variationId": 20961,
       "color": "Silver",
-      "priceUnregistered": 383500000,
+      "priceUnregistered": 380700000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -1185,7 +1187,7 @@
       ],
       "variationId": 20959,
       "color": "Glacier",
-      "priceUnregistered": 383500000,
+      "priceUnregistered": 381900000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -1203,7 +1205,7 @@
       ],
       "variationId": 20958,
       "color": "Burgundy",
-      "priceUnregistered": 407100000,
+      "priceUnregistered": 405400000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -1221,7 +1223,7 @@
       ],
       "variationId": 20956,
       "color": "Silver",
-      "priceUnregistered": 536800000,
+      "priceUnregistered": 527200000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -1239,7 +1241,7 @@
       ],
       "variationId": 20955,
       "color": "Black",
-      "priceUnregistered": 553300000,
+      "priceUnregistered": 549500000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -1257,7 +1259,7 @@
       ],
       "variationId": 20954,
       "color": "Glacier",
-      "priceUnregistered": 539200000,
+      "priceUnregistered": 536600000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -1275,7 +1277,7 @@
       ],
       "variationId": 20953,
       "color": "Burgundy",
-      "priceUnregistered": 555700000,
+      "priceUnregistered": 563600000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -1293,7 +1295,7 @@
       ],
       "variationId": 20951,
       "color": "Silver",
-      "priceUnregistered": 332800000,
+      "priceUnregistered": 323200000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -1311,7 +1313,7 @@
       ],
       "variationId": 20950,
       "color": "Black",
-      "priceUnregistered": 349300000,
+      "priceUnregistered": 345500000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -1329,7 +1331,7 @@
       ],
       "variationId": 20949,
       "color": "Glacier",
-      "priceUnregistered": 335200000,
+      "priceUnregistered": 332600000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -1347,7 +1349,7 @@
       ],
       "variationId": 20948,
       "color": "Burgundy",
-      "priceUnregistered": 351700000,
+      "priceUnregistered": 359600000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -1365,7 +1367,7 @@
       ],
       "variationId": 20937,
       "color": "Silver",
-      "priceUnregistered": 632300000,
+      "priceUnregistered": 624700000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -1383,7 +1385,7 @@
       ],
       "variationId": 20936,
       "color": "Black",
-      "priceUnregistered": 655900000,
+      "priceUnregistered": 652900000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -1401,7 +1403,7 @@
       ],
       "variationId": 20935,
       "color": "Glacier",
-      "priceUnregistered": 638200000,
+      "priceUnregistered": 636500000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -1419,7 +1421,7 @@
       ],
       "variationId": 20932,
       "color": "Silver",
-      "priceUnregistered": 408300000,
+      "priceUnregistered": 400700000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -1437,7 +1439,7 @@
       ],
       "variationId": 20931,
       "color": "Black",
-      "priceUnregistered": 431900000,
+      "priceUnregistered": 428900000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -1455,7 +1457,43 @@
       ],
       "variationId": 20930,
       "color": "Glacier",
-      "priceUnregistered": 414200000,
+      "priceUnregistered": 412500000,
+      "priceRegistered": null,
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
+    },
+    {
+      "id": 20913,
+      "name": "آیفون 18 پرو مکس نات اکتیو eSIM حافظه 256 گیگابایت پارت نامبر عربی AHA رجیستر شده",
+      "permalink": "https://nolix.ir/product/18pm-not-es-aha-256-reg/",
+      "image": "https://nolix.ir/wp-content/uploads/2026/09/iphone-18-pro-max-burgundy-nolix.jpg",
+      "categories": [
+        "آیفون 18 پرو مکس",
+        "آیفون 18",
+        "آیفون 18 eSIM",
+        "آیفون 18 پرو مکس 256 گیگابایت"
+      ],
+      "variationId": 20914,
+      "color": "Burgundy",
+      "priceUnregistered": 636500000,
+      "priceRegistered": null,
+      "isPhone": true,
+      "registryStatus": "رجیستر شده"
+    },
+    {
+      "id": 20908,
+      "name": "آیفون 18 پرو مکس نات اکتیو eSIM حافظه 256 گیگابایت پارت نامبر عربی AHA بدون رجیستری",
+      "permalink": "https://nolix.ir/product/18pm-not-es-aha-256/",
+      "image": "https://nolix.ir/wp-content/uploads/2026/09/iphone-18-pro-max-burgundy-nolix.jpg",
+      "categories": [
+        "آیفون 18 پرو مکس",
+        "آیفون 18",
+        "آیفون 18 eSIM",
+        "آیفون 18 پرو مکس 256 گیگابایت"
+      ],
+      "variationId": 20909,
+      "color": "Burgundy",
+      "priceUnregistered": 412500000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -1470,7 +1508,7 @@
       ],
       "variationId": 20899,
       "color": "Natural Titanium",
-      "priceUnregistered": 166700000,
+      "priceUnregistered": 166000000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -1488,7 +1526,7 @@
       ],
       "variationId": 20895,
       "color": "Cosmic Orange",
-      "priceUnregistered": 527200000,
+      "priceUnregistered": 525600000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -1506,7 +1544,7 @@
       ],
       "variationId": 20891,
       "color": "Cosmic Orange",
-      "priceUnregistered": 381200000,
+      "priceUnregistered": 379600000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -1521,7 +1559,7 @@
       ],
       "variationId": 20888,
       "color": "Blue Shadow",
-      "priceUnregistered": 437200000,
+      "priceUnregistered": 436000000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -1536,7 +1574,7 @@
       ],
       "variationId": 20887,
       "color": "Jetblack",
-      "priceUnregistered": 437200000,
+      "priceUnregistered": 436000000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -1551,7 +1589,7 @@
       ],
       "variationId": 20886,
       "color": "Blue Shadow",
-      "priceUnregistered": 289200000,
+      "priceUnregistered": 288000000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -1566,7 +1604,7 @@
       ],
       "variationId": 20885,
       "color": "Jetblack",
-      "priceUnregistered": 289200000,
+      "priceUnregistered": 288000000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -1581,7 +1619,7 @@
       ],
       "variationId": 20880,
       "color": "Natural Titanium",
-      "priceUnregistered": 166700000,
+      "priceUnregistered": 166000000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -1596,7 +1634,7 @@
       ],
       "variationId": 20877,
       "color": "Natural Titanium",
-      "priceUnregistered": 166700000,
+      "priceUnregistered": 166000000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -1614,7 +1652,7 @@
       ],
       "variationId": 20823,
       "color": "Silver",
-      "priceUnregistered": 548600000,
+      "priceUnregistered": 544800000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -1632,7 +1670,7 @@
       ],
       "variationId": 20818,
       "color": "Silver",
-      "priceUnregistered": 344600000,
+      "priceUnregistered": 340800000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -1650,7 +1688,7 @@
       ],
       "variationId": 20801,
       "color": "Glacier",
-      "priceUnregistered": 844700000,
+      "priceUnregistered": 837400000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -1668,7 +1706,7 @@
       ],
       "variationId": 20800,
       "color": "Burgundy",
-      "priceUnregistered": 844700000,
+      "priceUnregistered": 842100000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -1686,7 +1724,7 @@
       ],
       "variationId": 20796,
       "color": "Glacier",
-      "priceUnregistered": 620700000,
+      "priceUnregistered": 613400000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -1704,7 +1742,7 @@
       ],
       "variationId": 20795,
       "color": "Burgundy",
-      "priceUnregistered": 620700000,
+      "priceUnregistered": 618100000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -1722,7 +1760,25 @@
       ],
       "variationId": 20793,
       "color": "Silver",
-      "priceUnregistered": 679500000,
+      "priceUnregistered": 671700000,
+      "priceRegistered": null,
+      "isPhone": true,
+      "registryStatus": "رجیستر شده"
+    },
+    {
+      "id": 20789,
+      "name": "آیفون 18 پرو مکس نات اکتیو تک سیم کارت + eSIM حافظه 512 گیگابایت پارت نامبر ZAA رجیستر شده",
+      "permalink": "https://nolix.ir/product/18pm-not-1se-zaa-512-reg/",
+      "image": "https://nolix.ir/wp-content/uploads/2026/09/iphone-18-pro-max-burgundy-nolix.jpg",
+      "categories": [
+        "آیفون 18",
+        "آیفون 18 eSIM",
+        "آیفون 18 پرو مکس",
+        "آیفون 18 پرو مکس 512 گیگابایت"
+      ],
+      "variationId": 20792,
+      "color": "Black",
+      "priceUnregistered": 682300000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -1740,7 +1796,25 @@
       ],
       "variationId": 20791,
       "color": "Glacier",
-      "priceUnregistered": 679500000,
+      "priceUnregistered": 671700000,
+      "priceRegistered": null,
+      "isPhone": true,
+      "registryStatus": "رجیستر شده"
+    },
+    {
+      "id": 20789,
+      "name": "آیفون 18 پرو مکس نات اکتیو تک سیم کارت + eSIM حافظه 512 گیگابایت پارت نامبر ZAA رجیستر شده",
+      "permalink": "https://nolix.ir/product/18pm-not-1se-zaa-512-reg/",
+      "image": "https://nolix.ir/wp-content/uploads/2026/09/iphone-18-pro-max-burgundy-nolix.jpg",
+      "categories": [
+        "آیفون 18",
+        "آیفون 18 eSIM",
+        "آیفون 18 پرو مکس",
+        "آیفون 18 پرو مکس 512 گیگابایت"
+      ],
+      "variationId": 20790,
+      "color": "Burgundy",
+      "priceUnregistered": 696400000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -1758,7 +1832,25 @@
       ],
       "variationId": 20788,
       "color": "Silver",
-      "priceUnregistered": 455500000,
+      "priceUnregistered": 447700000,
+      "priceRegistered": null,
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
+    },
+    {
+      "id": 20784,
+      "name": "آیفون 18 پرو مکس نات اکتیو تک سیم کارت + eSIM حافظه 512 گیگابایت پارت نامبر ZAA بدون رجیستری",
+      "permalink": "https://nolix.ir/product/18pm-not-1se-zaa-512/",
+      "image": "https://nolix.ir/wp-content/uploads/2026/09/iphone-18-pro-max-burgundy-nolix.jpg",
+      "categories": [
+        "آیفون 18",
+        "آیفون 18 eSIM",
+        "آیفون 18 پرو مکس",
+        "آیفون 18 پرو مکس 512 گیگابایت"
+      ],
+      "variationId": 20787,
+      "color": "Black",
+      "priceUnregistered": 458300000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -1776,7 +1868,25 @@
       ],
       "variationId": 20786,
       "color": "Glacier",
-      "priceUnregistered": 455500000,
+      "priceUnregistered": 447700000,
+      "priceRegistered": null,
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
+    },
+    {
+      "id": 20784,
+      "name": "آیفون 18 پرو مکس نات اکتیو تک سیم کارت + eSIM حافظه 512 گیگابایت پارت نامبر ZAA بدون رجیستری",
+      "permalink": "https://nolix.ir/product/18pm-not-1se-zaa-512/",
+      "image": "https://nolix.ir/wp-content/uploads/2026/09/iphone-18-pro-max-burgundy-nolix.jpg",
+      "categories": [
+        "آیفون 18",
+        "آیفون 18 eSIM",
+        "آیفون 18 پرو مکس",
+        "آیفون 18 پرو مکس 512 گیگابایت"
+      ],
+      "variationId": 20785,
+      "color": "Burgundy",
+      "priceUnregistered": 472400000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -1794,7 +1904,7 @@
       ],
       "variationId": 20783,
       "color": "Silver",
-      "priceUnregistered": 637000000,
+      "priceUnregistered": 634100000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -1812,7 +1922,7 @@
       ],
       "variationId": 20782,
       "color": "Black",
-      "priceUnregistered": 663000000,
+      "priceUnregistered": 657600000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -1830,7 +1940,7 @@
       ],
       "variationId": 20781,
       "color": "Glacier",
-      "priceUnregistered": 651200000,
+      "priceUnregistered": 649400000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -1848,7 +1958,7 @@
       ],
       "variationId": 20778,
       "color": "Silver",
-      "priceUnregistered": 413000000,
+      "priceUnregistered": 410100000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -1866,7 +1976,7 @@
       ],
       "variationId": 20777,
       "color": "Black",
-      "priceUnregistered": 439000000,
+      "priceUnregistered": 433600000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -1884,7 +1994,7 @@
       ],
       "variationId": 20776,
       "color": "Glacier",
-      "priceUnregistered": 427200000,
+      "priceUnregistered": 425400000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -1902,7 +2012,7 @@
       ],
       "variationId": 20726,
       "color": "Cosmic Orange",
-      "priceUnregistered": 614900000,
+      "priceUnregistered": 612900000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -1920,7 +2030,7 @@
       ],
       "variationId": 20722,
       "color": "Cosmic Orange",
-      "priceUnregistered": 457900000,
+      "priceUnregistered": 455900000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -1938,7 +2048,7 @@
       ],
       "variationId": 20718,
       "color": "Cosmic Orange",
-      "priceUnregistered": 561800000,
+      "priceUnregistered": 560100000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -1956,7 +2066,7 @@
       ],
       "variationId": 20714,
       "color": "Cosmic Orange",
-      "priceUnregistered": 404800000,
+      "priceUnregistered": 403100000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -1974,7 +2084,7 @@
       ],
       "variationId": 20712,
       "color": "Silver",
-      "priceUnregistered": 541700000,
+      "priceUnregistered": 540100000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -1992,7 +2102,7 @@
       ],
       "variationId": 20711,
       "color": "Deep Blue",
-      "priceUnregistered": 529900000,
+      "priceUnregistered": 528300000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -2010,7 +2120,7 @@
       ],
       "variationId": 20710,
       "color": "Cosmic Orange",
-      "priceUnregistered": 529900000,
+      "priceUnregistered": 528300000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -2028,7 +2138,7 @@
       ],
       "variationId": 20708,
       "color": "Silver",
-      "priceUnregistered": 384700000,
+      "priceUnregistered": 383100000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -2046,7 +2156,7 @@
       ],
       "variationId": 20707,
       "color": "Deep Blue",
-      "priceUnregistered": 372900000,
+      "priceUnregistered": 371300000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -2064,7 +2174,7 @@
       ],
       "variationId": 20706,
       "color": "Cosmic Orange",
-      "priceUnregistered": 372900000,
+      "priceUnregistered": 371300000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -2082,7 +2192,7 @@
       ],
       "variationId": 20696,
       "color": "Silver",
-      "priceUnregistered": 474100000,
+      "priceUnregistered": 472700000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -2100,7 +2210,7 @@
       ],
       "variationId": 20695,
       "color": "Deep Blue",
-      "priceUnregistered": 474100000,
+      "priceUnregistered": 472700000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -2118,7 +2228,7 @@
       ],
       "variationId": 20694,
       "color": "Cosmic Orange",
-      "priceUnregistered": 474100000,
+      "priceUnregistered": 472700000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -2136,7 +2246,7 @@
       ],
       "variationId": 20692,
       "color": "Silver",
-      "priceUnregistered": 328100000,
+      "priceUnregistered": 326700000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -2154,7 +2264,7 @@
       ],
       "variationId": 20691,
       "color": "Deep Blue",
-      "priceUnregistered": 328100000,
+      "priceUnregistered": 326700000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -2172,43 +2282,7 @@
       ],
       "variationId": 20690,
       "color": "Cosmic Orange",
-      "priceUnregistered": 328100000,
-      "priceRegistered": null,
-      "isPhone": true,
-      "registryStatus": "بدون رجیستر"
-    },
-    {
-      "id": 20683,
-      "name": "آیفون 17 نرمال نات اکتیو eSIM حافظه 512 گیگابایت پارت نامبر ژاپن رجیستر شده",
-      "permalink": "https://nolix.ir/product/17-not-esim-ja-512-reg/",
-      "image": "https://nolix.ir/wp-content/uploads/2025/09/iphone17-white-nolix-1.jpg",
-      "categories": [
-        "آیفون 17",
-        "آیفون 17 eSIM",
-        "آیفون 17 نرمال",
-        "آیفون 17 نرمال 512 گیگابایت"
-      ],
-      "variationId": 20688,
-      "color": "White",
-      "priceUnregistered": 356300000,
-      "priceRegistered": null,
-      "isPhone": true,
-      "registryStatus": "رجیستر شده"
-    },
-    {
-      "id": 20677,
-      "name": "آیفون 17 نرمال نات اکتیو eSIM حافظه 512 گیگابایت پارت نامبر ژاپن بدون رجیستری",
-      "permalink": "https://nolix.ir/product/17-not-esim-ja-512/",
-      "image": "https://nolix.ir/wp-content/uploads/2025/09/iphone17-white-nolix-1.jpg",
-      "categories": [
-        "آیفون 17",
-        "آیفون 17 eSIM",
-        "آیفون 17 نرمال",
-        "آیفون 17 نرمال 512 گیگابایت"
-      ],
-      "variationId": 20682,
-      "color": "White",
-      "priceUnregistered": 245300000,
+      "priceUnregistered": 326700000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -2226,7 +2300,7 @@
       ],
       "variationId": 20676,
       "color": "White",
-      "priceUnregistered": 338800000,
+      "priceUnregistered": 337800000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -2244,7 +2318,7 @@
       ],
       "variationId": 20675,
       "color": "Sage",
-      "priceUnregistered": 338800000,
+      "priceUnregistered": 337800000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -2262,7 +2336,7 @@
       ],
       "variationId": 20674,
       "color": "Mist Blue",
-      "priceUnregistered": 338800000,
+      "priceUnregistered": 337800000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -2280,7 +2354,7 @@
       ],
       "variationId": 20673,
       "color": "Lavender",
-      "priceUnregistered": 338800000,
+      "priceUnregistered": 337800000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -2298,7 +2372,7 @@
       ],
       "variationId": 20672,
       "color": "Black",
-      "priceUnregistered": 338800000,
+      "priceUnregistered": 337800000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -2316,7 +2390,7 @@
       ],
       "variationId": 20670,
       "color": "White",
-      "priceUnregistered": 227800000,
+      "priceUnregistered": 226800000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -2334,7 +2408,7 @@
       ],
       "variationId": 20669,
       "color": "Sage",
-      "priceUnregistered": 227800000,
+      "priceUnregistered": 226800000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -2352,7 +2426,7 @@
       ],
       "variationId": 20668,
       "color": "Mist Blue",
-      "priceUnregistered": 227800000,
+      "priceUnregistered": 226800000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -2370,7 +2444,7 @@
       ],
       "variationId": 20667,
       "color": "Lavender",
-      "priceUnregistered": 227800000,
+      "priceUnregistered": 226800000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -2388,7 +2462,7 @@
       ],
       "variationId": 20666,
       "color": "Black",
-      "priceUnregistered": 227800000,
+      "priceUnregistered": 226800000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -2406,7 +2480,7 @@
       ],
       "variationId": 20664,
       "color": "Silver",
-      "priceUnregistered": 474100000,
+      "priceUnregistered": 472700000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -2424,7 +2498,7 @@
       ],
       "variationId": 20663,
       "color": "Deep Blue",
-      "priceUnregistered": 474100000,
+      "priceUnregistered": 472700000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -2442,7 +2516,7 @@
       ],
       "variationId": 20662,
       "color": "Cosmic Orange",
-      "priceUnregistered": 474100000,
+      "priceUnregistered": 472700000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -2460,7 +2534,7 @@
       ],
       "variationId": 20660,
       "color": "Silver",
-      "priceUnregistered": 328100000,
+      "priceUnregistered": 326700000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -2478,7 +2552,7 @@
       ],
       "variationId": 20659,
       "color": "Deep Blue",
-      "priceUnregistered": 328100000,
+      "priceUnregistered": 326700000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -2496,7 +2570,7 @@
       ],
       "variationId": 20658,
       "color": "Cosmic Orange",
-      "priceUnregistered": 328100000,
+      "priceUnregistered": 326700000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -2511,7 +2585,7 @@
       ],
       "variationId": null,
       "color": "—",
-      "priceUnregistered": 54300000,
+      "priceUnregistered": 54100000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -2526,7 +2600,7 @@
       ],
       "variationId": null,
       "color": "—",
-      "priceUnregistered": 43700000,
+      "priceUnregistered": 43500000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -2542,7 +2616,7 @@
       ],
       "variationId": 20645,
       "color": "نقره‌ای",
-      "priceUnregistered": 422500000,
+      "priceUnregistered": 420700000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -2558,7 +2632,7 @@
       ],
       "variationId": 20644,
       "color": "مشکی",
-      "priceUnregistered": 422500000,
+      "priceUnregistered": 420700000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -2574,7 +2648,7 @@
       ],
       "variationId": 20642,
       "color": "نقره‌ای",
-      "priceUnregistered": 398900000,
+      "priceUnregistered": 397200000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -2590,7 +2664,7 @@
       ],
       "variationId": 20641,
       "color": "مشکی",
-      "priceUnregistered": 398900000,
+      "priceUnregistered": 397200000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -2606,7 +2680,7 @@
       ],
       "variationId": 20634,
       "color": "White",
-      "priceUnregistered": 303900000,
+      "priceUnregistered": 303100000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -2622,8 +2696,8 @@
       ],
       "variationId": 20630,
       "color": "White",
-      "priceUnregistered": 195900000,
-      "priceRegistered": 303900000,
+      "priceUnregistered": 195100000,
+      "priceRegistered": 303100000,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
     },
@@ -2639,7 +2713,7 @@
       ],
       "variationId": 20617,
       "color": "Silver",
-      "priceUnregistered": 508700000,
+      "priceUnregistered": 507200000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -2656,7 +2730,7 @@
       ],
       "variationId": 20615,
       "color": "Cosmic Orange",
-      "priceUnregistered": 508700000,
+      "priceUnregistered": 507200000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -2673,8 +2747,8 @@
       ],
       "variationId": 20613,
       "color": "Silver",
-      "priceUnregistered": 351700000,
-      "priceRegistered": 508700000,
+      "priceUnregistered": 350200000,
+      "priceRegistered": 507200000,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
     },
@@ -2690,8 +2764,8 @@
       ],
       "variationId": 20611,
       "color": "Cosmic Orange",
-      "priceUnregistered": 351700000,
-      "priceRegistered": 508700000,
+      "priceUnregistered": 350200000,
+      "priceRegistered": 507200000,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
     },
@@ -2707,7 +2781,7 @@
       ],
       "variationId": 20609,
       "color": "Silver",
-      "priceUnregistered": 469700000,
+      "priceUnregistered": 468400000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -2724,7 +2798,7 @@
       ],
       "variationId": 20608,
       "color": "Deep Blue",
-      "priceUnregistered": 462700000,
+      "priceUnregistered": 462500000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -2741,7 +2815,7 @@
       ],
       "variationId": 20607,
       "color": "Cosmic Orange",
-      "priceUnregistered": 462700000,
+      "priceUnregistered": 461400000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -2758,8 +2832,8 @@
       ],
       "variationId": 20605,
       "color": "Silver",
-      "priceUnregistered": 312700000,
-      "priceRegistered": 469700000,
+      "priceUnregistered": 311400000,
+      "priceRegistered": 468400000,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
     },
@@ -2775,8 +2849,8 @@
       ],
       "variationId": 20604,
       "color": "Deep Blue",
-      "priceUnregistered": 305700000,
-      "priceRegistered": 462700000,
+      "priceUnregistered": 305500000,
+      "priceRegistered": 462500000,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
     },
@@ -2792,8 +2866,8 @@
       ],
       "variationId": 20603,
       "color": "Cosmic Orange",
-      "priceUnregistered": 305700000,
-      "priceRegistered": 462700000,
+      "priceUnregistered": 304400000,
+      "priceRegistered": 461400000,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
     },
@@ -2807,7 +2881,7 @@
       ],
       "variationId": 20563,
       "color": "Violet Shadow",
-      "priceUnregistered": 650600000,
+      "priceUnregistered": 648800000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -2822,7 +2896,7 @@
       ],
       "variationId": 20562,
       "color": "Cream",
-      "priceUnregistered": 650600000,
+      "priceUnregistered": 648800000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -2837,7 +2911,7 @@
       ],
       "variationId": 20558,
       "color": "Violet Shadow",
-      "priceUnregistered": 436600000,
+      "priceUnregistered": 434800000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -2852,7 +2926,7 @@
       ],
       "variationId": 20557,
       "color": "Cream",
-      "priceUnregistered": 436600000,
+      "priceUnregistered": 434800000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -2870,7 +2944,7 @@
       ],
       "variationId": 20308,
       "color": "Silver",
-      "priceUnregistered": 381200000,
+      "priceUnregistered": 379600000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -2888,7 +2962,7 @@
       ],
       "variationId": 20307,
       "color": "Deep Blue",
-      "priceUnregistered": 381200000,
+      "priceUnregistered": 379600000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -2903,7 +2977,7 @@
       ],
       "variationId": 20646,
       "color": "Natural Titanium",
-      "priceUnregistered": 188800000,
+      "priceUnregistered": 188000000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -2918,7 +2992,7 @@
       ],
       "variationId": 20285,
       "color": "Black Titanium",
-      "priceUnregistered": 188800000,
+      "priceUnregistered": 188000000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -2933,7 +3007,7 @@
       ],
       "variationId": 20647,
       "color": "Natural Titanium",
-      "priceUnregistered": 188800000,
+      "priceUnregistered": 188000000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -2948,7 +3022,7 @@
       ],
       "variationId": 20283,
       "color": "Black Titanium",
-      "priceUnregistered": 188800000,
+      "priceUnregistered": 188000000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -2963,7 +3037,7 @@
       ],
       "variationId": 20281,
       "color": "Natural Titanium",
-      "priceUnregistered": 224200000,
+      "priceUnregistered": 223300000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -2978,7 +3052,7 @@
       ],
       "variationId": 20280,
       "color": "Black Titanium",
-      "priceUnregistered": 224200000,
+      "priceUnregistered": 223300000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -2996,7 +3070,7 @@
       ],
       "variationId": 20274,
       "color": "Silver",
-      "priceUnregistered": 527200000,
+      "priceUnregistered": 525600000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -3014,7 +3088,7 @@
       ],
       "variationId": 20273,
       "color": "Deep Blue",
-      "priceUnregistered": 527200000,
+      "priceUnregistered": 525600000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -3030,7 +3104,7 @@
       ],
       "variationId": 20270,
       "color": "اسپیس بلک",
-      "priceUnregistered": 494900000,
+      "priceUnregistered": 492800000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -3046,7 +3120,7 @@
       ],
       "variationId": 20269,
       "color": "نقره‌ای",
-      "priceUnregistered": 494900000,
+      "priceUnregistered": 492800000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -3062,7 +3136,7 @@
       ],
       "variationId": 20267,
       "color": "بنفش",
-      "priceUnregistered": 170000000,
+      "priceUnregistered": 169200000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -3078,7 +3152,7 @@
       ],
       "variationId": 20266,
       "color": "آبی",
-      "priceUnregistered": 170000000,
+      "priceUnregistered": 169200000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -3094,7 +3168,7 @@
       ],
       "variationId": 20265,
       "color": "استارلایت",
-      "priceUnregistered": 170000000,
+      "priceUnregistered": 169200000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -3110,7 +3184,7 @@
       ],
       "variationId": 20264,
       "color": "خاکستری",
-      "priceUnregistered": 170000000,
+      "priceUnregistered": 169200000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -3126,7 +3200,7 @@
       ],
       "variationId": 20262,
       "color": "بنفش",
-      "priceUnregistered": 144000000,
+      "priceUnregistered": 143400000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -3142,7 +3216,7 @@
       ],
       "variationId": 20261,
       "color": "آبی",
-      "priceUnregistered": 144000000,
+      "priceUnregistered": 143400000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -3158,7 +3232,7 @@
       ],
       "variationId": 20260,
       "color": "استارلایت",
-      "priceUnregistered": 144000000,
+      "priceUnregistered": 143400000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -3174,7 +3248,7 @@
       ],
       "variationId": 20259,
       "color": "خاکستری",
-      "priceUnregistered": 144000000,
+      "priceUnregistered": 143400000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -3191,7 +3265,7 @@
       ],
       "variationId": 20241,
       "color": "Deep Purple",
-      "priceUnregistered": 172300000,
+      "priceUnregistered": 171600000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -3208,7 +3282,7 @@
       ],
       "variationId": 20237,
       "color": "Space Black",
-      "priceUnregistered": 162900000,
+      "priceUnregistered": 162200000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -3225,7 +3299,7 @@
       ],
       "variationId": 20235,
       "color": "Deep Purple",
-      "priceUnregistered": 162900000,
+      "priceUnregistered": 162200000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -3240,7 +3314,7 @@
       ],
       "variationId": 20124,
       "color": "Purple",
-      "priceUnregistered": 127300000,
+      "priceUnregistered": 126700000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -3255,7 +3329,7 @@
       ],
       "variationId": 20123,
       "color": "Blue",
-      "priceUnregistered": 127300000,
+      "priceUnregistered": 126700000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -3270,7 +3344,7 @@
       ],
       "variationId": 20122,
       "color": "Starlight",
-      "priceUnregistered": 127300000,
+      "priceUnregistered": 126700000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -3285,7 +3359,7 @@
       ],
       "variationId": 20121,
       "color": "Midnight",
-      "priceUnregistered": 127300000,
+      "priceUnregistered": 126700000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -3300,7 +3374,7 @@
       ],
       "variationId": 20120,
       "color": "Orange",
-      "priceUnregistered": 127300000,
+      "priceUnregistered": 126700000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -3316,7 +3390,7 @@
       ],
       "variationId": 20589,
       "color": "نقره‌ای",
-      "priceUnregistered": 883600000,
+      "priceUnregistered": 879900000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -3332,7 +3406,7 @@
       ],
       "variationId": 20118,
       "color": "اسپیس بلک",
-      "priceUnregistered": 883600000,
+      "priceUnregistered": 879900000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -3348,7 +3422,7 @@
       ],
       "variationId": 20111,
       "color": "آبی",
-      "priceUnregistered": 424800000,
+      "priceUnregistered": 423000000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -3364,27 +3438,10 @@
       ],
       "variationId": 20109,
       "color": "نقره‌ای",
-      "priceUnregistered": 219500000,
+      "priceUnregistered": 218600000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
-    },
-    {
-      "id": 20021,
-      "name": "آیفون 17 پرو مکس دست دوم تک سیم کارت + eSIM حافظه 256 گیگابایت پارت نامبر انگلستان QNA رجیستر شده",
-      "permalink": "https://nolix.ir/product/%d8%a2%db%8c%d9%81%d9%88%d9%86-17-%d9%be%d8%b1%d9%88-%d9%85%da%a9%d8%b3-%d9%86%d8%a7%d8%aa-%d8%a7%da%a9%d8%aa%db%8c%d9%88-%d8%aa%da%a9-%d8%b3%db%8c%d9%85-%da%a9%d8%a7%d8%b1%d8%aa-esim-%d8%ad%d8%a7-5/",
-      "image": "https://nolix.ir/wp-content/uploads/2025/09/iphone-17-pro-cosmic-orange-nolix.jpg",
-      "categories": [
-        "آیفون 17",
-        "آیفون 17 پرو مکس",
-        "آیفون 17 پرو مکس 256 گیگابایت"
-      ],
-      "variationId": 20022,
-      "color": "Cosmic Orange",
-      "priceUnregistered": 416600000,
-      "priceRegistered": null,
-      "isPhone": true,
-      "registryStatus": "رجیستر شده"
     },
     {
       "id": 19987,
@@ -3399,7 +3456,7 @@
       ],
       "variationId": 19990,
       "color": "Silver",
-      "priceUnregistered": 495300000,
+      "priceUnregistered": 493800000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -3417,7 +3474,7 @@
       ],
       "variationId": 19989,
       "color": "Deep Blue",
-      "priceUnregistered": 495300000,
+      "priceUnregistered": 493800000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -3435,7 +3492,7 @@
       ],
       "variationId": 19988,
       "color": "Cosmic Orange",
-      "priceUnregistered": 495300000,
+      "priceUnregistered": 493800000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -3453,7 +3510,7 @@
       ],
       "variationId": 19985,
       "color": "Deep Blue",
-      "priceUnregistered": 462300000,
+      "priceUnregistered": 460900000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -3471,7 +3528,7 @@
       ],
       "variationId": 19978,
       "color": "Silver",
-      "priceUnregistered": 417400000,
+      "priceUnregistered": 416300000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -3489,7 +3546,7 @@
       ],
       "variationId": 19977,
       "color": "Deep Blue",
-      "priceUnregistered": 417400000,
+      "priceUnregistered": 416300000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -3507,7 +3564,7 @@
       ],
       "variationId": 19976,
       "color": "Cosmic Orange",
-      "priceUnregistered": 410400000,
+      "priceUnregistered": 409200000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -3525,7 +3582,7 @@
       ],
       "variationId": 19973,
       "color": "Deep Blue",
-      "priceUnregistered": 561800000,
+      "priceUnregistered": 560100000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -3543,7 +3600,7 @@
       ],
       "variationId": 19965,
       "color": "Deep Blue",
-      "priceUnregistered": 493300000,
+      "priceUnregistered": 491900000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -3561,7 +3618,7 @@
       ],
       "variationId": 19964,
       "color": "Cosmic Orange",
-      "priceUnregistered": 491000000,
+      "priceUnregistered": 489600000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -3578,7 +3635,7 @@
       ],
       "variationId": 19955,
       "color": "Silver",
-      "priceUnregistered": 480400000,
+      "priceUnregistered": 480200000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -3595,7 +3652,7 @@
       ],
       "variationId": 19954,
       "color": "Deep Blue",
-      "priceUnregistered": 466200000,
+      "priceUnregistered": 463700000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -3612,7 +3669,7 @@
       ],
       "variationId": 19953,
       "color": "Cosmic Orange",
-      "priceUnregistered": 466200000,
+      "priceUnregistered": 463700000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -3630,7 +3687,7 @@
       ],
       "variationId": 19951,
       "color": "Silver",
-      "priceUnregistered": 447300000,
+      "priceUnregistered": 446100000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -3648,7 +3705,7 @@
       ],
       "variationId": 19950,
       "color": "Deep Blue",
-      "priceUnregistered": 447300000,
+      "priceUnregistered": 446100000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -3666,7 +3723,7 @@
       ],
       "variationId": 19949,
       "color": "Cosmic Orange",
-      "priceUnregistered": 442600000,
+      "priceUnregistered": 441400000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -3683,7 +3740,7 @@
       ],
       "variationId": 19917,
       "color": "White",
-      "priceUnregistered": 337600000,
+      "priceUnregistered": 336600000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -3700,7 +3757,7 @@
       ],
       "variationId": 19916,
       "color": "Sage",
-      "priceUnregistered": 337600000,
+      "priceUnregistered": 336600000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -3717,7 +3774,7 @@
       ],
       "variationId": 19915,
       "color": "Mist Blue",
-      "priceUnregistered": 337600000,
+      "priceUnregistered": 336600000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -3734,7 +3791,7 @@
       ],
       "variationId": 19914,
       "color": "Lavender",
-      "priceUnregistered": 337600000,
+      "priceUnregistered": 336600000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -3751,7 +3808,7 @@
       ],
       "variationId": 19913,
       "color": "Black",
-      "priceUnregistered": 337600000,
+      "priceUnregistered": 336600000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -3768,7 +3825,7 @@
       ],
       "variationId": 19883,
       "color": "Silver",
-      "priceUnregistered": 454000000,
+      "priceUnregistered": 449200000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -3785,7 +3842,7 @@
       ],
       "variationId": 19881,
       "color": "Cosmic Orange",
-      "priceUnregistered": 432800000,
+      "priceUnregistered": 431600000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -3802,7 +3859,7 @@
       ],
       "variationId": 19869,
       "color": "Cosmic Orange",
-      "priceUnregistered": 515400000,
+      "priceUnregistered": 513800000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -3819,7 +3876,7 @@
       ],
       "variationId": 19865,
       "color": "Cosmic Orange",
-      "priceUnregistered": 435100000,
+      "priceUnregistered": 433900000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -3836,7 +3893,7 @@
       ],
       "variationId": 19849,
       "color": "Cosmic Orange",
-      "priceUnregistered": 603100000,
+      "priceUnregistered": 601200000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -3853,7 +3910,7 @@
       ],
       "variationId": 19842,
       "color": "Deep Blue",
-      "priceUnregistered": 561800000,
+      "priceUnregistered": 560100000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -3870,7 +3927,7 @@
       ],
       "variationId": 19841,
       "color": "Cosmic Orange",
-      "priceUnregistered": 561800000,
+      "priceUnregistered": 560100000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -3887,7 +3944,7 @@
       ],
       "variationId": 19835,
       "color": "Silver",
-      "priceUnregistered": 520500000,
+      "priceUnregistered": 518900000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -3904,7 +3961,7 @@
       ],
       "variationId": 19834,
       "color": "Deep Blue",
-      "priceUnregistered": 515800000,
+      "priceUnregistered": 514200000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -3921,7 +3978,7 @@
       ],
       "variationId": 19833,
       "color": "Cosmic Orange",
-      "priceUnregistered": 508700000,
+      "priceUnregistered": 507200000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -3938,7 +3995,7 @@
       ],
       "variationId": 19829,
       "color": "Cosmic Orange",
-      "priceUnregistered": 539400000,
+      "priceUnregistered": 537700000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -3955,7 +4012,7 @@
       ],
       "variationId": 19827,
       "color": "Silver",
-      "priceUnregistered": 492200000,
+      "priceUnregistered": 490700000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -3972,7 +4029,7 @@
       ],
       "variationId": 19826,
       "color": "Deep Blue",
-      "priceUnregistered": 486300000,
+      "priceUnregistered": 483700000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -3989,7 +4046,7 @@
       ],
       "variationId": 19825,
       "color": "Cosmic Orange",
-      "priceUnregistered": 480400000,
+      "priceUnregistered": 477800000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -4006,7 +4063,7 @@
       ],
       "variationId": 19806,
       "color": "Deep Blue",
-      "priceUnregistered": 550000000,
+      "priceUnregistered": 548300000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -4023,7 +4080,7 @@
       ],
       "variationId": 19801,
       "color": "Cosmic Orange",
-      "priceUnregistered": 492200000,
+      "priceUnregistered": 490700000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -4041,7 +4098,7 @@
       ],
       "variationId": 19791,
       "color": "Star Light",
-      "priceUnregistered": 114600000,
+      "priceUnregistered": 114200000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -4057,7 +4114,7 @@
       ],
       "variationId": 20347,
       "color": "سبز",
-      "priceUnregistered": 316300000,
+      "priceUnregistered": 314900000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -4073,7 +4130,7 @@
       ],
       "variationId": 19778,
       "color": "صورتی",
-      "priceUnregistered": 316300000,
+      "priceUnregistered": 314900000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -4089,7 +4146,7 @@
       ],
       "variationId": 20348,
       "color": "صورتی",
-      "priceUnregistered": 265100000,
+      "priceUnregistered": 264000000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -4105,7 +4162,7 @@
       ],
       "variationId": 19776,
       "color": "سبز",
-      "priceUnregistered": 306800000,
+      "priceUnregistered": 305500000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -4121,7 +4178,7 @@
       ],
       "variationId": 20257,
       "color": "اسپیس بلک",
-      "priceUnregistered": 1109200000,
+      "priceUnregistered": 1104500000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -4137,7 +4194,7 @@
       ],
       "variationId": 19774,
       "color": "نقره‌ای",
-      "priceUnregistered": 1161400000,
+      "priceUnregistered": 1156500000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -4153,7 +4210,7 @@
       ],
       "variationId": 20256,
       "color": "اسپیس بلک",
-      "priceUnregistered": 959400000,
+      "priceUnregistered": 955300000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -4169,7 +4226,7 @@
       ],
       "variationId": 19772,
       "color": "نقره‌ای",
-      "priceUnregistered": 959400000,
+      "priceUnregistered": 955300000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -4185,7 +4242,7 @@
       ],
       "variationId": 19768,
       "color": "اسپیس بلک",
-      "priceUnregistered": 959400000,
+      "priceUnregistered": 955300000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -4201,7 +4258,7 @@
       ],
       "variationId": 19766,
       "color": "اسپیس بلک",
-      "priceUnregistered": 712300000,
+      "priceUnregistered": 709300000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -4217,7 +4274,7 @@
       ],
       "variationId": 19765,
       "color": "نقره‌ای",
-      "priceUnregistered": 712300000,
+      "priceUnregistered": 709300000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -4233,7 +4290,7 @@
       ],
       "variationId": 20255,
       "color": "نقره‌ای",
-      "priceUnregistered": 656400000,
+      "priceUnregistered": 653600000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -4249,7 +4306,7 @@
       ],
       "variationId": 20351,
       "color": "نقره‌ای",
-      "priceUnregistered": 626200000,
+      "priceUnregistered": 623500000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -4265,7 +4322,7 @@
       ],
       "variationId": 19759,
       "color": "اسپیس بلک",
-      "priceUnregistered": 626200000,
+      "priceUnregistered": 623500000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -4281,7 +4338,7 @@
       ],
       "variationId": 19758,
       "color": "نقره‌ای",
-      "priceUnregistered": 626200000,
+      "priceUnregistered": 623500000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -4297,7 +4354,7 @@
       ],
       "variationId": 20352,
       "color": "نقره‌ای",
-      "priceUnregistered": 474600000,
+      "priceUnregistered": 472600000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -4313,7 +4370,7 @@
       ],
       "variationId": 19756,
       "color": "اسپیس بلک",
-      "priceUnregistered": 474600000,
+      "priceUnregistered": 472600000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -4329,7 +4386,7 @@
       ],
       "variationId": 20254,
       "color": "نقره‌ای",
-      "priceUnregistered": 224200000,
+      "priceUnregistered": 223300000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -4345,7 +4402,7 @@
       ],
       "variationId": 19753,
       "color": "سیترس",
-      "priceUnregistered": 224200000,
+      "priceUnregistered": 223300000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -4361,7 +4418,7 @@
       ],
       "variationId": 19751,
       "color": "نقره‌ای",
-      "priceUnregistered": 200600000,
+      "priceUnregistered": 199800000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -4377,7 +4434,7 @@
       ],
       "variationId": 19749,
       "color": "سیترس",
-      "priceUnregistered": 200600000,
+      "priceUnregistered": 199800000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -4393,7 +4450,7 @@
       ],
       "variationId": 19746,
       "color": "استارلایت",
-      "priceUnregistered": 507400000,
+      "priceUnregistered": 505300000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -4409,7 +4466,7 @@
       ],
       "variationId": 19745,
       "color": "آبی آسمانی",
-      "priceUnregistered": 507400000,
+      "priceUnregistered": 505300000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -4425,7 +4482,7 @@
       ],
       "variationId": 19744,
       "color": "نقره‌ای",
-      "priceUnregistered": 510300000,
+      "priceUnregistered": 508100000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -4441,7 +4498,7 @@
       ],
       "variationId": 19743,
       "color": "میدنایت",
-      "priceUnregistered": 504900000,
+      "priceUnregistered": 502700000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -4457,7 +4514,7 @@
       ],
       "variationId": 19741,
       "color": "استارلایت",
-      "priceUnregistered": 441100000,
+      "priceUnregistered": 439300000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -4473,7 +4530,7 @@
       ],
       "variationId": 19740,
       "color": "آبی آسمانی",
-      "priceUnregistered": 441100000,
+      "priceUnregistered": 439300000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -4489,7 +4546,7 @@
       ],
       "variationId": 19739,
       "color": "نقره‌ای",
-      "priceUnregistered": 441100000,
+      "priceUnregistered": 439300000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -4505,7 +4562,7 @@
       ],
       "variationId": 19738,
       "color": "میدنایت",
-      "priceUnregistered": 436600000,
+      "priceUnregistered": 434800000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -4521,7 +4578,7 @@
       ],
       "variationId": 19736,
       "color": "استارلایت",
-      "priceUnregistered": 401500000,
+      "priceUnregistered": 399800000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -4537,7 +4594,7 @@
       ],
       "variationId": 19733,
       "color": "استارلایت",
-      "priceUnregistered": 419200000,
+      "priceUnregistered": 417400000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -4553,7 +4610,7 @@
       ],
       "variationId": 19727,
       "color": "استارلایت",
-      "priceUnregistered": 460200000,
+      "priceUnregistered": 458300000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -4569,7 +4626,7 @@
       ],
       "variationId": 19726,
       "color": "آبی آسمانی",
-      "priceUnregistered": 460200000,
+      "priceUnregistered": 458300000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -4585,7 +4642,7 @@
       ],
       "variationId": 19725,
       "color": "نقره‌ای",
-      "priceUnregistered": 454300000,
+      "priceUnregistered": 452400000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -4601,7 +4658,7 @@
       ],
       "variationId": 19724,
       "color": "میدنایت",
-      "priceUnregistered": 460200000,
+      "priceUnregistered": 458300000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -4617,7 +4674,7 @@
       ],
       "variationId": 19722,
       "color": "استارلایت",
-      "priceUnregistered": 398900000,
+      "priceUnregistered": 397200000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -4633,7 +4690,7 @@
       ],
       "variationId": 19721,
       "color": "آبی آسمانی",
-      "priceUnregistered": 398900000,
+      "priceUnregistered": 397200000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -4649,7 +4706,7 @@
       ],
       "variationId": 19720,
       "color": "نقره‌ای",
-      "priceUnregistered": 398900000,
+      "priceUnregistered": 397200000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -4665,7 +4722,7 @@
       ],
       "variationId": 19719,
       "color": "میدنایت",
-      "priceUnregistered": 398900000,
+      "priceUnregistered": 397200000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -4681,7 +4738,7 @@
       ],
       "variationId": 19715,
       "color": "نقره‌ای",
-      "priceUnregistered": 373600000,
+      "priceUnregistered": 372100000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -4697,7 +4754,7 @@
       ],
       "variationId": 19710,
       "color": "نقره‌ای",
-      "priceUnregistered": 656400000,
+      "priceUnregistered": 653600000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -4713,7 +4770,7 @@
       ],
       "variationId": 19708,
       "color": "نقره‌ای",
-      "priceUnregistered": 631100000,
+      "priceUnregistered": 628400000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -4729,7 +4786,7 @@
       ],
       "variationId": 19704,
       "color": "نقره‌ای",
-      "priceUnregistered": 578200000,
+      "priceUnregistered": 575800000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -4744,7 +4801,7 @@
       ],
       "variationId": 19685,
       "color": "Gold",
-      "priceUnregistered": 191200000,
+      "priceUnregistered": 190400000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -4759,7 +4816,7 @@
       ],
       "variationId": 19682,
       "color": "Slate",
-      "priceUnregistered": 200600000,
+      "priceUnregistered": 199800000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -4774,10 +4831,234 @@
       ],
       "variationId": 19681,
       "color": "Gold",
-      "priceUnregistered": 200600000,
+      "priceUnregistered": 199800000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
+    },
+    {
+      "id": 19675,
+      "name": "سامسونگ اس ۲۵ حافظه ۲۵۶ گیگابایت و رم ۱۲ گیگابایت | Samsung S25 256/12 رجیستر شده",
+      "permalink": "https://nolix.ir/product/%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%da%af-%d8%a7%d8%b3-%db%b2%db%b5-%d8%ad%d8%a7%d9%81%d8%b8%d9%87-%db%b2%db%b5%db%b6-%da%af%db%8c%da%af%d8%a7%d8%a8%d8%a7%db%8c%d8%aa-%d9%88-%d8%b1%d9%85-%db%b1-2/",
+      "image": "https://nolix.ir/wp-content/uploads/2026/07/samsung-s25-silvershadow-nolix.jpg",
+      "categories": [
+        "گلکسی S25",
+        "گلکسی S25 نرمال"
+      ],
+      "variationId": 19677,
+      "color": "Icy Blue",
+      "priceUnregistered": 251000000,
+      "priceRegistered": null,
+      "isPhone": true,
+      "registryStatus": "رجیستر شده"
+    },
+    {
+      "id": 19672,
+      "name": "سامسونگ اس ۲۵ اولترا حافظه ۱ ترابایت و رم ۱۲ گیگابایت | Samsung S25 Ultra 1TB/12 رجیستر شده",
+      "permalink": "https://nolix.ir/product/%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%da%af-%d8%a7%d8%b3-%db%b2%db%b5-%d8%a7%d9%88%d9%84%d8%aa%d8%b1%d8%a7-%d8%ad%d8%a7%d9%81%d8%b8%d9%87-%db%b1-%d8%aa%d8%b1%d8%a7%d8%a8%d8%a7%db%8c%d8%aa-%d9%88-2/",
+      "image": "https://nolix.ir/wp-content/uploads/2026/07/samsung-s25-ultra-titanium-whitesilver-nolix.jpg",
+      "categories": [
+        "گلکسی S25",
+        "گلکسی S25 اولترا"
+      ],
+      "variationId": 20327,
+      "color": "Titanium Gray",
+      "priceUnregistered": 325000000,
+      "priceRegistered": null,
+      "isPhone": true,
+      "registryStatus": "رجیستر شده"
+    },
+    {
+      "id": 19672,
+      "name": "سامسونگ اس ۲۵ اولترا حافظه ۱ ترابایت و رم ۱۲ گیگابایت | Samsung S25 Ultra 1TB/12 رجیستر شده",
+      "permalink": "https://nolix.ir/product/%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%da%af-%d8%a7%d8%b3-%db%b2%db%b5-%d8%a7%d9%88%d9%84%d8%aa%d8%b1%d8%a7-%d8%ad%d8%a7%d9%81%d8%b8%d9%87-%db%b1-%d8%aa%d8%b1%d8%a7%d8%a8%d8%a7%db%8c%d8%aa-%d9%88-2/",
+      "image": "https://nolix.ir/wp-content/uploads/2026/07/samsung-s25-ultra-titanium-whitesilver-nolix.jpg",
+      "categories": [
+        "گلکسی S25",
+        "گلکسی S25 اولترا"
+      ],
+      "variationId": 19674,
+      "color": "Titanium Black",
+      "priceUnregistered": 325000000,
+      "priceRegistered": null,
+      "isPhone": true,
+      "registryStatus": "رجیستر شده"
+    },
+    {
+      "id": 19672,
+      "name": "سامسونگ اس ۲۵ اولترا حافظه ۱ ترابایت و رم ۱۲ گیگابایت | Samsung S25 Ultra 1TB/12 رجیستر شده",
+      "permalink": "https://nolix.ir/product/%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%da%af-%d8%a7%d8%b3-%db%b2%db%b5-%d8%a7%d9%88%d9%84%d8%aa%d8%b1%d8%a7-%d8%ad%d8%a7%d9%81%d8%b8%d9%87-%db%b1-%d8%aa%d8%b1%d8%a7%d8%a8%d8%a7%db%8c%d8%aa-%d9%88-2/",
+      "image": "https://nolix.ir/wp-content/uploads/2026/07/samsung-s25-ultra-titanium-whitesilver-nolix.jpg",
+      "categories": [
+        "گلکسی S25",
+        "گلکسی S25 اولترا"
+      ],
+      "variationId": 19673,
+      "color": "Titanium Whitesilver",
+      "priceUnregistered": 325000000,
+      "priceRegistered": null,
+      "isPhone": true,
+      "registryStatus": "رجیستر شده"
+    },
+    {
+      "id": 19670,
+      "name": "سامسونگ اس ۲۵ اولترا حافظه ۲۵۶ گیگابایت و رم ۱۲ گیگابایت | Samsung S25 Ultra 256/12 رجیستر شده",
+      "permalink": "https://nolix.ir/product/%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%da%af-%d8%a7%d8%b3-%db%b2%db%b5-%d8%a7%d9%88%d9%84%d8%aa%d8%b1%d8%a7-%d8%ad%d8%a7%d9%81%d8%b8%d9%87-%db%b2%db%b5%db%b6-%da%af%db%8c%da%af%d8%a7%d8%a8%d8%a7%db%8c-2/",
+      "image": "https://nolix.ir/wp-content/uploads/2026/07/samsung-s25-ultra-titanium-black-nolix.jpg",
+      "categories": [
+        "گلکسی S25",
+        "گلکسی S25 اولترا"
+      ],
+      "variationId": 20250,
+      "color": "Titanium Gray",
+      "priceUnregistered": 278000000,
+      "priceRegistered": null,
+      "isPhone": true,
+      "registryStatus": "رجیستر شده"
+    },
+    {
+      "id": 19670,
+      "name": "سامسونگ اس ۲۵ اولترا حافظه ۲۵۶ گیگابایت و رم ۱۲ گیگابایت | Samsung S25 Ultra 256/12 رجیستر شده",
+      "permalink": "https://nolix.ir/product/%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%da%af-%d8%a7%d8%b3-%db%b2%db%b5-%d8%a7%d9%88%d9%84%d8%aa%d8%b1%d8%a7-%d8%ad%d8%a7%d9%81%d8%b8%d9%87-%db%b2%db%b5%db%b6-%da%af%db%8c%da%af%d8%a7%d8%a8%d8%a7%db%8c-2/",
+      "image": "https://nolix.ir/wp-content/uploads/2026/07/samsung-s25-ultra-titanium-black-nolix.jpg",
+      "categories": [
+        "گلکسی S25",
+        "گلکسی S25 اولترا"
+      ],
+      "variationId": 20249,
+      "color": "Titanium Silverblue",
+      "priceUnregistered": 278000000,
+      "priceRegistered": null,
+      "isPhone": true,
+      "registryStatus": "رجیستر شده"
+    },
+    {
+      "id": 19670,
+      "name": "سامسونگ اس ۲۵ اولترا حافظه ۲۵۶ گیگابایت و رم ۱۲ گیگابایت | Samsung S25 Ultra 256/12 رجیستر شده",
+      "permalink": "https://nolix.ir/product/%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%da%af-%d8%a7%d8%b3-%db%b2%db%b5-%d8%a7%d9%88%d9%84%d8%aa%d8%b1%d8%a7-%d8%ad%d8%a7%d9%81%d8%b8%d9%87-%db%b2%db%b5%db%b6-%da%af%db%8c%da%af%d8%a7%d8%a8%d8%a7%db%8c-2/",
+      "image": "https://nolix.ir/wp-content/uploads/2026/07/samsung-s25-ultra-titanium-black-nolix.jpg",
+      "categories": [
+        "گلکسی S25",
+        "گلکسی S25 اولترا"
+      ],
+      "variationId": 19671,
+      "color": "Titanium Black",
+      "priceUnregistered": 278000000,
+      "priceRegistered": null,
+      "isPhone": true,
+      "registryStatus": "رجیستر شده"
+    },
+    {
+      "id": 19663,
+      "name": "سامسونگ اس ۲۵ حافظه ۲۵۶ گیگابایت و رم ۱۲ گیگابایت | Samsung S25 256/12 بدون رجیستری",
+      "permalink": "https://nolix.ir/product/%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%da%af-%d8%a7%d8%b3-%db%b2%db%b5-%d8%ad%d8%a7%d9%81%d8%b8%d9%87-%db%b2%db%b5%db%b6-%da%af%db%8c%da%af%d8%a7%d8%a8%d8%a7%db%8c%d8%aa-%d9%88-%d8%b1%d9%85-%db%b1%db%b2/",
+      "image": "https://nolix.ir/wp-content/uploads/2026/07/samsung-s25-silvershadow-nolix.jpg",
+      "categories": [
+        "گلکسی S25",
+        "گلکسی S25 نرمال"
+      ],
+      "variationId": 19665,
+      "color": "Icy Blue",
+      "priceUnregistered": 154000000,
+      "priceRegistered": null,
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
+    },
+    {
+      "id": 19658,
+      "name": "سامسونگ اس ۲۵ اولترا حافظه ۱ ترابایت و رم ۱۲ گیگابایت | Samsung S25 Ultra 1TB/12 بدون رجیستری",
+      "permalink": "https://nolix.ir/product/%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%da%af-%d8%a7%d8%b3-%db%b2%db%b5-%d8%a7%d9%88%d9%84%d8%aa%d8%b1%d8%a7-%d8%ad%d8%a7%d9%81%d8%b8%d9%87-%db%b1-%d8%aa%d8%b1%d8%a7%d8%a8%d8%a7%db%8c%d8%aa-%d9%88-%d8%b1/",
+      "image": "https://nolix.ir/wp-content/uploads/2026/07/samsung-s25-ultra-titanium-whitesilver-nolix.jpg",
+      "categories": [
+        "گلکسی S25",
+        "گلکسی S25 اولترا"
+      ],
+      "variationId": 20330,
+      "color": "Titanium Gray",
+      "priceUnregistered": 228000000,
+      "priceRegistered": null,
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
+    },
+    {
+      "id": 19658,
+      "name": "سامسونگ اس ۲۵ اولترا حافظه ۱ ترابایت و رم ۱۲ گیگابایت | Samsung S25 Ultra 1TB/12 بدون رجیستری",
+      "permalink": "https://nolix.ir/product/%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%da%af-%d8%a7%d8%b3-%db%b2%db%b5-%d8%a7%d9%88%d9%84%d8%aa%d8%b1%d8%a7-%d8%ad%d8%a7%d9%81%d8%b8%d9%87-%db%b1-%d8%aa%d8%b1%d8%a7%d8%a8%d8%a7%db%8c%d8%aa-%d9%88-%d8%b1/",
+      "image": "https://nolix.ir/wp-content/uploads/2026/07/samsung-s25-ultra-titanium-whitesilver-nolix.jpg",
+      "categories": [
+        "گلکسی S25",
+        "گلکسی S25 اولترا"
+      ],
+      "variationId": 19660,
+      "color": "Titanium Black",
+      "priceUnregistered": 228000000,
+      "priceRegistered": null,
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
+    },
+    {
+      "id": 19658,
+      "name": "سامسونگ اس ۲۵ اولترا حافظه ۱ ترابایت و رم ۱۲ گیگابایت | Samsung S25 Ultra 1TB/12 بدون رجیستری",
+      "permalink": "https://nolix.ir/product/%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%da%af-%d8%a7%d8%b3-%db%b2%db%b5-%d8%a7%d9%88%d9%84%d8%aa%d8%b1%d8%a7-%d8%ad%d8%a7%d9%81%d8%b8%d9%87-%db%b1-%d8%aa%d8%b1%d8%a7%d8%a8%d8%a7%db%8c%d8%aa-%d9%88-%d8%b1/",
+      "image": "https://nolix.ir/wp-content/uploads/2026/07/samsung-s25-ultra-titanium-whitesilver-nolix.jpg",
+      "categories": [
+        "گلکسی S25",
+        "گلکسی S25 اولترا"
+      ],
+      "variationId": 19659,
+      "color": "Titanium Whitesilver",
+      "priceUnregistered": 228000000,
+      "priceRegistered": null,
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
+    },
+    {
+      "id": 19655,
+      "name": "سامسونگ اس ۲۵ اولترا حافظه ۲۵۶ گیگابایت و رم ۱۲ گیگابایت | Samsung S25 Ultra 256/12 بدون رجیستری",
+      "permalink": "https://nolix.ir/product/%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%da%af-%d8%a7%d8%b3-%db%b2%db%b5-%d8%a7%d9%88%d9%84%d8%aa%d8%b1%d8%a7-%d8%ad%d8%a7%d9%81%d8%b8%d9%87-%db%b2%db%b5%db%b6-%da%af%db%8c%da%af%d8%a7%d8%a8%d8%a7%db%8c/",
+      "image": "https://nolix.ir/wp-content/uploads/2026/07/samsung-s25-ultra-titanium-black-nolix.jpg",
+      "categories": [
+        "گلکسی S25",
+        "گلکسی S25 اولترا"
+      ],
+      "variationId": 20324,
+      "color": "Titanium Gray",
+      "priceUnregistered": 181000000,
+      "priceRegistered": null,
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
+    },
+    {
+      "id": 19655,
+      "name": "سامسونگ اس ۲۵ اولترا حافظه ۲۵۶ گیگابایت و رم ۱۲ گیگابایت | Samsung S25 Ultra 256/12 بدون رجیستری",
+      "permalink": "https://nolix.ir/product/%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%da%af-%d8%a7%d8%b3-%db%b2%db%b5-%d8%a7%d9%88%d9%84%d8%aa%d8%b1%d8%a7-%d8%ad%d8%a7%d9%81%d8%b8%d9%87-%db%b2%db%b5%db%b6-%da%af%db%8c%da%af%d8%a7%d8%a8%d8%a7%db%8c/",
+      "image": "https://nolix.ir/wp-content/uploads/2026/07/samsung-s25-ultra-titanium-black-nolix.jpg",
+      "categories": [
+        "گلکسی S25",
+        "گلکسی S25 اولترا"
+      ],
+      "variationId": 20323,
+      "color": "Titanium Silverblue",
+      "priceUnregistered": 181000000,
+      "priceRegistered": null,
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
+    },
+    {
+      "id": 19655,
+      "name": "سامسونگ اس ۲۵ اولترا حافظه ۲۵۶ گیگابایت و رم ۱۲ گیگابایت | Samsung S25 Ultra 256/12 بدون رجیستری",
+      "permalink": "https://nolix.ir/product/%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%da%af-%d8%a7%d8%b3-%db%b2%db%b5-%d8%a7%d9%88%d9%84%d8%aa%d8%b1%d8%a7-%d8%ad%d8%a7%d9%81%d8%b8%d9%87-%db%b2%db%b5%db%b6-%da%af%db%8c%da%af%d8%a7%d8%a8%d8%a7%db%8c/",
+      "image": "https://nolix.ir/wp-content/uploads/2026/07/samsung-s25-ultra-titanium-black-nolix.jpg",
+      "categories": [
+        "گلکسی S25",
+        "گلکسی S25 اولترا"
+      ],
+      "variationId": 19656,
+      "color": "Titanium Black",
+      "priceUnregistered": 181000000,
+      "priceRegistered": null,
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
     },
     {
       "id": 19643,
@@ -4789,7 +5070,7 @@
       ],
       "variationId": 19644,
       "color": "Black",
-      "priceUnregistered": 94400000,
+      "priceUnregistered": 94000000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -4804,7 +5085,7 @@
       ],
       "variationId": 19638,
       "color": "White",
-      "priceUnregistered": 30700000,
+      "priceUnregistered": 30600000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -4819,7 +5100,7 @@
       ],
       "variationId": 19637,
       "color": "Black",
-      "priceUnregistered": 30700000,
+      "priceUnregistered": 30600000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -4836,10 +5117,138 @@
       ],
       "variationId": 19631,
       "color": "Cosmic Orange",
-      "priceUnregistered": 259600000,
+      "priceUnregistered": 258500000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
+    },
+    {
+      "id": 19567,
+      "name": "سامسونگ اس ۲۶ اولترا حافظه ۱ ترابایت و رم ۱۶ گیگابایت | Samsung S26 Ultra 1TB/16 بدون رجیستری",
+      "permalink": "https://nolix.ir/product/samsung-s26-ultra-1tb-2/",
+      "image": "https://nolix.ir/wp-content/uploads/2026/04/samsung-s26-ultra-black-nolix.jpg",
+      "categories": [
+        "گلکسی S26",
+        "گلکسی S26 اولترا"
+      ],
+      "variationId": 19571,
+      "color": "White",
+      "priceUnregistered": 320800000,
+      "priceRegistered": null,
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
+    },
+    {
+      "id": 19567,
+      "name": "سامسونگ اس ۲۶ اولترا حافظه ۱ ترابایت و رم ۱۶ گیگابایت | Samsung S26 Ultra 1TB/16 بدون رجیستری",
+      "permalink": "https://nolix.ir/product/samsung-s26-ultra-1tb-2/",
+      "image": "https://nolix.ir/wp-content/uploads/2026/04/samsung-s26-ultra-black-nolix.jpg",
+      "categories": [
+        "گلکسی S26",
+        "گلکسی S26 اولترا"
+      ],
+      "variationId": 19568,
+      "color": "Black",
+      "priceUnregistered": 320800000,
+      "priceRegistered": null,
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
+    },
+    {
+      "id": 19560,
+      "name": "سامسونگ اس ۲۶ اولترا حافظه ۱ ترابایت و رم ۱۶ گیگابایت | Samsung S26 Ultra 1TB/16 رجیستر شده",
+      "permalink": "https://nolix.ir/product/samsung-s26-ultra-1tb/",
+      "image": "https://nolix.ir/wp-content/uploads/2026/04/samsung-s26-ultra-black-nolix.jpg",
+      "categories": [
+        "گلکسی S26",
+        "گلکسی S26 اولترا"
+      ],
+      "variationId": 19564,
+      "color": "White",
+      "priceUnregistered": 442800000,
+      "priceRegistered": null,
+      "isPhone": true,
+      "registryStatus": "رجیستر شده"
+    },
+    {
+      "id": 19560,
+      "name": "سامسونگ اس ۲۶ اولترا حافظه ۱ ترابایت و رم ۱۶ گیگابایت | Samsung S26 Ultra 1TB/16 رجیستر شده",
+      "permalink": "https://nolix.ir/product/samsung-s26-ultra-1tb/",
+      "image": "https://nolix.ir/wp-content/uploads/2026/04/samsung-s26-ultra-black-nolix.jpg",
+      "categories": [
+        "گلکسی S26",
+        "گلکسی S26 اولترا"
+      ],
+      "variationId": 19561,
+      "color": "Black",
+      "priceUnregistered": 442800000,
+      "priceRegistered": null,
+      "isPhone": true,
+      "registryStatus": "رجیستر شده"
+    },
+    {
+      "id": 19553,
+      "name": "سامسونگ اس ۲۶ اولترا حافظه ۵۱۲ گیگابایت و رم ۱۲ گیگابایت | Samsung S26 Ultra 512/12 بدون رجیستری",
+      "permalink": "https://nolix.ir/product/samsung-s26-ultra-512-2/",
+      "image": "https://nolix.ir/wp-content/uploads/2026/04/samsung-s26-ultra-black-nolix.jpg",
+      "categories": [
+        "گلکسی S26",
+        "گلکسی S26 اولترا"
+      ],
+      "variationId": 19555,
+      "color": "Cobalt Violet",
+      "priceUnregistered": 257400000,
+      "priceRegistered": null,
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
+    },
+    {
+      "id": 19553,
+      "name": "سامسونگ اس ۲۶ اولترا حافظه ۵۱۲ گیگابایت و رم ۱۲ گیگابایت | Samsung S26 Ultra 512/12 بدون رجیستری",
+      "permalink": "https://nolix.ir/product/samsung-s26-ultra-512-2/",
+      "image": "https://nolix.ir/wp-content/uploads/2026/04/samsung-s26-ultra-black-nolix.jpg",
+      "categories": [
+        "گلکسی S26",
+        "گلکسی S26 اولترا"
+      ],
+      "variationId": 19554,
+      "color": "Black",
+      "priceUnregistered": 257400000,
+      "priceRegistered": null,
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
+    },
+    {
+      "id": 19546,
+      "name": "سامسونگ اس ۲۶ اولترا حافظه ۵۱۲ گیگابایت و رم ۱۲ گیگابایت | Samsung S26 Ultra 512/12 رجیستر شده",
+      "permalink": "https://nolix.ir/product/samsung-s26-ultra-512/",
+      "image": "https://nolix.ir/wp-content/uploads/2026/04/samsung-s26-ultra-black-nolix.jpg",
+      "categories": [
+        "گلکسی S26",
+        "گلکسی S26 اولترا"
+      ],
+      "variationId": 19548,
+      "color": "Cobalt Violet",
+      "priceUnregistered": 379400000,
+      "priceRegistered": null,
+      "isPhone": true,
+      "registryStatus": "رجیستر شده"
+    },
+    {
+      "id": 19546,
+      "name": "سامسونگ اس ۲۶ اولترا حافظه ۵۱۲ گیگابایت و رم ۱۲ گیگابایت | Samsung S26 Ultra 512/12 رجیستر شده",
+      "permalink": "https://nolix.ir/product/samsung-s26-ultra-512/",
+      "image": "https://nolix.ir/wp-content/uploads/2026/04/samsung-s26-ultra-black-nolix.jpg",
+      "categories": [
+        "گلکسی S26",
+        "گلکسی S26 اولترا"
+      ],
+      "variationId": 19547,
+      "color": "Black",
+      "priceUnregistered": 379400000,
+      "priceRegistered": null,
+      "isPhone": true,
+      "registryStatus": "رجیستر شده"
     },
     {
       "id": 19525,
@@ -4851,23 +5260,7 @@
       ],
       "variationId": 19526,
       "color": "گارانتی سلامت و اصالت کالا، فعال نشده (NotActive)",
-      "priceUnregistered": 56700000,
-      "priceRegistered": null,
-      "isPhone": false,
-      "registryStatus": null
-    },
-    {
-      "id": 19503,
-      "name": "آیپد Air M4 ۱۳ اینچ ۱۲۸ گیگابایت Wi-Fi آکبند ۲۰۲۶",
-      "permalink": "https://nolix.ir/product/%d8%a2%db%8c%d9%be%d8%af-%d8%a7%db%8c%d8%b1-m3-%db%b1%db%b3-%d8%a7%db%8c%d9%86%da%86-%db%b1%db%b2%db%b8-%da%af%db%8c%da%af%d8%a7%d8%a8%d8%a7%db%8c%d8%aa-wi-fi-%d8%a2%da%a9%d8%a8%d9%86%d8%af-%db%b2/",
-      "image": "https://nolix.ir/wp-content/uploads/2026/06/ipad-air-gray-front-nolix.jpg",
-      "categories": [
-        "آیپد",
-        "آیپد Air"
-      ],
-      "variationId": 19615,
-      "color": "آبی",
-      "priceUnregistered": 210100000,
+      "priceUnregistered": 56400000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -4883,7 +5276,7 @@
       ],
       "variationId": 19501,
       "color": "آبی",
-      "priceUnregistered": 198300000,
+      "priceUnregistered": 197400000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -4899,7 +5292,7 @@
       ],
       "variationId": 19500,
       "color": "استارلایت",
-      "priceUnregistered": 198300000,
+      "priceUnregistered": 197400000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -4915,7 +5308,7 @@
       ],
       "variationId": 19499,
       "color": "خاکستری",
-      "priceUnregistered": 198300000,
+      "priceUnregistered": 197400000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -4931,23 +5324,7 @@
       ],
       "variationId": 19497,
       "color": "بنفش",
-      "priceUnregistered": 171100000,
-      "priceRegistered": null,
-      "isPhone": false,
-      "registryStatus": null
-    },
-    {
-      "id": 19493,
-      "name": "آیپد Air M4 ۱۱ اینچ ۱۲۸ گیگابایت Wi-Fi آکبند ۲۰۲۶",
-      "permalink": "https://nolix.ir/product/%d8%a2%db%8c%d9%be%d8%af-%d8%a7%db%8c%d8%b1-m4-%db%b1%db%b1-%d8%a7%db%8c%d9%86%da%86-%db%b1%db%b2%db%b8-%da%af%db%8c%da%af%d8%a7%d8%a8%d8%a7%db%8c%d8%aa-wi-fi-%d8%a2%da%a9%d8%a8%d9%86%d8%af-%db%b2/",
-      "image": "https://nolix.ir/wp-content/uploads/2026/06/ipad-air-gray-front-nolix.jpg",
-      "categories": [
-        "آیپد",
-        "آیپد Air"
-      ],
-      "variationId": 19496,
-      "color": "آبی",
-      "priceUnregistered": 171100000,
+      "priceUnregistered": 170400000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -4963,7 +5340,7 @@
       ],
       "variationId": 19494,
       "color": "خاکستری",
-      "priceUnregistered": 171100000,
+      "priceUnregistered": 170400000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -4979,7 +5356,7 @@
       ],
       "variationId": 19492,
       "color": "صورتی",
-      "priceUnregistered": 131000000,
+      "priceUnregistered": 131600000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -4995,7 +5372,7 @@
       ],
       "variationId": 19491,
       "color": "زرد",
-      "priceUnregistered": 131000000,
+      "priceUnregistered": 131600000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -5011,7 +5388,7 @@
       ],
       "variationId": 19490,
       "color": "نقره‌ای",
-      "priceUnregistered": 131000000,
+      "priceUnregistered": 131600000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -5027,23 +5404,7 @@
       ],
       "variationId": 19489,
       "color": "آبی",
-      "priceUnregistered": 131000000,
-      "priceRegistered": null,
-      "isPhone": false,
-      "registryStatus": null
-    },
-    {
-      "id": 19483,
-      "name": "آیپد ۱۱ (A16) ۱۲۸ گیگابایت Wi-Fi آکبند ۲۰۲۵",
-      "permalink": "https://nolix.ir/product/%d8%a2%db%8c%d9%be%d8%af-%db%b1%db%b1-a16-%db%b1%db%b2%db%b8-%da%af%db%8c%da%af%d8%a7%d8%a8%d8%a7%db%8c%d8%aa-wi-fi-%d8%a2%da%a9%d8%a8%d9%86%d8%af-%db%b2%db%b0%db%b2%db%b5/",
-      "image": "https://nolix.ir/wp-content/uploads/2026/06/ipad-a16-blue-front-nolix.jpg",
-      "categories": [
-        "آیپد",
-        "آیپد معمولی"
-      ],
-      "variationId": 19487,
-      "color": "صورتی",
-      "priceUnregistered": 108600000,
+      "priceUnregistered": 131600000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -5059,7 +5420,7 @@
       ],
       "variationId": 19486,
       "color": "زرد",
-      "priceUnregistered": 108600000,
+      "priceUnregistered": 108100000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -5075,7 +5436,7 @@
       ],
       "variationId": 19485,
       "color": "نقره‌ای",
-      "priceUnregistered": 108600000,
+      "priceUnregistered": 108100000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -5091,7 +5452,7 @@
       ],
       "variationId": 19484,
       "color": "آبی",
-      "priceUnregistered": 108600000,
+      "priceUnregistered": 108100000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -5107,7 +5468,7 @@
       ],
       "variationId": 19476,
       "color": "نقره‌ای",
-      "priceUnregistered": 290300000,
+      "priceUnregistered": 289100000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -5123,7 +5484,7 @@
       ],
       "variationId": 19475,
       "color": "مشکی",
-      "priceUnregistered": 290300000,
+      "priceUnregistered": 289100000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -5139,7 +5500,7 @@
       ],
       "variationId": 19471,
       "color": "نقره‌ای",
-      "priceUnregistered": 339900000,
+      "priceUnregistered": 338400000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -5155,7 +5516,7 @@
       ],
       "variationId": 19470,
       "color": "مشکی",
-      "priceUnregistered": 339900000,
+      "priceUnregistered": 338400000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -5171,7 +5532,7 @@
       ],
       "variationId": 19468,
       "color": "مشکی",
-      "priceUnregistered": 315100000,
+      "priceUnregistered": 313800000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -5187,7 +5548,7 @@
       ],
       "variationId": 20248,
       "color": "نقره‌ای",
-      "priceUnregistered": 315100000,
+      "priceUnregistered": 313800000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -5203,7 +5564,7 @@
       ],
       "variationId": 19466,
       "color": "مشکی",
-      "priceUnregistered": 311600000,
+      "priceUnregistered": 310200000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -5219,7 +5580,7 @@
       ],
       "variationId": 19464,
       "color": "نقره‌ای",
-      "priceUnregistered": 306800000,
+      "priceUnregistered": 305500000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -5235,7 +5596,7 @@
       ],
       "variationId": 19463,
       "color": "مشکی",
-      "priceUnregistered": 302100000,
+      "priceUnregistered": 300800000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -5251,7 +5612,7 @@
       ],
       "variationId": 19625,
       "color": "نقره‌ای",
-      "priceUnregistered": 265500000,
+      "priceUnregistered": 264400000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -5267,7 +5628,7 @@
       ],
       "variationId": 19461,
       "color": "مشکی",
-      "priceUnregistered": 263200000,
+      "priceUnregistered": 262100000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -5282,7 +5643,7 @@
       ],
       "variationId": 19437,
       "color": "Starlight",
-      "priceUnregistered": 73200000,
+      "priceUnregistered": 72900000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -5297,7 +5658,7 @@
       ],
       "variationId": 19436,
       "color": "Midnight",
-      "priceUnregistered": 73200000,
+      "priceUnregistered": 72900000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -5312,7 +5673,7 @@
       ],
       "variationId": 19434,
       "color": "Starlight",
-      "priceUnregistered": 77900000,
+      "priceUnregistered": 77600000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -5327,7 +5688,7 @@
       ],
       "variationId": 19433,
       "color": "Midnight",
-      "priceUnregistered": 77900000,
+      "priceUnregistered": 77600000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -5342,7 +5703,7 @@
       ],
       "variationId": 19624,
       "color": "Rose Gold",
-      "priceUnregistered": 94400000,
+      "priceUnregistered": 94000000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -5357,7 +5718,7 @@
       ],
       "variationId": 19431,
       "color": "Silver",
-      "priceUnregistered": 94400000,
+      "priceUnregistered": 94000000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -5372,7 +5733,7 @@
       ],
       "variationId": 19430,
       "color": "Space Gray",
-      "priceUnregistered": 94400000,
+      "priceUnregistered": 94000000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -5387,7 +5748,7 @@
       ],
       "variationId": 19429,
       "color": "Jet Black",
-      "priceUnregistered": 94400000,
+      "priceUnregistered": 94000000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -5402,7 +5763,7 @@
       ],
       "variationId": 20247,
       "color": "Silver",
-      "priceUnregistered": 94400000,
+      "priceUnregistered": 94000000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -5417,7 +5778,7 @@
       ],
       "variationId": 19623,
       "color": "Space Gray",
-      "priceUnregistered": 94400000,
+      "priceUnregistered": 94000000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -5432,7 +5793,7 @@
       ],
       "variationId": 19427,
       "color": "Rose Gold",
-      "priceUnregistered": 94400000,
+      "priceUnregistered": 94000000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -5447,7 +5808,7 @@
       ],
       "variationId": 19426,
       "color": "Jet Black",
-      "priceUnregistered": 94400000,
+      "priceUnregistered": 94000000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -5462,7 +5823,7 @@
       ],
       "variationId": 19424,
       "color": "Black Titanium",
-      "priceUnregistered": 180600000,
+      "priceUnregistered": 179800000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -5478,7 +5839,7 @@
       ],
       "variationId": 19398,
       "color": "Soft Pink",
-      "priceUnregistered": 172300000,
+      "priceUnregistered": 171600000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -5494,7 +5855,7 @@
       ],
       "variationId": 19397,
       "color": "White",
-      "priceUnregistered": 172300000,
+      "priceUnregistered": 171600000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -5510,7 +5871,7 @@
       ],
       "variationId": 19396,
       "color": "Black",
-      "priceUnregistered": 172300000,
+      "priceUnregistered": 171600000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -5526,7 +5887,7 @@
       ],
       "variationId": 19257,
       "color": "Soft Pink",
-      "priceUnregistered": 280300000,
+      "priceUnregistered": 279600000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -5542,7 +5903,7 @@
       ],
       "variationId": 19256,
       "color": "White",
-      "priceUnregistered": 280300000,
+      "priceUnregistered": 279600000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -5558,7 +5919,7 @@
       ],
       "variationId": 19255,
       "color": "Black",
-      "priceUnregistered": 280300000,
+      "priceUnregistered": 279600000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -5575,7 +5936,7 @@
       ],
       "variationId": 18481,
       "color": "Deep Blue",
-      "priceUnregistered": 459100000,
+      "priceUnregistered": 457800000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -5592,7 +5953,71 @@
       ],
       "variationId": 18480,
       "color": "Cosmic Orange",
-      "priceUnregistered": 459100000,
+      "priceUnregistered": 457800000,
+      "priceRegistered": null,
+      "isPhone": true,
+      "registryStatus": "رجیستر شده"
+    },
+    {
+      "id": 18438,
+      "name": "سامسونگ اس ۲۶ اولترا حافظه ۲۵۶ گیگابایت و رم ۱۲ گیگابایت | Samsung S26 Ultra 256/12 بدون رجیستری",
+      "permalink": "https://nolix.ir/product/samsung-s26-ultra-256-2/",
+      "image": "https://nolix.ir/wp-content/uploads/2026/04/samsung-s26-ultra-black-nolix.jpg",
+      "categories": [
+        "گلکسی S26",
+        "گلکسی S26 اولترا"
+      ],
+      "variationId": 18443,
+      "color": "Cobalt Violet",
+      "priceUnregistered": 212700000,
+      "priceRegistered": null,
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
+    },
+    {
+      "id": 18438,
+      "name": "سامسونگ اس ۲۶ اولترا حافظه ۲۵۶ گیگابایت و رم ۱۲ گیگابایت | Samsung S26 Ultra 256/12 بدون رجیستری",
+      "permalink": "https://nolix.ir/product/samsung-s26-ultra-256-2/",
+      "image": "https://nolix.ir/wp-content/uploads/2026/04/samsung-s26-ultra-black-nolix.jpg",
+      "categories": [
+        "گلکسی S26",
+        "گلکسی S26 اولترا"
+      ],
+      "variationId": 18439,
+      "color": "Black",
+      "priceUnregistered": 212700000,
+      "priceRegistered": null,
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
+    },
+    {
+      "id": 18434,
+      "name": "سامسونگ اس ۲۶ اولترا حافظه ۲۵۶ گیگابایت و رم ۱۲ گیگابایت | Samsung S26 Ultra 256/12 رجیستر شده",
+      "permalink": "https://nolix.ir/product/samsung-s26-ultra-256/",
+      "image": "https://nolix.ir/wp-content/uploads/2026/04/samsung-s26-ultra-black-nolix.jpg",
+      "categories": [
+        "گلکسی S26",
+        "گلکسی S26 اولترا"
+      ],
+      "variationId": 18444,
+      "color": "Cobalt Violet",
+      "priceUnregistered": 334700000,
+      "priceRegistered": null,
+      "isPhone": true,
+      "registryStatus": "رجیستر شده"
+    },
+    {
+      "id": 18434,
+      "name": "سامسونگ اس ۲۶ اولترا حافظه ۲۵۶ گیگابایت و رم ۱۲ گیگابایت | Samsung S26 Ultra 256/12 رجیستر شده",
+      "permalink": "https://nolix.ir/product/samsung-s26-ultra-256/",
+      "image": "https://nolix.ir/wp-content/uploads/2026/04/samsung-s26-ultra-black-nolix.jpg",
+      "categories": [
+        "گلکسی S26",
+        "گلکسی S26 اولترا"
+      ],
+      "variationId": 18436,
+      "color": "Black",
+      "priceUnregistered": 334700000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -5610,7 +6035,7 @@
       ],
       "variationId": 18267,
       "color": "Silver",
-      "priceUnregistered": 349300000,
+      "priceUnregistered": 347800000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -5628,7 +6053,7 @@
       ],
       "variationId": 18266,
       "color": "Deep Blue",
-      "priceUnregistered": 349300000,
+      "priceUnregistered": 347800000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -5646,7 +6071,7 @@
       ],
       "variationId": 18265,
       "color": "Cosmic Orange",
-      "priceUnregistered": 349300000,
+      "priceUnregistered": 347800000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -5664,7 +6089,7 @@
       ],
       "variationId": 18262,
       "color": "Deep Blue",
-      "priceUnregistered": 316300000,
+      "priceUnregistered": 314900000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -5682,7 +6107,7 @@
       ],
       "variationId": 18255,
       "color": "Silver",
-      "priceUnregistered": 271400000,
+      "priceUnregistered": 270300000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -5700,7 +6125,7 @@
       ],
       "variationId": 18254,
       "color": "Deep Blue",
-      "priceUnregistered": 271400000,
+      "priceUnregistered": 270300000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -5718,7 +6143,7 @@
       ],
       "variationId": 18253,
       "color": "Cosmic Orange",
-      "priceUnregistered": 264400000,
+      "priceUnregistered": 263200000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -5736,7 +6161,7 @@
       ],
       "variationId": 18195,
       "color": "Deep Blue",
-      "priceUnregistered": 404800000,
+      "priceUnregistered": 403100000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -5754,7 +6179,7 @@
       ],
       "variationId": 18187,
       "color": "Deep Blue",
-      "priceUnregistered": 336300000,
+      "priceUnregistered": 334900000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -5772,7 +6197,7 @@
       ],
       "variationId": 18186,
       "color": "Cosmic Orange",
-      "priceUnregistered": 334000000,
+      "priceUnregistered": 332600000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -5789,7 +6214,7 @@
       ],
       "variationId": 18145,
       "color": "Silver",
-      "priceUnregistered": 323400000,
+      "priceUnregistered": 323200000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -5806,7 +6231,7 @@
       ],
       "variationId": 18144,
       "color": "Deep Blue",
-      "priceUnregistered": 309200000,
+      "priceUnregistered": 306700000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -5823,7 +6248,7 @@
       ],
       "variationId": 18143,
       "color": "Cosmic Orange",
-      "priceUnregistered": 309200000,
+      "priceUnregistered": 306700000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -5841,7 +6266,7 @@
       ],
       "variationId": 18139,
       "color": "Silver",
-      "priceUnregistered": 290300000,
+      "priceUnregistered": 289100000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -5859,7 +6284,7 @@
       ],
       "variationId": 18138,
       "color": "Deep Blue",
-      "priceUnregistered": 290300000,
+      "priceUnregistered": 289100000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -5877,7 +6302,7 @@
       ],
       "variationId": 18137,
       "color": "Cosmic Orange",
-      "priceUnregistered": 285600000,
+      "priceUnregistered": 284400000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -5894,7 +6319,7 @@
       ],
       "variationId": 18065,
       "color": "White",
-      "priceUnregistered": 226600000,
+      "priceUnregistered": 225600000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -5911,7 +6336,7 @@
       ],
       "variationId": 18064,
       "color": "Sage",
-      "priceUnregistered": 226600000,
+      "priceUnregistered": 225600000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -5928,7 +6353,7 @@
       ],
       "variationId": 18063,
       "color": "Mist Blue",
-      "priceUnregistered": 226600000,
+      "priceUnregistered": 225600000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -5945,7 +6370,7 @@
       ],
       "variationId": 18062,
       "color": "Lavender",
-      "priceUnregistered": 226600000,
+      "priceUnregistered": 225600000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -5962,7 +6387,7 @@
       ],
       "variationId": 18061,
       "color": "Black",
-      "priceUnregistered": 226600000,
+      "priceUnregistered": 225600000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -5979,7 +6404,7 @@
       ],
       "variationId": 17980,
       "color": "Silver",
-      "priceUnregistered": 308000000,
+      "priceUnregistered": 303200000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -5996,7 +6421,7 @@
       ],
       "variationId": 17978,
       "color": "Cosmic Orange",
-      "priceUnregistered": 286800000,
+      "priceUnregistered": 285600000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -6013,7 +6438,7 @@
       ],
       "variationId": 17966,
       "color": "Cosmic Orange",
-      "priceUnregistered": 369400000,
+      "priceUnregistered": 367800000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -6030,7 +6455,7 @@
       ],
       "variationId": 17962,
       "color": "Cosmic Orange",
-      "priceUnregistered": 289100000,
+      "priceUnregistered": 287900000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -6047,7 +6472,7 @@
       ],
       "variationId": 17938,
       "color": "Cosmic Orange",
-      "priceUnregistered": 446100000,
+      "priceUnregistered": 444200000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -6064,7 +6489,7 @@
       ],
       "variationId": 17931,
       "color": "Deep Blue",
-      "priceUnregistered": 404800000,
+      "priceUnregistered": 403100000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -6081,7 +6506,7 @@
       ],
       "variationId": 17930,
       "color": "Cosmic Orange",
-      "priceUnregistered": 404800000,
+      "priceUnregistered": 403100000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -6098,7 +6523,7 @@
       ],
       "variationId": 17922,
       "color": "Silver",
-      "priceUnregistered": 363500000,
+      "priceUnregistered": 361900000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -6115,7 +6540,7 @@
       ],
       "variationId": 17921,
       "color": "Deep Blue",
-      "priceUnregistered": 358800000,
+      "priceUnregistered": 357200000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -6132,7 +6557,7 @@
       ],
       "variationId": 17920,
       "color": "Cosmic Orange",
-      "priceUnregistered": 351700000,
+      "priceUnregistered": 350200000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -6149,7 +6574,7 @@
       ],
       "variationId": 17916,
       "color": "Cosmic Orange",
-      "priceUnregistered": 382400000,
+      "priceUnregistered": 380700000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -6166,7 +6591,7 @@
       ],
       "variationId": 17913,
       "color": "Silver",
-      "priceUnregistered": 335200000,
+      "priceUnregistered": 333700000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -6183,7 +6608,7 @@
       ],
       "variationId": 17912,
       "color": "Deep Blue",
-      "priceUnregistered": 329300000,
+      "priceUnregistered": 326700000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -6200,7 +6625,7 @@
       ],
       "variationId": 17911,
       "color": "Cosmic Orange",
-      "priceUnregistered": 323400000,
+      "priceUnregistered": 320800000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -6217,7 +6642,7 @@
       ],
       "variationId": 17891,
       "color": "Deep Blue",
-      "priceUnregistered": 393000000,
+      "priceUnregistered": 391300000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -6234,7 +6659,7 @@
       ],
       "variationId": 17886,
       "color": "Cosmic Orange",
-      "priceUnregistered": 335200000,
+      "priceUnregistered": 333700000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -6251,7 +6676,7 @@
       ],
       "variationId": 17875,
       "color": "Deep Blue",
-      "priceUnregistered": 302100000,
+      "priceUnregistered": 300800000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -6268,7 +6693,7 @@
       ],
       "variationId": 17874,
       "color": "Cosmic Orange",
-      "priceUnregistered": 302100000,
+      "priceUnregistered": 300800000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -6286,7 +6711,7 @@
       ],
       "variationId": 17549,
       "color": "Star Light",
-      "priceUnregistered": 75600000,
+      "priceUnregistered": 75200000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -6331,7 +6756,7 @@
       ],
       "variationId": null,
       "color": "—",
-      "priceUnregistered": 4800000,
+      "priceUnregistered": 4700000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -6346,7 +6771,7 @@
       ],
       "variationId": 19622,
       "color": "White",
-      "priceUnregistered": 115700000,
+      "priceUnregistered": 115200000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -6361,7 +6786,7 @@
       ],
       "variationId": 19621,
       "color": "White",
-      "priceUnregistered": 99200000,
+      "priceUnregistered": 98700000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -6376,7 +6801,7 @@
       ],
       "variationId": 19620,
       "color": "Black",
-      "priceUnregistered": 99200000,
+      "priceUnregistered": 98700000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -6391,7 +6816,7 @@
       ],
       "variationId": 17529,
       "color": "Black",
-      "priceUnregistered": 115700000,
+      "priceUnregistered": 115200000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -6406,7 +6831,7 @@
       ],
       "variationId": 19619,
       "color": "White",
-      "priceUnregistered": 92100000,
+      "priceUnregistered": 91700000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -6421,7 +6846,7 @@
       ],
       "variationId": 17524,
       "color": "Black",
-      "priceUnregistered": 92100000,
+      "priceUnregistered": 91700000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -6436,7 +6861,7 @@
       ],
       "variationId": 17566,
       "color": "گارانتی سلامت و اصالت کالا + 7 روز مهلت تست",
-      "priceUnregistered": 28400000,
+      "priceUnregistered": 28200000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -6451,7 +6876,7 @@
       ],
       "variationId": 17562,
       "color": "گارانتی سلامت و اصالت کالا، فعال نشده (NotActive)",
-      "priceUnregistered": 35400000,
+      "priceUnregistered": 35300000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -6466,7 +6891,7 @@
       ],
       "variationId": 17530,
       "color": "گارانتی سلامت و اصالت کالا، فعال نشده (NotActive)",
-      "priceUnregistered": 49600000,
+      "priceUnregistered": 49400000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -6481,7 +6906,7 @@
       ],
       "variationId": 17182,
       "color": "گارانتی سلامت و اصالت کالا + 7 روز مهلت تست",
-      "priceUnregistered": 35400000,
+      "priceUnregistered": 35300000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -6496,7 +6921,7 @@
       ],
       "variationId": 17119,
       "color": "گارانتی سلامت و اصالت کالا + 7 روز مهلت تست",
-      "priceUnregistered": 52000000,
+      "priceUnregistered": 51700000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
