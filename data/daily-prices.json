@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-13T18:34:38.572Z",
+  "generatedAt": "2026-10-14T16:01:53.400Z",
   "sourceBaseUrl": "https://nolix.ir",
-  "totalItems": 307,
+  "totalItems": 294,
   "itemsWithDualPrice": 2,
   "items": [
     {
@@ -467,22 +467,76 @@
       "registryStatus": null
     },
     {
-      "id": 21077,
-      "name": "آیفون 12 نرمال دست دوم دو سیم کارت حافظه 128 گیگابایت کارتن ریپک پارت نامبر چین CHA بدون رجیستری",
-      "permalink": "https://nolix.ir/product/%d8%a2%db%8c%d9%81%d9%88%d9%86-12-%d9%86%d8%b1%d9%85%d8%a7%d9%84-%d8%af%d8%b3%d8%aa-%d8%af%d9%88%d9%85-%d8%af%d9%88-%d8%b3%db%8c%d9%85-%da%a9%d8%a7%d8%b1%d8%aa-%d8%ad%d8%a7%d9%81%d8%b8%d9%87-128/",
-      "image": "https://nolix.ir/wp-content/uploads/2021/05/iPhone-12-black-nolix.ir_.jpg",
+      "id": 21130,
+      "name": "آیفون 18 پرو مکس نات اکتیو eSIM حافظه 512 گیگابایت پارت نامبر آمریکا LLA رجیستر شده",
+      "permalink": "https://nolix.ir/product/18pm-not-es-lla-512-reg/",
+      "image": "https://nolix.ir/wp-content/uploads/2026/09/iphone-18-pro-max-burgundy-nolix.jpg",
       "categories": [
-        "آیفون 12",
-        "آیفون 12 نرمال",
-        "آیفون 12 نرمال 128 گیگابایت",
-        "آیفون استوک (کارکرده و دست دوم)"
+        "آیفون 18 پرو مکس",
+        "آیفون 18",
+        "آیفون 18 eSIM",
+        "آیفون 18 پرو مکس 512 گیگابایت"
       ],
-      "variationId": 21080,
-      "color": "Green",
-      "priceUnregistered": 60000000,
+      "variationId": 21134,
+      "color": "Silver",
+      "priceUnregistered": 699700000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
+    },
+    {
+      "id": 21130,
+      "name": "آیفون 18 پرو مکس نات اکتیو eSIM حافظه 512 گیگابایت پارت نامبر آمریکا LLA رجیستر شده",
+      "permalink": "https://nolix.ir/product/18pm-not-es-lla-512-reg/",
+      "image": "https://nolix.ir/wp-content/uploads/2026/09/iphone-18-pro-max-burgundy-nolix.jpg",
+      "categories": [
+        "آیفون 18 پرو مکس",
+        "آیفون 18",
+        "آیفون 18 eSIM",
+        "آیفون 18 پرو مکس 512 گیگابایت"
+      ],
+      "variationId": 21133,
+      "color": "Black",
+      "priceUnregistered": 699700000,
+      "priceRegistered": null,
+      "isPhone": true,
+      "registryStatus": "رجیستر شده"
+    },
+    {
+      "id": 21125,
+      "name": "آیفون 18 پرو مکس نات اکتیو eSIM حافظه 512 گیگابایت پارت نامبر آمریکا LLA بدون رجیستری",
+      "permalink": "https://nolix.ir/product/18pm-not-es-lla-512/",
+      "image": "https://nolix.ir/wp-content/uploads/2026/09/iphone-18-pro-max-burgundy-nolix.jpg",
+      "categories": [
+        "آیفون 18 پرو مکس",
+        "آیفون 18",
+        "آیفون 18 eSIM",
+        "آیفون 18 پرو مکس 512 گیگابایت"
+      ],
+      "variationId": 21129,
+      "color": "Silver",
+      "priceUnregistered": 464700000,
+      "priceRegistered": null,
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
+    },
+    {
+      "id": 21125,
+      "name": "آیفون 18 پرو مکس نات اکتیو eSIM حافظه 512 گیگابایت پارت نامبر آمریکا LLA بدون رجیستری",
+      "permalink": "https://nolix.ir/product/18pm-not-es-lla-512/",
+      "image": "https://nolix.ir/wp-content/uploads/2026/09/iphone-18-pro-max-burgundy-nolix.jpg",
+      "categories": [
+        "آیفون 18 پرو مکس",
+        "آیفون 18",
+        "آیفون 18 eSIM",
+        "آیفون 18 پرو مکس 512 گیگابایت"
+      ],
+      "variationId": 21128,
+      "color": "Black",
+      "priceUnregistered": 464700000,
+      "priceRegistered": null,
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
     },
     {
       "id": 21066,
@@ -513,24 +567,7 @@
       ],
       "variationId": 21069,
       "color": "Black",
-      "priceUnregistered": 668000000,
-      "priceRegistered": null,
-      "isPhone": true,
-      "registryStatus": "رجیستر شده"
-    },
-    {
-      "id": 21066,
-      "name": "آیفون 18 پرو مکس نات اکتیو دو سیم کارت حافظه 256 گیگابایت پارت نامبر CHA رجیستر شده",
-      "permalink": "https://nolix.ir/product/18pm-not-2s-cha-256-reg/",
-      "image": "https://nolix.ir/wp-content/uploads/2026/09/iphone-18-pro-max-burgundy-nolix.jpg",
-      "categories": [
-        "آیفون 18",
-        "آیفون 18 پرو مکس",
-        "آیفون 18 پرو مکس 256 گیگابایت"
-      ],
-      "variationId": 21068,
-      "color": "Glacier",
-      "priceUnregistered": 675900000,
+      "priceUnregistered": 670600000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -547,7 +584,7 @@
       ],
       "variationId": 21067,
       "color": "Burgundy",
-      "priceUnregistered": 675900000,
+      "priceUnregistered": 678600000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -581,24 +618,7 @@
       ],
       "variationId": 21064,
       "color": "Black",
-      "priceUnregistered": 433000000,
-      "priceRegistered": null,
-      "isPhone": true,
-      "registryStatus": "بدون رجیستر"
-    },
-    {
-      "id": 21061,
-      "name": "آیفون 18 پرو مکس نات اکتیو دو سیم کارت حافظه 256 گیگابایت پارت نامبر CHA بدون رجیستری",
-      "permalink": "https://nolix.ir/product/18pm-not-2s-cha-256/",
-      "image": "https://nolix.ir/wp-content/uploads/2026/09/iphone-18-pro-max-burgundy-nolix.jpg",
-      "categories": [
-        "آیفون 18",
-        "آیفون 18 پرو مکس",
-        "آیفون 18 پرو مکس 256 گیگابایت"
-      ],
-      "variationId": 21063,
-      "color": "Glacier",
-      "priceUnregistered": 440900000,
+      "priceUnregistered": 435600000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -615,7 +635,43 @@
       ],
       "variationId": 21062,
       "color": "Burgundy",
-      "priceUnregistered": 440900000,
+      "priceUnregistered": 443600000,
+      "priceRegistered": null,
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
+    },
+    {
+      "id": 21056,
+      "name": "آیفون 18 پرو مکس نات اکتیو eSIM حافظه 256 گیگابایت پارت نامبر ژاپن رجیستر شده",
+      "permalink": "https://nolix.ir/product/18pm-not-es-ja-256-reg/",
+      "image": "https://nolix.ir/wp-content/uploads/2026/09/iphone-18-pro-max-burgundy-nolix.jpg",
+      "categories": [
+        "آیفون 18 پرو مکس",
+        "آیفون 18",
+        "آیفون 18 eSIM",
+        "آیفون 18 پرو مکس 256 گیگابایت"
+      ],
+      "variationId": 21059,
+      "color": "Black",
+      "priceUnregistered": 633700000,
+      "priceRegistered": null,
+      "isPhone": true,
+      "registryStatus": "رجیستر شده"
+    },
+    {
+      "id": 21051,
+      "name": "آیفون 18 پرو مکس نات اکتیو eSIM حافظه 256 گیگابایت پارت نامبر ژاپن بدون رجیستری",
+      "permalink": "https://nolix.ir/product/18pm-not-es-ja-256/",
+      "image": "https://nolix.ir/wp-content/uploads/2026/09/iphone-18-pro-max-burgundy-nolix.jpg",
+      "categories": [
+        "آیفون 18 پرو مکس",
+        "آیفون 18",
+        "آیفون 18 eSIM",
+        "آیفون 18 پرو مکس 256 گیگابایت"
+      ],
+      "variationId": 21054,
+      "color": "Black",
+      "priceUnregistered": 398700000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -855,26 +911,9 @@
         "آیفون 18 پرو مکس",
         "آیفون 18 پرو مکس 512 گیگابایت"
       ],
-      "variationId": 20975,
-      "color": "Black",
-      "priceUnregistered": 726100000,
-      "priceRegistered": null,
-      "isPhone": true,
-      "registryStatus": "رجیستر شده"
-    },
-    {
-      "id": 20972,
-      "name": "آیفون 18 پرو مکس اکتیو شده تک سیم کارت + eSIM حافظه 512 گیگابایت پارت نامبر ZAA رجیستر شده",
-      "permalink": "https://nolix.ir/product/18pm-act-1se-zaa-512-reg/",
-      "image": "https://nolix.ir/wp-content/uploads/2026/09/iphone-18-pro-max-burgundy-nolix.jpg",
-      "categories": [
-        "آیفون 18",
-        "آیفون 18 پرو مکس",
-        "آیفون 18 پرو مکس 512 گیگابایت"
-      ],
       "variationId": 20974,
       "color": "Glacier",
-      "priceUnregistered": 699700000,
+      "priceUnregistered": 702300000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -906,26 +945,9 @@
         "آیفون 18 پرو مکس",
         "آیفون 18 پرو مکس 512 گیگابایت"
       ],
-      "variationId": 20970,
-      "color": "Black",
-      "priceUnregistered": 491100000,
-      "priceRegistered": null,
-      "isPhone": true,
-      "registryStatus": "بدون رجیستر"
-    },
-    {
-      "id": 20967,
-      "name": "آیفون 18 پرو مکس اکتیو شده تک سیم کارت + eSIM حافظه 512 گیگابایت پارت نامبر ZAA بدون رجیستری",
-      "permalink": "https://nolix.ir/product/18pm-act-1se-zaa-512/",
-      "image": "https://nolix.ir/wp-content/uploads/2026/09/iphone-18-pro-max-burgundy-nolix.jpg",
-      "categories": [
-        "آیفون 18",
-        "آیفون 18 پرو مکس",
-        "آیفون 18 پرو مکس 512 گیگابایت"
-      ],
       "variationId": 20969,
       "color": "Glacier",
-      "priceUnregistered": 464700000,
+      "priceUnregistered": 467300000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -959,7 +981,7 @@
       ],
       "variationId": 20965,
       "color": "Black",
-      "priceUnregistered": 662200000,
+      "priceUnregistered": 671500000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -993,7 +1015,7 @@
       ],
       "variationId": 20963,
       "color": "Burgundy",
-      "priceUnregistered": 662200000,
+      "priceUnregistered": 671500000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -1027,7 +1049,7 @@
       ],
       "variationId": 20960,
       "color": "Black",
-      "priceUnregistered": 442200000,
+      "priceUnregistered": 451500000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -1061,7 +1083,7 @@
       ],
       "variationId": 20958,
       "color": "Burgundy",
-      "priceUnregistered": 442200000,
+      "priceUnregistered": 451500000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -1078,7 +1100,7 @@
       ],
       "variationId": 20956,
       "color": "Silver",
-      "priceUnregistered": 572500000,
+      "priceUnregistered": 573800000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -1095,7 +1117,7 @@
       ],
       "variationId": 20955,
       "color": "Black",
-      "priceUnregistered": 585700000,
+      "priceUnregistered": 592300000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -1112,7 +1134,7 @@
       ],
       "variationId": 20954,
       "color": "Glacier",
-      "priceUnregistered": 573800000,
+      "priceUnregistered": 592300000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -1129,7 +1151,7 @@
       ],
       "variationId": 20953,
       "color": "Burgundy",
-      "priceUnregistered": 585700000,
+      "priceUnregistered": 592300000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -1146,7 +1168,7 @@
       ],
       "variationId": 20951,
       "color": "Silver",
-      "priceUnregistered": 352500000,
+      "priceUnregistered": 353800000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -1163,7 +1185,7 @@
       ],
       "variationId": 20950,
       "color": "Black",
-      "priceUnregistered": 365700000,
+      "priceUnregistered": 372300000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -1180,7 +1202,7 @@
       ],
       "variationId": 20949,
       "color": "Glacier",
-      "priceUnregistered": 353800000,
+      "priceUnregistered": 372300000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -1197,7 +1219,7 @@
       ],
       "variationId": 20948,
       "color": "Burgundy",
-      "priceUnregistered": 365700000,
+      "priceUnregistered": 372300000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -1214,7 +1236,7 @@
       ],
       "variationId": 20937,
       "color": "Silver",
-      "priceUnregistered": 645600000,
+      "priceUnregistered": 633700000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -1231,7 +1253,7 @@
       ],
       "variationId": 20936,
       "color": "Black",
-      "priceUnregistered": 645600000,
+      "priceUnregistered": 642900000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -1248,7 +1270,7 @@
       ],
       "variationId": 20935,
       "color": "Glacier",
-      "priceUnregistered": 645600000,
+      "priceUnregistered": 636300000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -1265,7 +1287,7 @@
       ],
       "variationId": 20934,
       "color": "Burgundy",
-      "priceUnregistered": 653500000,
+      "priceUnregistered": 660100000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -1282,7 +1304,7 @@
       ],
       "variationId": 20932,
       "color": "Silver",
-      "priceUnregistered": 410600000,
+      "priceUnregistered": 398700000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -1299,7 +1321,7 @@
       ],
       "variationId": 20931,
       "color": "Black",
-      "priceUnregistered": 410600000,
+      "priceUnregistered": 407900000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -1316,7 +1338,7 @@
       ],
       "variationId": 20930,
       "color": "Glacier",
-      "priceUnregistered": 410600000,
+      "priceUnregistered": 401300000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -1333,7 +1355,7 @@
       ],
       "variationId": 20929,
       "color": "Burgundy",
-      "priceUnregistered": 418500000,
+      "priceUnregistered": 425100000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -1369,74 +1391,6 @@
       "registryStatus": null
     },
     {
-      "id": 20799,
-      "name": "آیفون 18 پرو مکس نات اکتیو تک سیم کارت + eSIM حافظه 1 ترابایت پارت نامبر ZAA رجیستر شده",
-      "permalink": "https://nolix.ir/product/18pm-not-1se-zaa-1tb-reg/",
-      "image": "https://nolix.ir/wp-content/uploads/2026/09/iphone-18-pro-max-burgundy-nolix.jpg",
-      "categories": [
-        "آیفون 18",
-        "آیفون 18 پرو مکس",
-        "آیفون 18 پرو مکس 1 ترابایت"
-      ],
-      "variationId": 20802,
-      "color": "Black",
-      "priceUnregistered": 884500000,
-      "priceRegistered": null,
-      "isPhone": true,
-      "registryStatus": "رجیستر شده"
-    },
-    {
-      "id": 20794,
-      "name": "آیفون 18 پرو مکس نات اکتیو تک سیم کارت + eSIM حافظه 1 ترابایت پارت نامبر ZAA بدون رجیستری",
-      "permalink": "https://nolix.ir/product/18pm-not-1se-zaa-1tb/",
-      "image": "https://nolix.ir/wp-content/uploads/2026/09/iphone-18-pro-max-burgundy-nolix.jpg",
-      "categories": [
-        "آیفون 18",
-        "آیفون 18 پرو مکس",
-        "آیفون 18 پرو مکس 1 ترابایت"
-      ],
-      "variationId": 20797,
-      "color": "Black",
-      "priceUnregistered": 649500000,
-      "priceRegistered": null,
-      "isPhone": true,
-      "registryStatus": "بدون رجیستر"
-    },
-    {
-      "id": 20789,
-      "name": "آیفون 18 پرو مکس نات اکتیو تک سیم کارت + eSIM حافظه 512 گیگابایت پارت نامبر ZAA رجیستر شده",
-      "permalink": "https://nolix.ir/product/18pm-not-1se-zaa-512-reg/",
-      "image": "https://nolix.ir/wp-content/uploads/2026/09/iphone-18-pro-max-burgundy-nolix.jpg",
-      "categories": [
-        "آیفون 18",
-        "آیفون 18 پرو مکس",
-        "آیفون 18 پرو مکس 512 گیگابایت"
-      ],
-      "variationId": 20790,
-      "color": "Burgundy",
-      "priceUnregistered": 739300000,
-      "priceRegistered": null,
-      "isPhone": true,
-      "registryStatus": "رجیستر شده"
-    },
-    {
-      "id": 20784,
-      "name": "آیفون 18 پرو مکس نات اکتیو تک سیم کارت + eSIM حافظه 512 گیگابایت پارت نامبر ZAA بدون رجیستری",
-      "permalink": "https://nolix.ir/product/18pm-not-1se-zaa-512/",
-      "image": "https://nolix.ir/wp-content/uploads/2026/09/iphone-18-pro-max-burgundy-nolix.jpg",
-      "categories": [
-        "آیفون 18",
-        "آیفون 18 پرو مکس",
-        "آیفون 18 پرو مکس 512 گیگابایت"
-      ],
-      "variationId": 20785,
-      "color": "Burgundy",
-      "priceUnregistered": 504300000,
-      "priceRegistered": null,
-      "isPhone": true,
-      "registryStatus": "بدون رجیستر"
-    },
-    {
       "id": 20779,
       "name": "آیفون 18 پرو مکس نات اکتیو تک سیم کارت + eSIM حافظه 256 گیگابایت پارت نامبر ZAA رجیستر شده",
       "permalink": "https://nolix.ir/product/18pm-not-1se-zaa-256-reg/",
@@ -1448,7 +1402,7 @@
       ],
       "variationId": 20780,
       "color": "Burgundy",
-      "priceUnregistered": 665400000,
+      "priceUnregistered": 673300000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -1465,7 +1419,7 @@
       ],
       "variationId": 20775,
       "color": "Burgundy",
-      "priceUnregistered": 430400000,
+      "priceUnregistered": 438300000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -3376,7 +3330,7 @@
       ],
       "variationId": 20499,
       "color": "Titanium Jetblack",
-      "priceUnregistered": 319900000,
+      "priceUnregistered": 321200000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -3392,23 +3346,7 @@
       ],
       "variationId": 20250,
       "color": "Titanium Gray",
-      "priceUnregistered": 319900000,
-      "priceRegistered": null,
-      "isPhone": true,
-      "registryStatus": "رجیستر شده"
-    },
-    {
-      "id": 19670,
-      "name": "سامسونگ اس ۲۵ اولترا حافظه ۲۵۶ گیگابایت و رم ۱۲ گیگابایت | Samsung S25 Ultra 256/12 رجیستر شده",
-      "permalink": "https://nolix.ir/product/%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%da%af-%d8%a7%d8%b3-%db%b2%db%b5-%d8%a7%d9%88%d9%84%d8%aa%d8%b1%d8%a7-%d8%ad%d8%a7%d9%81%d8%b8%d9%87-%db%b2%db%b5%db%b6-%da%af%db%8c%da%af%d8%a7%d8%a8%d8%a7%db%8c-2/",
-      "image": "https://nolix.ir/wp-content/uploads/2026/07/samsung-s25-ultra-titanium-black-nolix.jpg",
-      "categories": [
-        "گلکسی S25",
-        "گلکسی S25 اولترا"
-      ],
-      "variationId": 20249,
-      "color": "Titanium Silverblue",
-      "priceUnregistered": 319900000,
+      "priceUnregistered": 321200000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -3424,7 +3362,7 @@
       ],
       "variationId": 20501,
       "color": "Titanium Jetblack",
-      "priceUnregistered": 209900000,
+      "priceUnregistered": 211200000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -3440,23 +3378,7 @@
       ],
       "variationId": 20324,
       "color": "Titanium Gray",
-      "priceUnregistered": 209900000,
-      "priceRegistered": null,
-      "isPhone": true,
-      "registryStatus": "بدون رجیستر"
-    },
-    {
-      "id": 19655,
-      "name": "سامسونگ اس ۲۵ اولترا حافظه ۲۵۶ گیگابایت و رم ۱۲ گیگابایت | Samsung S25 Ultra 256/12 بدون رجیستری",
-      "permalink": "https://nolix.ir/product/%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%da%af-%d8%a7%d8%b3-%db%b2%db%b5-%d8%a7%d9%88%d9%84%d8%aa%d8%b1%d8%a7-%d8%ad%d8%a7%d9%81%d8%b8%d9%87-%db%b2%db%b5%db%b6-%da%af%db%8c%da%af%d8%a7%d8%a8%d8%a7%db%8c/",
-      "image": "https://nolix.ir/wp-content/uploads/2026/07/samsung-s25-ultra-titanium-black-nolix.jpg",
-      "categories": [
-        "گلکسی S25",
-        "گلکسی S25 اولترا"
-      ],
-      "variationId": 20323,
-      "color": "Titanium Silverblue",
-      "priceUnregistered": 209900000,
+      "priceUnregistered": 211200000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -3566,7 +3488,7 @@
       ],
       "variationId": 19556,
       "color": "Sky Blue",
-      "priceUnregistered": 289100000,
+      "priceUnregistered": 290400000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -3582,7 +3504,7 @@
       ],
       "variationId": 19549,
       "color": "Sky Blue",
-      "priceUnregistered": 428100000,
+      "priceUnregistered": 429400000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -3661,7 +3583,7 @@
       ],
       "variationId": 19487,
       "color": "صورتی",
-      "priceUnregistered": 130700000,
+      "priceUnregistered": 132000000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -3677,7 +3599,7 @@
       ],
       "variationId": 19485,
       "color": "نقره‌ای",
-      "priceUnregistered": 130700000,
+      "priceUnregistered": 132000000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -3747,22 +3669,6 @@
       "registryStatus": null
     },
     {
-      "id": 19469,
-      "name": "آیپد پرو M5 ۱۳ اینچ ۵۱۲ گیگابایت Wi-Fi آکبند ۲۰۲۵",
-      "permalink": "https://nolix.ir/product/%d8%a2%db%8c%d9%be%d8%af-%d9%be%d8%b1%d9%88-m5-%db%b1%db%b3-%d8%a7%db%8c%d9%86%da%86-%db%b5%db%b1%db%b2-%da%af%db%8c%da%af%d8%a7%d8%a8%d8%a7%db%8c%d8%aa-wi-fi-%d8%a2%da%a9%d8%a8%d9%86%d8%af-%db%b2/",
-      "image": "https://nolix.ir/wp-content/uploads/2026/06/ipad-pro-black-front-nolix.jpg",
-      "categories": [
-        "آیپد",
-        "آیپد پرو"
-      ],
-      "variationId": 19470,
-      "color": "مشکی",
-      "priceUnregistered": 385500000,
-      "priceRegistered": null,
-      "isPhone": false,
-      "registryStatus": null
-    },
-    {
       "id": 19467,
       "name": "آیپد پرو M5 ۱۳ اینچ ۲۵۶ گیگابایت Wi-Fi + سلولار مشکی آکبند ۲۰۲۵",
       "permalink": "https://nolix.ir/product/%d8%a2%db%8c%d9%be%d8%af-%d9%be%d8%b1%d9%88-m5-%db%b1%db%b3-%d8%a7%db%8c%d9%86%da%86-%db%b2%db%b5%db%b6-%da%af%db%8c%da%af%d8%a7%d8%a8%d8%a7%db%8c%d8%aa-wi-fi-%d8%b3%d9%84%d9%88%d9%84%d8%a7%d8%b1/",
@@ -3774,38 +3680,6 @@
       "variationId": 19468,
       "color": "مشکی",
       "priceUnregistered": 359100000,
-      "priceRegistered": null,
-      "isPhone": false,
-      "registryStatus": null
-    },
-    {
-      "id": 19465,
-      "name": "آیپد پرو M5 ۱۳ اینچ ۲۵۶ گیگابایت Wi-Fi مشکی آکبند ۲۰۲۵",
-      "permalink": "https://nolix.ir/product/%d8%a2%db%8c%d9%be%d8%af-%d9%be%d8%b1%d9%88-m5-%db%b1%db%b3-%d8%a7%db%8c%d9%86%da%86-%db%b2%db%b5%db%b6-%da%af%db%8c%da%af%d8%a7%d8%a8%d8%a7%db%8c%d8%aa-wi-fi-%d9%85%d8%b4%da%a9%db%8c-%d8%a2%da%a9/",
-      "image": "https://nolix.ir/wp-content/uploads/2026/06/ipad-pro-black-front-nolix.jpg",
-      "categories": [
-        "آیپد",
-        "آیپد پرو"
-      ],
-      "variationId": 20248,
-      "color": "نقره‌ای",
-      "priceUnregistered": 359100000,
-      "priceRegistered": null,
-      "isPhone": false,
-      "registryStatus": null
-    },
-    {
-      "id": 19465,
-      "name": "آیپد پرو M5 ۱۳ اینچ ۲۵۶ گیگابایت Wi-Fi مشکی آکبند ۲۰۲۵",
-      "permalink": "https://nolix.ir/product/%d8%a2%db%8c%d9%be%d8%af-%d9%be%d8%b1%d9%88-m5-%db%b1%db%b3-%d8%a7%db%8c%d9%86%da%86-%db%b2%db%b5%db%b6-%da%af%db%8c%da%af%d8%a7%d8%a8%d8%a7%db%8c%d8%aa-wi-fi-%d9%85%d8%b4%da%a9%db%8c-%d8%a2%da%a9/",
-      "image": "https://nolix.ir/wp-content/uploads/2026/06/ipad-pro-black-front-nolix.jpg",
-      "categories": [
-        "آیپد",
-        "آیپد پرو"
-      ],
-      "variationId": 19466,
-      "color": "مشکی",
-      "priceUnregistered": 357800000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -3838,22 +3712,6 @@
       "variationId": 19463,
       "color": "مشکی",
       "priceUnregistered": 332700000,
-      "priceRegistered": null,
-      "isPhone": false,
-      "registryStatus": null
-    },
-    {
-      "id": 19460,
-      "name": "آیپد پرو M5 ۱۱ اینچ ۲۵۶ گیگابایت Wi-Fi مشکی آکبند ۲۰۲۵",
-      "permalink": "https://nolix.ir/product/%d8%a2%db%8c%d9%be%d8%af-%d9%be%d8%b1%d9%88-m5-%db%b1%db%b1-%d8%a7%db%8c%d9%86%da%86-%db%b2%db%b5%db%b6-%da%af%db%8c%da%af%d8%a7%d8%a8%d8%a7%db%8c%d8%aa-wi-fi-%d9%85%d8%b4%da%a9%db%8c-%d8%a2%da%a9/",
-      "image": "https://nolix.ir/wp-content/uploads/2026/06/ipad-pro-black-front-nolix.jpg",
-      "categories": [
-        "آیپد",
-        "آیپد پرو"
-      ],
-      "variationId": 19461,
-      "color": "مشکی",
-      "priceUnregistered": 306300000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -4203,23 +4061,7 @@
       ],
       "variationId": 19543,
       "color": "White",
-      "priceUnregistered": 246900000,
-      "priceRegistered": null,
-      "isPhone": true,
-      "registryStatus": "بدون رجیستر"
-    },
-    {
-      "id": 18438,
-      "name": "سامسونگ اس ۲۶ اولترا حافظه ۲۵۶ گیگابایت و رم ۱۲ گیگابایت | Samsung S26 Ultra 256/12 بدون رجیستری",
-      "permalink": "https://nolix.ir/product/samsung-s26-ultra-256-2/",
-      "image": "https://nolix.ir/wp-content/uploads/2026/04/samsung-s26-ultra-black-nolix.jpg",
-      "categories": [
-        "گلکسی S26",
-        "گلکسی S26 اولترا"
-      ],
-      "variationId": 19542,
-      "color": "Sky Blue",
-      "priceUnregistered": 246900000,
+      "priceUnregistered": 248200000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -4235,23 +4077,7 @@
       ],
       "variationId": 18443,
       "color": "Cobalt Violet",
-      "priceUnregistered": 246900000,
-      "priceRegistered": null,
-      "isPhone": true,
-      "registryStatus": "بدون رجیستر"
-    },
-    {
-      "id": 18438,
-      "name": "سامسونگ اس ۲۶ اولترا حافظه ۲۵۶ گیگابایت و رم ۱۲ گیگابایت | Samsung S26 Ultra 256/12 بدون رجیستری",
-      "permalink": "https://nolix.ir/product/samsung-s26-ultra-256-2/",
-      "image": "https://nolix.ir/wp-content/uploads/2026/04/samsung-s26-ultra-black-nolix.jpg",
-      "categories": [
-        "گلکسی S26",
-        "گلکسی S26 اولترا"
-      ],
-      "variationId": 18439,
-      "color": "Black",
-      "priceUnregistered": 246900000,
+      "priceUnregistered": 245600000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -4267,23 +4093,7 @@
       ],
       "variationId": 19537,
       "color": "White",
-      "priceUnregistered": 385900000,
-      "priceRegistered": null,
-      "isPhone": true,
-      "registryStatus": "رجیستر شده"
-    },
-    {
-      "id": 18434,
-      "name": "سامسونگ اس ۲۶ اولترا حافظه ۲۵۶ گیگابایت و رم ۱۲ گیگابایت | Samsung S26 Ultra 256/12 رجیستر شده",
-      "permalink": "https://nolix.ir/product/samsung-s26-ultra-256/",
-      "image": "https://nolix.ir/wp-content/uploads/2026/04/samsung-s26-ultra-black-nolix.jpg",
-      "categories": [
-        "گلکسی S26",
-        "گلکسی S26 اولترا"
-      ],
-      "variationId": 19535,
-      "color": "Sky Blue",
-      "priceUnregistered": 385900000,
+      "priceUnregistered": 387200000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -4299,23 +4109,7 @@
       ],
       "variationId": 18444,
       "color": "Cobalt Violet",
-      "priceUnregistered": 385900000,
-      "priceRegistered": null,
-      "isPhone": true,
-      "registryStatus": "رجیستر شده"
-    },
-    {
-      "id": 18434,
-      "name": "سامسونگ اس ۲۶ اولترا حافظه ۲۵۶ گیگابایت و رم ۱۲ گیگابایت | Samsung S26 Ultra 256/12 رجیستر شده",
-      "permalink": "https://nolix.ir/product/samsung-s26-ultra-256/",
-      "image": "https://nolix.ir/wp-content/uploads/2026/04/samsung-s26-ultra-black-nolix.jpg",
-      "categories": [
-        "گلکسی S26",
-        "گلکسی S26 اولترا"
-      ],
-      "variationId": 18436,
-      "color": "Black",
-      "priceUnregistered": 385900000,
+      "priceUnregistered": 384600000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
