@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-14T17:21:25.851Z",
+  "generatedAt": "2026-11-15T18:01:04.824Z",
   "sourceBaseUrl": "https://nolix.ir",
-  "totalItems": 262,
+  "totalItems": 227,
   "itemsWithDualPrice": 1,
   "items": [
     {
@@ -53,7 +53,7 @@
       ],
       "variationId": 21541,
       "color": "Silver",
-      "priceUnregistered": 380800000,
+      "priceUnregistered": 378100000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -71,7 +71,7 @@
       ],
       "variationId": 21540,
       "color": "Black",
-      "priceUnregistered": 380800000,
+      "priceUnregistered": 378100000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -107,7 +107,7 @@
       ],
       "variationId": 21538,
       "color": "Burgundy",
-      "priceUnregistered": 380800000,
+      "priceUnregistered": 378100000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -123,27 +123,9 @@
         "آیفون 17 پرو مکس",
         "آیفون 17 پرو مکس 256 گیگابایت"
       ],
-      "variationId": 21528,
-      "color": "Silver",
-      "priceUnregistered": 511600000,
-      "priceRegistered": null,
-      "isPhone": true,
-      "registryStatus": "رجیستر شده"
-    },
-    {
-      "id": 21525,
-      "name": "آیفون 17 پرو مکس نات اکتیو eSIM حافظه 256 گیگابایت پارت نامبر عربی AHA رجیستر شده",
-      "permalink": "https://nolix.ir/product/%d8%a2%db%8c%d9%81%d9%88%d9%86-17-%d9%be%d8%b1%d9%88-%d9%85%da%a9%d8%b3-%d9%86%d8%a7%d8%aa-%d8%a7%da%a9%d8%aa%db%8c%d9%88-esim-%d8%ad%d8%a7%d9%81%d8%b8%d9%87-256-%da%af%db%8c%da%af%d8%a7%d8%a8%d8%a7-5/",
-      "image": "https://nolix.ir/wp-content/uploads/2025/09/iphone-17-pro-cosmic-orange-nolix.jpg",
-      "categories": [
-        "آیفون 17",
-        "آیفون 17 eSIM",
-        "آیفون 17 پرو مکس",
-        "آیفون 17 پرو مکس 256 گیگابایت"
-      ],
       "variationId": 21527,
       "color": "Deep Blue",
-      "priceUnregistered": 511600000,
+      "priceUnregistered": 513000000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -177,27 +159,9 @@
         "آیفون 17 پرو مکس",
         "آیفون 17 پرو مکس 256 گیگابایت"
       ],
-      "variationId": 21524,
-      "color": "Silver",
-      "priceUnregistered": 326600000,
-      "priceRegistered": null,
-      "isPhone": true,
-      "registryStatus": "بدون رجیستر"
-    },
-    {
-      "id": 21521,
-      "name": "آیفون 17 پرو مکس نات اکتیو eSIM حافظه 256 گیگابایت پارت نامبر عربی AHA بدون رجیستری",
-      "permalink": "https://nolix.ir/product/%d8%a2%db%8c%d9%81%d9%88%d9%86-17-%d9%be%d8%b1%d9%88-%d9%85%da%a9%d8%b3-%d9%86%d8%a7%d8%aa-%d8%a7%da%a9%d8%aa%db%8c%d9%88-esim-%d8%ad%d8%a7%d9%81%d8%b8%d9%87-256-%da%af%db%8c%da%af%d8%a7%d8%a8%d8%a7-4/",
-      "image": "https://nolix.ir/wp-content/uploads/2025/09/iphone-17-pro-cosmic-orange-nolix.jpg",
-      "categories": [
-        "آیفون 17",
-        "آیفون 17 eSIM",
-        "آیفون 17 پرو مکس",
-        "آیفون 17 پرو مکس 256 گیگابایت"
-      ],
       "variationId": 21523,
       "color": "Deep Blue",
-      "priceUnregistered": 326600000,
+      "priceUnregistered": 328000000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -460,118 +424,6 @@
       "variationId": 21443,
       "color": "Black Titanium",
       "priceUnregistered": 216800000,
-      "priceRegistered": null,
-      "isPhone": false,
-      "registryStatus": null
-    },
-    {
-      "id": 21425,
-      "name": "آیپد Air M2 ۱۳ اینچ ۲۵۶ گیگابایت Wi-Fi آکبند ۲۰۲۴",
-      "permalink": "https://nolix.ir/product/%d8%a2%db%8c%d9%be%d8%af-air-m2-%db%b1%db%b3-%d8%a7%db%8c%d9%86%da%86-%db%b2%db%b5%db%b6-%da%af%db%8c%da%af%d8%a7%d8%a8%d8%a7%db%8c%d8%aa-wi-fi-%d8%a2%da%a9%d8%a8%d9%86%d8%af-%db%b2%db%b0%db%b2%db%b4/",
-      "image": "https://nolix.ir/wp-content/uploads/2026/06/ipad-air-gray-front-nolix.jpg",
-      "categories": [
-        "آیپد Air",
-        "آیپد"
-      ],
-      "variationId": 21428,
-      "color": "استارلایت",
-      "priceUnregistered": 233100000,
-      "priceRegistered": null,
-      "isPhone": false,
-      "registryStatus": null
-    },
-    {
-      "id": 21425,
-      "name": "آیپد Air M2 ۱۳ اینچ ۲۵۶ گیگابایت Wi-Fi آکبند ۲۰۲۴",
-      "permalink": "https://nolix.ir/product/%d8%a2%db%8c%d9%be%d8%af-air-m2-%db%b1%db%b3-%d8%a7%db%8c%d9%86%da%86-%db%b2%db%b5%db%b6-%da%af%db%8c%da%af%d8%a7%d8%a8%d8%a7%db%8c%d8%aa-wi-fi-%d8%a2%da%a9%d8%a8%d9%86%d8%af-%db%b2%db%b0%db%b2%db%b4/",
-      "image": "https://nolix.ir/wp-content/uploads/2026/06/ipad-air-gray-front-nolix.jpg",
-      "categories": [
-        "آیپد Air",
-        "آیپد"
-      ],
-      "variationId": 21427,
-      "color": "آبی",
-      "priceUnregistered": 233100000,
-      "priceRegistered": null,
-      "isPhone": false,
-      "registryStatus": null
-    },
-    {
-      "id": 21420,
-      "name": "آیپد Air M2 ۱۳ اینچ ۱۲۸ گیگابایت Wi-Fi آکبند ۲۰۲۴",
-      "permalink": "https://nolix.ir/product/%d8%a2%db%8c%d9%be%d8%af-air-m2-%db%b1%db%b3-%d8%a7%db%8c%d9%86%da%86-%db%b1%db%b2%db%b8-%da%af%db%8c%da%af%d8%a7%d8%a8%d8%a7%db%8c%d8%aa-wi-fi-%d8%a2%da%a9%d8%a8%d9%86%d8%af-%db%b2%db%b0%db%b2%db%b4/",
-      "image": "https://nolix.ir/wp-content/uploads/2026/06/ipad-air-gray-front-nolix.jpg",
-      "categories": [
-        "آیپد Air",
-        "آیپد"
-      ],
-      "variationId": 21424,
-      "color": "بنفش",
-      "priceUnregistered": 206000000,
-      "priceRegistered": null,
-      "isPhone": false,
-      "registryStatus": null
-    },
-    {
-      "id": 21420,
-      "name": "آیپد Air M2 ۱۳ اینچ ۱۲۸ گیگابایت Wi-Fi آکبند ۲۰۲۴",
-      "permalink": "https://nolix.ir/product/%d8%a2%db%8c%d9%be%d8%af-air-m2-%db%b1%db%b3-%d8%a7%db%8c%d9%86%da%86-%db%b1%db%b2%db%b8-%da%af%db%8c%da%af%d8%a7%d8%a8%d8%a7%db%8c%d8%aa-wi-fi-%d8%a2%da%a9%d8%a8%d9%86%d8%af-%db%b2%db%b0%db%b2%db%b4/",
-      "image": "https://nolix.ir/wp-content/uploads/2026/06/ipad-air-gray-front-nolix.jpg",
-      "categories": [
-        "آیپد Air",
-        "آیپد"
-      ],
-      "variationId": 21422,
-      "color": "آبی",
-      "priceUnregistered": 206000000,
-      "priceRegistered": null,
-      "isPhone": false,
-      "registryStatus": null
-    },
-    {
-      "id": 21420,
-      "name": "آیپد Air M2 ۱۳ اینچ ۱۲۸ گیگابایت Wi-Fi آکبند ۲۰۲۴",
-      "permalink": "https://nolix.ir/product/%d8%a2%db%8c%d9%be%d8%af-air-m2-%db%b1%db%b3-%d8%a7%db%8c%d9%86%da%86-%db%b1%db%b2%db%b8-%da%af%db%8c%da%af%d8%a7%d8%a8%d8%a7%db%8c%d8%aa-wi-fi-%d8%a2%da%a9%d8%a8%d9%86%d8%af-%db%b2%db%b0%db%b2%db%b4/",
-      "image": "https://nolix.ir/wp-content/uploads/2026/06/ipad-air-gray-front-nolix.jpg",
-      "categories": [
-        "آیپد Air",
-        "آیپد"
-      ],
-      "variationId": 21421,
-      "color": "خاکستری",
-      "priceUnregistered": 206000000,
-      "priceRegistered": null,
-      "isPhone": false,
-      "registryStatus": null
-    },
-    {
-      "id": 21415,
-      "name": "آیپد Air M3 ۱۳ اینچ ۱۲۸ گیگابایت Wi-Fi آکبند ۲۰۲۵",
-      "permalink": "https://nolix.ir/product/%d8%a2%db%8c%d9%be%d8%af-air-m3-%db%b1%db%b3-%d8%a7%db%8c%d9%86%da%86-%db%b1%db%b2%db%b8-%da%af%db%8c%da%af%d8%a7%d8%a8%d8%a7%db%8c%d8%aa-wi-fi-%d8%a2%da%a9%d8%a8%d9%86%d8%af-%db%b2%db%b0%db%b2%db%b5/",
-      "image": "https://nolix.ir/wp-content/uploads/2026/06/ipad-air-gray-front-nolix.jpg",
-      "categories": [
-        "آیپد Air",
-        "آیپد"
-      ],
-      "variationId": 21417,
-      "color": "آبی",
-      "priceUnregistered": 219600000,
-      "priceRegistered": null,
-      "isPhone": false,
-      "registryStatus": null
-    },
-    {
-      "id": 21415,
-      "name": "آیپد Air M3 ۱۳ اینچ ۱۲۸ گیگابایت Wi-Fi آکبند ۲۰۲۵",
-      "permalink": "https://nolix.ir/product/%d8%a2%db%8c%d9%be%d8%af-air-m3-%db%b1%db%b3-%d8%a7%db%8c%d9%86%da%86-%db%b1%db%b2%db%b8-%da%af%db%8c%da%af%d8%a7%d8%a8%d8%a7%db%8c%d8%aa-wi-fi-%d8%a2%da%a9%d8%a8%d9%86%d8%af-%db%b2%db%b0%db%b2%db%b5/",
-      "image": "https://nolix.ir/wp-content/uploads/2026/06/ipad-air-gray-front-nolix.jpg",
-      "categories": [
-        "آیپد Air",
-        "آیپد"
-      ],
-      "variationId": 21416,
-      "color": "خاکستری",
-      "priceUnregistered": 219600000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -985,7 +837,7 @@
       ],
       "variationId": 21126,
       "color": "Burgundy",
-      "priceUnregistered": 444500000,
+      "priceUnregistered": 441500000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -1008,23 +860,6 @@
       "registryStatus": "بدون رجیستر"
     },
     {
-      "id": 21061,
-      "name": "آیفون 18 پرو مکس نات اکتیو دو سیم کارت حافظه 256 گیگابایت پارت نامبر CHA بدون رجیستری",
-      "permalink": "https://nolix.ir/product/18pm-not-2s-cha-256/",
-      "image": "https://nolix.ir/wp-content/uploads/2026/09/iphone-18-pro-max-burgundy-nolix.jpg",
-      "categories": [
-        "آیفون 18",
-        "آیفون 18 پرو مکس",
-        "آیفون 18 پرو مکس 256 گیگابایت"
-      ],
-      "variationId": 21062,
-      "color": "Burgundy",
-      "priceUnregistered": 460700000,
-      "priceRegistered": null,
-      "isPhone": true,
-      "registryStatus": "بدون رجیستر"
-    },
-    {
       "id": 21006,
       "name": "آیفون 17 ایر نات اکتیو eSIM حافظه 256 گیگابایت پارت نامبر ژاپن رجیستر شده",
       "permalink": "https://nolix.ir/product/17air-not-es-ja-256-reg/",
@@ -1036,23 +871,6 @@
       ],
       "variationId": 21010,
       "color": "Sky Blue",
-      "priceUnregistered": 424200000,
-      "priceRegistered": null,
-      "isPhone": true,
-      "registryStatus": "رجیستر شده"
-    },
-    {
-      "id": 21006,
-      "name": "آیفون 17 ایر نات اکتیو eSIM حافظه 256 گیگابایت پارت نامبر ژاپن رجیستر شده",
-      "permalink": "https://nolix.ir/product/17air-not-es-ja-256-reg/",
-      "image": "https://nolix.ir/wp-content/uploads/2026/07/iphone-air-spaceblack-nolix.jpg",
-      "categories": [
-        "آیفون 17",
-        "آیفون 17 ایر",
-        "آیفون 17 eSIM"
-      ],
-      "variationId": 21009,
-      "color": "Light Gold",
       "priceUnregistered": 424200000,
       "priceRegistered": null,
       "isPhone": true,
@@ -1087,23 +905,6 @@
       ],
       "variationId": 21005,
       "color": "Sky Blue",
-      "priceUnregistered": 241200000,
-      "priceRegistered": null,
-      "isPhone": true,
-      "registryStatus": "بدون رجیستر"
-    },
-    {
-      "id": 21001,
-      "name": "آیفون 17 ایر نات اکتیو eSIM حافظه 256 گیگابایت پارت نامبر ژاپن بدون رجیستری",
-      "permalink": "https://nolix.ir/product/17air-not-es-ja-256/",
-      "image": "https://nolix.ir/wp-content/uploads/2026/07/iphone-air-spaceblack-nolix.jpg",
-      "categories": [
-        "آیفون 17",
-        "آیفون 17 ایر",
-        "آیفون 17 eSIM"
-      ],
-      "variationId": 21004,
-      "color": "Light Gold",
       "priceUnregistered": 241200000,
       "priceRegistered": null,
       "isPhone": true,
@@ -1194,6 +995,23 @@
       "variationId": 20994,
       "color": "Cosmic Orange",
       "priceUnregistered": 374000000,
+      "priceRegistered": null,
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
+    },
+    {
+      "id": 20967,
+      "name": "آیفون 18 پرو مکس اکتیو شده تک سیم کارت + eSIM حافظه 512 گیگابایت پارت نامبر ZAA بدون رجیستری",
+      "permalink": "https://nolix.ir/product/18pm-act-1se-zaa-512/",
+      "image": "https://nolix.ir/wp-content/uploads/2026/09/iphone-18-pro-max-burgundy-nolix.jpg",
+      "categories": [
+        "آیفون 18",
+        "آیفون 18 پرو مکس",
+        "آیفون 18 پرو مکس 512 گیگابایت"
+      ],
+      "variationId": 20969,
+      "color": "Glacier",
+      "priceUnregistered": 474300000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -1531,23 +1349,6 @@
         "آیفون 18 پرو مکس",
         "آیفون 18 پرو مکس 1 ترابایت"
       ],
-      "variationId": 20796,
-      "color": "Glacier",
-      "priceUnregistered": 630100000,
-      "priceRegistered": null,
-      "isPhone": true,
-      "registryStatus": "بدون رجیستر"
-    },
-    {
-      "id": 20794,
-      "name": "آیفون 18 پرو مکس نات اکتیو تک سیم کارت + eSIM حافظه 1 ترابایت پارت نامبر ZAA بدون رجیستری",
-      "permalink": "https://nolix.ir/product/18pm-not-1se-zaa-1tb/",
-      "image": "https://nolix.ir/wp-content/uploads/2026/09/iphone-18-pro-max-burgundy-nolix.jpg",
-      "categories": [
-        "آیفون 18",
-        "آیفون 18 پرو مکس",
-        "آیفون 18 پرو مکس 1 ترابایت"
-      ],
       "variationId": 20795,
       "color": "Burgundy",
       "priceUnregistered": 645000000,
@@ -1601,7 +1402,7 @@
       ],
       "variationId": 20786,
       "color": "Glacier",
-      "priceUnregistered": 479700000,
+      "priceUnregistered": 481100000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -1669,7 +1470,7 @@
       ],
       "variationId": 20776,
       "color": "Glacier",
-      "priceUnregistered": 414700000,
+      "priceUnregistered": 417400000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -1919,7 +1720,7 @@
       ],
       "variationId": 20280,
       "color": "Black Titanium",
-      "priceUnregistered": 214100000,
+      "priceUnregistered": 211400000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -2367,6 +2168,24 @@
       "variationId": 19953,
       "color": "Cosmic Orange",
       "priceUnregistered": 527100000,
+      "priceRegistered": null,
+      "isPhone": true,
+      "registryStatus": "رجیستر شده"
+    },
+    {
+      "id": 19948,
+      "name": "آیفون 17 پرو مکس نات اکتیو eSIM حافظه 256 گیگابایت پارت نامبر ژاپن رجیستر شده",
+      "permalink": "https://nolix.ir/product/%d8%a2%db%8c%d9%81%d9%88%d9%86-17-%d9%be%d8%b1%d9%88-%d9%85%da%a9%d8%b3-%d9%86%d8%a7%d8%aa-%d8%a7%da%a9%d8%aa%db%8c%d9%88-esim-%d8%ad%d8%a7%d9%81%d8%b8%d9%87-256-%da%af%db%8c%da%af%d8%a7%d8%a8%d8%a7-2/",
+      "image": "https://nolix.ir/wp-content/uploads/2025/09/iphone-17-pro-cosmic-orange-nolix.jpg",
+      "categories": [
+        "آیفون 17",
+        "آیفون 17 eSIM",
+        "آیفون 17 پرو مکس",
+        "آیفون 17 پرو مکس 256 گیگابایت"
+      ],
+      "variationId": 19951,
+      "color": "Silver",
+      "priceUnregistered": 513000000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "رجیستر شده"
@@ -3111,246 +2930,6 @@
       "registryStatus": null
     },
     {
-      "id": 19498,
-      "name": "آیپد Air M4 ۱۱ اینچ ۲۵۶ گیگابایت Wi-Fi آکبند ۲۰۲۶",
-      "permalink": "https://nolix.ir/product/%d8%a2%db%8c%d9%be%d8%af-%d8%a7%db%8c%d8%b1-m4-%db%b1%db%b1-%d8%a7%db%8c%d9%86%da%86-%db%b2%db%b5%db%b6-%da%af%db%8c%da%af%d8%a7%d8%a8%d8%a7%db%8c%d8%aa-wi-fi-%d8%a2%da%a9%d8%a8%d9%86%d8%af-%db%b2/",
-      "image": "https://nolix.ir/wp-content/uploads/2026/06/ipad-air-gray-front-nolix.jpg",
-      "categories": [
-        "آیپد",
-        "آیپد Air"
-      ],
-      "variationId": 19502,
-      "color": "بنفش",
-      "priceUnregistered": 229000000,
-      "priceRegistered": null,
-      "isPhone": false,
-      "registryStatus": null
-    },
-    {
-      "id": 19498,
-      "name": "آیپد Air M4 ۱۱ اینچ ۲۵۶ گیگابایت Wi-Fi آکبند ۲۰۲۶",
-      "permalink": "https://nolix.ir/product/%d8%a2%db%8c%d9%be%d8%af-%d8%a7%db%8c%d8%b1-m4-%db%b1%db%b1-%d8%a7%db%8c%d9%86%da%86-%db%b2%db%b5%db%b6-%da%af%db%8c%da%af%d8%a7%d8%a8%d8%a7%db%8c%d8%aa-wi-fi-%d8%a2%da%a9%d8%a8%d9%86%d8%af-%db%b2/",
-      "image": "https://nolix.ir/wp-content/uploads/2026/06/ipad-air-gray-front-nolix.jpg",
-      "categories": [
-        "آیپد",
-        "آیپد Air"
-      ],
-      "variationId": 19501,
-      "color": "آبی",
-      "priceUnregistered": 229000000,
-      "priceRegistered": null,
-      "isPhone": false,
-      "registryStatus": null
-    },
-    {
-      "id": 19493,
-      "name": "آیپد Air M4 ۱۱ اینچ ۱۲۸ گیگابایت Wi-Fi آکبند ۲۰۲۶",
-      "permalink": "https://nolix.ir/product/%d8%a2%db%8c%d9%be%d8%af-%d8%a7%db%8c%d8%b1-m4-%db%b1%db%b1-%d8%a7%db%8c%d9%86%da%86-%db%b1%db%b2%db%b8-%da%af%db%8c%da%af%d8%a7%d8%a8%d8%a7%db%8c%d8%aa-wi-fi-%d8%a2%da%a9%d8%a8%d9%86%d8%af-%db%b2/",
-      "image": "https://nolix.ir/wp-content/uploads/2026/06/ipad-air-gray-front-nolix.jpg",
-      "categories": [
-        "آیپد",
-        "آیپد Air"
-      ],
-      "variationId": 19497,
-      "color": "بنفش",
-      "priceUnregistered": 192500000,
-      "priceRegistered": null,
-      "isPhone": false,
-      "registryStatus": null
-    },
-    {
-      "id": 19493,
-      "name": "آیپد Air M4 ۱۱ اینچ ۱۲۸ گیگابایت Wi-Fi آکبند ۲۰۲۶",
-      "permalink": "https://nolix.ir/product/%d8%a2%db%8c%d9%be%d8%af-%d8%a7%db%8c%d8%b1-m4-%db%b1%db%b1-%d8%a7%db%8c%d9%86%da%86-%db%b1%db%b2%db%b8-%da%af%db%8c%da%af%d8%a7%d8%a8%d8%a7%db%8c%d8%aa-wi-fi-%d8%a2%da%a9%d8%a8%d9%86%d8%af-%db%b2/",
-      "image": "https://nolix.ir/wp-content/uploads/2026/06/ipad-air-gray-front-nolix.jpg",
-      "categories": [
-        "آیپد",
-        "آیپد Air"
-      ],
-      "variationId": 19496,
-      "color": "آبی",
-      "priceUnregistered": 192500000,
-      "priceRegistered": null,
-      "isPhone": false,
-      "registryStatus": null
-    },
-    {
-      "id": 19493,
-      "name": "آیپد Air M4 ۱۱ اینچ ۱۲۸ گیگابایت Wi-Fi آکبند ۲۰۲۶",
-      "permalink": "https://nolix.ir/product/%d8%a2%db%8c%d9%be%d8%af-%d8%a7%db%8c%d8%b1-m4-%db%b1%db%b1-%d8%a7%db%8c%d9%86%da%86-%db%b1%db%b2%db%b8-%da%af%db%8c%da%af%d8%a7%d8%a8%d8%a7%db%8c%d8%aa-wi-fi-%d8%a2%da%a9%d8%a8%d9%86%d8%af-%db%b2/",
-      "image": "https://nolix.ir/wp-content/uploads/2026/06/ipad-air-gray-front-nolix.jpg",
-      "categories": [
-        "آیپد",
-        "آیپد Air"
-      ],
-      "variationId": 19495,
-      "color": "استارلایت",
-      "priceUnregistered": 192500000,
-      "priceRegistered": null,
-      "isPhone": false,
-      "registryStatus": null
-    },
-    {
-      "id": 19493,
-      "name": "آیپد Air M4 ۱۱ اینچ ۱۲۸ گیگابایت Wi-Fi آکبند ۲۰۲۶",
-      "permalink": "https://nolix.ir/product/%d8%a2%db%8c%d9%be%d8%af-%d8%a7%db%8c%d8%b1-m4-%db%b1%db%b1-%d8%a7%db%8c%d9%86%da%86-%db%b1%db%b2%db%b8-%da%af%db%8c%da%af%d8%a7%d8%a8%d8%a7%db%8c%d8%aa-wi-fi-%d8%a2%da%a9%d8%a8%d9%86%d8%af-%db%b2/",
-      "image": "https://nolix.ir/wp-content/uploads/2026/06/ipad-air-gray-front-nolix.jpg",
-      "categories": [
-        "آیپد",
-        "آیپد Air"
-      ],
-      "variationId": 19494,
-      "color": "خاکستری",
-      "priceUnregistered": 192500000,
-      "priceRegistered": null,
-      "isPhone": false,
-      "registryStatus": null
-    },
-    {
-      "id": 19488,
-      "name": "آیپد ۱۱ (A16) ۲۵۶ گیگابایت Wi-Fi آکبند ۲۰۲۵",
-      "permalink": "https://nolix.ir/product/%d8%a2%db%8c%d9%be%d8%af-%db%b1%db%b1-a16-%db%b2%db%b5%db%b6-%da%af%db%8c%da%af%d8%a7%d8%a8%d8%a7%db%8c%d8%aa-wi-fi-%d8%a2%da%a9%d8%a8%d9%86%d8%af-%db%b2%db%b0%db%b2%db%b5/",
-      "image": "https://nolix.ir/wp-content/uploads/2026/06/ipad-a16-blue-front-nolix.jpg",
-      "categories": [
-        "آیپد",
-        "آیپد معمولی"
-      ],
-      "variationId": 19492,
-      "color": "صورتی",
-      "priceUnregistered": 157200000,
-      "priceRegistered": null,
-      "isPhone": false,
-      "registryStatus": null
-    },
-    {
-      "id": 19488,
-      "name": "آیپد ۱۱ (A16) ۲۵۶ گیگابایت Wi-Fi آکبند ۲۰۲۵",
-      "permalink": "https://nolix.ir/product/%d8%a2%db%8c%d9%be%d8%af-%db%b1%db%b1-a16-%db%b2%db%b5%db%b6-%da%af%db%8c%da%af%d8%a7%d8%a8%d8%a7%db%8c%d8%aa-wi-fi-%d8%a2%da%a9%d8%a8%d9%86%d8%af-%db%b2%db%b0%db%b2%db%b5/",
-      "image": "https://nolix.ir/wp-content/uploads/2026/06/ipad-a16-blue-front-nolix.jpg",
-      "categories": [
-        "آیپد",
-        "آیپد معمولی"
-      ],
-      "variationId": 19490,
-      "color": "نقره‌ای",
-      "priceUnregistered": 157200000,
-      "priceRegistered": null,
-      "isPhone": false,
-      "registryStatus": null
-    },
-    {
-      "id": 19488,
-      "name": "آیپد ۱۱ (A16) ۲۵۶ گیگابایت Wi-Fi آکبند ۲۰۲۵",
-      "permalink": "https://nolix.ir/product/%d8%a2%db%8c%d9%be%d8%af-%db%b1%db%b1-a16-%db%b2%db%b5%db%b6-%da%af%db%8c%da%af%d8%a7%d8%a8%d8%a7%db%8c%d8%aa-wi-fi-%d8%a2%da%a9%d8%a8%d9%86%d8%af-%db%b2%db%b0%db%b2%db%b5/",
-      "image": "https://nolix.ir/wp-content/uploads/2026/06/ipad-a16-blue-front-nolix.jpg",
-      "categories": [
-        "آیپد",
-        "آیپد معمولی"
-      ],
-      "variationId": 19489,
-      "color": "آبی",
-      "priceUnregistered": 157200000,
-      "priceRegistered": null,
-      "isPhone": false,
-      "registryStatus": null
-    },
-    {
-      "id": 19483,
-      "name": "آیپد ۱۱ (A16) ۱۲۸ گیگابایت Wi-Fi آکبند ۲۰۲۵",
-      "permalink": "https://nolix.ir/product/%d8%a2%db%8c%d9%be%d8%af-%db%b1%db%b1-a16-%db%b1%db%b2%db%b8-%da%af%db%8c%da%af%d8%a7%d8%a8%d8%a7%db%8c%d8%aa-wi-fi-%d8%a2%da%a9%d8%a8%d9%86%d8%af-%db%b2%db%b0%db%b2%db%b5/",
-      "image": "https://nolix.ir/wp-content/uploads/2026/06/ipad-a16-blue-front-nolix.jpg",
-      "categories": [
-        "آیپد",
-        "آیپد معمولی"
-      ],
-      "variationId": 19487,
-      "color": "صورتی",
-      "priceUnregistered": 126100000,
-      "priceRegistered": null,
-      "isPhone": false,
-      "registryStatus": null
-    },
-    {
-      "id": 19483,
-      "name": "آیپد ۱۱ (A16) ۱۲۸ گیگابایت Wi-Fi آکبند ۲۰۲۵",
-      "permalink": "https://nolix.ir/product/%d8%a2%db%8c%d9%be%d8%af-%db%b1%db%b1-a16-%db%b1%db%b2%db%b8-%da%af%db%8c%da%af%d8%a7%d8%a8%d8%a7%db%8c%d8%aa-wi-fi-%d8%a2%da%a9%d8%a8%d9%86%d8%af-%db%b2%db%b0%db%b2%db%b5/",
-      "image": "https://nolix.ir/wp-content/uploads/2026/06/ipad-a16-blue-front-nolix.jpg",
-      "categories": [
-        "آیپد",
-        "آیپد معمولی"
-      ],
-      "variationId": 19486,
-      "color": "زرد",
-      "priceUnregistered": 126100000,
-      "priceRegistered": null,
-      "isPhone": false,
-      "registryStatus": null
-    },
-    {
-      "id": 19483,
-      "name": "آیپد ۱۱ (A16) ۱۲۸ گیگابایت Wi-Fi آکبند ۲۰۲۵",
-      "permalink": "https://nolix.ir/product/%d8%a2%db%8c%d9%be%d8%af-%db%b1%db%b1-a16-%db%b1%db%b2%db%b8-%da%af%db%8c%da%af%d8%a7%d8%a8%d8%a7%db%8c%d8%aa-wi-fi-%d8%a2%da%a9%d8%a8%d9%86%d8%af-%db%b2%db%b0%db%b2%db%b5/",
-      "image": "https://nolix.ir/wp-content/uploads/2026/06/ipad-a16-blue-front-nolix.jpg",
-      "categories": [
-        "آیپد",
-        "آیپد معمولی"
-      ],
-      "variationId": 19485,
-      "color": "نقره‌ای",
-      "priceUnregistered": 126100000,
-      "priceRegistered": null,
-      "isPhone": false,
-      "registryStatus": null
-    },
-    {
-      "id": 19483,
-      "name": "آیپد ۱۱ (A16) ۱۲۸ گیگابایت Wi-Fi آکبند ۲۰۲۵",
-      "permalink": "https://nolix.ir/product/%d8%a2%db%8c%d9%be%d8%af-%db%b1%db%b1-a16-%db%b1%db%b2%db%b8-%da%af%db%8c%da%af%d8%a7%d8%a8%d8%a7%db%8c%d8%aa-wi-fi-%d8%a2%da%a9%d8%a8%d9%86%d8%af-%db%b2%db%b0%db%b2%db%b5/",
-      "image": "https://nolix.ir/wp-content/uploads/2026/06/ipad-a16-blue-front-nolix.jpg",
-      "categories": [
-        "آیپد",
-        "آیپد معمولی"
-      ],
-      "variationId": 19484,
-      "color": "آبی",
-      "priceUnregistered": 124700000,
-      "priceRegistered": null,
-      "isPhone": false,
-      "registryStatus": null
-    },
-    {
-      "id": 19474,
-      "name": "آیپد پرو M4 ۱۳ اینچ ۵۱۲ گیگابایت Wi-Fi + سلولار آکبند ۲۰۲۴",
-      "permalink": "https://nolix.ir/product/%d8%a2%db%8c%d9%be%d8%af-%d9%be%d8%b1%d9%88-m4-%db%b1%db%b3-%d8%a7%db%8c%d9%86%da%86-%db%b5%db%b1%db%b2-%da%af%db%8c%da%af%d8%a7%d8%a8%d8%a7%db%8c%d8%aa-wi-fi-%d8%b3%d9%84%d9%88%d9%84%d8%a7%d8%b1/",
-      "image": "https://nolix.ir/wp-content/uploads/2026/06/ipad-pro-black-front-nolix.jpg",
-      "categories": [
-        "آیپد",
-        "آیپد پرو"
-      ],
-      "variationId": 19476,
-      "color": "نقره‌ای",
-      "priceUnregistered": 325200000,
-      "priceRegistered": null,
-      "isPhone": false,
-      "registryStatus": null
-    },
-    {
-      "id": 19474,
-      "name": "آیپد پرو M4 ۱۳ اینچ ۵۱۲ گیگابایت Wi-Fi + سلولار آکبند ۲۰۲۴",
-      "permalink": "https://nolix.ir/product/%d8%a2%db%8c%d9%be%d8%af-%d9%be%d8%b1%d9%88-m4-%db%b1%db%b3-%d8%a7%db%8c%d9%86%da%86-%db%b5%db%b1%db%b2-%da%af%db%8c%da%af%d8%a7%d8%a8%d8%a7%db%8c%d8%aa-wi-fi-%d8%b3%d9%84%d9%88%d9%84%d8%a7%d8%b1/",
-      "image": "https://nolix.ir/wp-content/uploads/2026/06/ipad-pro-black-front-nolix.jpg",
-      "categories": [
-        "آیپد",
-        "آیپد پرو"
-      ],
-      "variationId": 19475,
-      "color": "مشکی",
-      "priceUnregistered": 325200000,
-      "priceRegistered": null,
-      "isPhone": false,
-      "registryStatus": null
-    },
-    {
       "id": 19467,
       "name": "آیپد پرو M5 ۱۳ اینچ ۲۵۶ گیگابایت Wi-Fi + سلولار مشکی آکبند ۲۰۲۵",
       "permalink": "https://nolix.ir/product/%d8%a2%db%8c%d9%be%d8%af-%d9%be%d8%b1%d9%88-m5-%db%b1%db%b3-%d8%a7%db%8c%d9%86%da%86-%db%b2%db%b5%db%b6-%da%af%db%8c%da%af%d8%a7%d8%a8%d8%a7%db%8c%d8%aa-wi-fi-%d8%b3%d9%84%d9%88%d9%84%d8%a7%d8%b1/",
@@ -3378,38 +2957,6 @@
       "variationId": 19468,
       "color": "مشکی",
       "priceUnregistered": 363200000,
-      "priceRegistered": null,
-      "isPhone": false,
-      "registryStatus": null
-    },
-    {
-      "id": 19465,
-      "name": "آیپد پرو M5 ۱۳ اینچ ۲۵۶ گیگابایت Wi-Fi مشکی آکبند ۲۰۲۵",
-      "permalink": "https://nolix.ir/product/%d8%a2%db%8c%d9%be%d8%af-%d9%be%d8%b1%d9%88-m5-%db%b1%db%b3-%d8%a7%db%8c%d9%86%da%86-%db%b2%db%b5%db%b6-%da%af%db%8c%da%af%d8%a7%d8%a8%d8%a7%db%8c%d8%aa-wi-fi-%d9%85%d8%b4%da%a9%db%8c-%d8%a2%da%a9/",
-      "image": "https://nolix.ir/wp-content/uploads/2026/06/ipad-pro-black-front-nolix.jpg",
-      "categories": [
-        "آیپد",
-        "آیپد پرو"
-      ],
-      "variationId": 19466,
-      "color": "مشکی",
-      "priceUnregistered": 359100000,
-      "priceRegistered": null,
-      "isPhone": false,
-      "registryStatus": null
-    },
-    {
-      "id": 19460,
-      "name": "آیپد پرو M5 ۱۱ اینچ ۲۵۶ گیگابایت Wi-Fi مشکی آکبند ۲۰۲۵",
-      "permalink": "https://nolix.ir/product/%d8%a2%db%8c%d9%be%d8%af-%d9%be%d8%b1%d9%88-m5-%db%b1%db%b1-%d8%a7%db%8c%d9%86%da%86-%db%b2%db%b5%db%b6-%da%af%db%8c%da%af%d8%a7%d8%a8%d8%a7%db%8c%d8%aa-wi-fi-%d9%85%d8%b4%da%a9%db%8c-%d8%a2%da%a9/",
-      "image": "https://nolix.ir/wp-content/uploads/2026/06/ipad-pro-black-front-nolix.jpg",
-      "categories": [
-        "آیپد",
-        "آیپد پرو"
-      ],
-      "variationId": 19461,
-      "color": "مشکی",
-      "priceUnregistered": 302200000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -3469,7 +3016,7 @@
       ],
       "variationId": 19424,
       "color": "Black Titanium",
-      "priceUnregistered": 159900000,
+      "priceUnregistered": 157200000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
@@ -3811,60 +3358,6 @@
       "registryStatus": "بدون رجیستر"
     },
     {
-      "id": 18252,
-      "name": "آیفون 17 پرو نات اکتیو eSIM حافظه 256 گیگابایت پارت نامبر ژاپن بدون رجیستری",
-      "permalink": "https://nolix.ir/product/%d8%a2%db%8c%d9%81%d9%88%d9%86-17-%d9%be%d8%b1%d9%88-%d9%86%d8%a7%d8%aa-esim-ja-256/",
-      "image": "https://nolix.ir/wp-content/uploads/2025/09/iphone-17-pro-cosmic-orange-nolix.jpg",
-      "categories": [
-        "آیفون 17",
-        "آیفون 17 eSIM",
-        "آیفون 17 پرو",
-        "آیفون 17 پرو 256 گیگابایت"
-      ],
-      "variationId": 18253,
-      "color": "Cosmic Orange",
-      "priceUnregistered": 292700000,
-      "priceRegistered": null,
-      "isPhone": true,
-      "registryStatus": "بدون رجیستر"
-    },
-    {
-      "id": 18193,
-      "name": "آیفون 17 پرو مکس نات اکتیو eSIM حافظه 2 ترابایت پارت نامبر ژاپن بدون رجیستری",
-      "permalink": "https://nolix.ir/product/%d8%a2%db%8c%d9%81%d9%88%d9%86-17-%d9%be%d8%b1%d9%88-%d9%85%da%a9%d8%b3-%d9%86%d8%a7%d8%aa-esim-ja-2tb/",
-      "image": "https://nolix.ir/wp-content/uploads/2025/09/iphone-17-pro-cosmic-orange-nolix.jpg",
-      "categories": [
-        "آیفون 17",
-        "آیفون 17 eSIM",
-        "آیفون 17 پرو مکس",
-        "آیفون 17 پرو مکس 2 ترابایت"
-      ],
-      "variationId": 18194,
-      "color": "Cosmic Orange",
-      "priceUnregistered": 441800000,
-      "priceRegistered": null,
-      "isPhone": true,
-      "registryStatus": "بدون رجیستر"
-    },
-    {
-      "id": 18185,
-      "name": "آیفون 17 پرو مکس نات اکتیو eSIM حافظه 512 گیگابایت پارت نامبر ژاپن بدون رجیستری",
-      "permalink": "https://nolix.ir/product/%d8%a2%db%8c%d9%81%d9%88%d9%86-17-%d9%be%d8%b1%d9%88-%d9%85%da%a9%d8%b3-%d9%86%d8%a7%d8%aa-esim-ja-512/",
-      "image": "https://nolix.ir/wp-content/uploads/2025/09/iphone-17-pro-cosmic-orange-nolix.jpg",
-      "categories": [
-        "آیفون 17",
-        "آیفون 17 eSIM",
-        "آیفون 17 پرو مکس",
-        "آیفون 17 پرو مکس 512 گیگابایت"
-      ],
-      "variationId": 18186,
-      "color": "Cosmic Orange",
-      "priceUnregistered": 374000000,
-      "priceRegistered": null,
-      "isPhone": true,
-      "registryStatus": "بدون رجیستر"
-    },
-    {
       "id": 18142,
       "name": "آیفون 17 پرو مکس نات اکتیو تک سیم کارت + eSIM حافظه 256 گیگابایت پارت نامبر ZAA بدون رجیستری",
       "permalink": "https://nolix.ir/product/%d8%a2%db%8c%d9%81%d9%88%d9%86-17-%d9%be%d8%b1%d9%88-%d9%85%da%a9%d8%b3-%d9%86%d8%a7%d8%aa-%d8%aa%da%a9-%d8%b3%db%8c%d9%85-256-za/",
@@ -3894,6 +3387,24 @@
       "variationId": 18143,
       "color": "Cosmic Orange",
       "priceUnregistered": 337400000,
+      "priceRegistered": null,
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
+    },
+    {
+      "id": 18136,
+      "name": "آیفون 17 پرو مکس نات اکتیو eSIM حافظه 256 گیگابایت پارت نامبر ژاپن بدون رجیستری",
+      "permalink": "https://nolix.ir/product/%d8%a2%db%8c%d9%81%d9%88%d9%86-17-%d9%be%d8%b1%d9%88-%d9%85%da%a9%d8%b3-%d9%86%d8%a7%d8%aa-esim-ja-256/",
+      "image": "https://nolix.ir/wp-content/uploads/2025/09/iphone-17-pro-cosmic-orange-nolix.jpg",
+      "categories": [
+        "آیفون 17",
+        "آیفون 17 eSIM",
+        "آیفون 17 پرو مکس",
+        "آیفون 17 پرو مکس 256 گیگابایت"
+      ],
+      "variationId": 18139,
+      "color": "Silver",
+      "priceUnregistered": 328000000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
@@ -3950,40 +3461,6 @@
       "registryStatus": "بدون رجیستر"
     },
     {
-      "id": 17977,
-      "name": "آیفون 17 پرو نات اکتیو دو سیم کارت حافظه 256 گیگابایت پارت نامبر CHA بدون رجیستری",
-      "permalink": "https://nolix.ir/product/%d8%a2%db%8c%d9%81%d9%88%d9%86-17-%d9%be%d8%b1%d9%88-%d9%86%d8%a7%d8%aa-%d8%af%d9%88-%d8%b3%db%8c%d9%85-256/",
-      "image": "https://nolix.ir/wp-content/uploads/2025/09/iphone-17-pro-cosmic-orange-nolix.jpg",
-      "categories": [
-        "آیفون 17",
-        "آیفون 17 پرو",
-        "آیفون 17 پرو 256 گیگابایت"
-      ],
-      "variationId": 17978,
-      "color": "Cosmic Orange",
-      "priceUnregistered": 311700000,
-      "priceRegistered": null,
-      "isPhone": true,
-      "registryStatus": "بدون رجیستر"
-    },
-    {
-      "id": 17961,
-      "name": "آیفون 17 پرو اکتیو شده تک سیم کارت + eSIM حافظه 512 گیگابایت پارت نامبر ZAA بدون رجیستری",
-      "permalink": "https://nolix.ir/product/%d8%a2%db%8c%d9%81%d9%88%d9%86-17-%d9%be%d8%b1%d9%88-%d8%a7%da%a9%d8%aa%db%8c%d9%88-%d8%aa%da%a9-%d8%b3%db%8c%d9%85-512/",
-      "image": "https://nolix.ir/wp-content/uploads/2025/09/iphone-17-pro-cosmic-orange-nolix.jpg",
-      "categories": [
-        "آیفون 17",
-        "آیفون 17 پرو",
-        "آیفون 17 پرو 512 گیگابایت"
-      ],
-      "variationId": 17962,
-      "color": "Cosmic Orange",
-      "priceUnregistered": 317100000,
-      "priceRegistered": null,
-      "isPhone": true,
-      "registryStatus": "بدون رجیستر"
-    },
-    {
       "id": 17929,
       "name": "آیفون 17 پرو مکس نات اکتیو تک سیم کارت + eSIM حافظه 1 ترابایت پارت نامبر ZAA بدون رجیستری",
       "permalink": "https://nolix.ir/product/%d8%a2%db%8c%d9%81%d9%88%d9%86-17-%d9%be%d8%b1%d9%88-%d9%85%da%a9%d8%b3-%d9%86%d8%a7%d8%aa-%d8%af%d9%88-%d8%b3%db%8c%d9%85-1%d8%aa%d8%b1%d8%a7/",
@@ -4013,57 +3490,6 @@
       "variationId": 17930,
       "color": "Cosmic Orange",
       "priceUnregistered": 447200000,
-      "priceRegistered": null,
-      "isPhone": true,
-      "registryStatus": "بدون رجیستر"
-    },
-    {
-      "id": 17919,
-      "name": "آیفون 17 پرو مکس نات اکتیو تک سیم کارت + eSIM حافظه 512 گیگابایت پارت نامبر ZAA بدون رجیستری",
-      "permalink": "https://nolix.ir/product/%d8%a2%db%8c%d9%81%d9%88%d9%86-17-%d9%be%d8%b1%d9%88-%d9%85%da%a9%d8%b3-%d9%86%d8%a7%d8%aa-%d8%aa%da%a9-%d8%b3%db%8c%d9%85-512/",
-      "image": "https://nolix.ir/wp-content/uploads/2025/09/iphone-17-pro-cosmic-orange-nolix.jpg",
-      "categories": [
-        "آیفون 17",
-        "آیفون 17 پرو مکس",
-        "آیفون 17 پرو مکس 512 گیگابایت"
-      ],
-      "variationId": 17921,
-      "color": "Deep Blue",
-      "priceUnregistered": 406500000,
-      "priceRegistered": null,
-      "isPhone": true,
-      "registryStatus": "بدون رجیستر"
-    },
-    {
-      "id": 17915,
-      "name": "آیفون 17 پرو مکس نات اکتیو دو سیم کارت حافظه 512 گیگابایت پارت نامبر CHA بدون رجیستری",
-      "permalink": "https://nolix.ir/product/%d8%a2%db%8c%d9%81%d9%88%d9%86-17-%d9%be%d8%b1%d9%88-%d9%85%da%a9%d8%b3-%d9%86%d8%a7%d8%aa-%d8%af%d9%88-%d8%b3%db%8c%d9%85-512/",
-      "image": "https://nolix.ir/wp-content/uploads/2025/09/iphone-17-pro-cosmic-orange-nolix.jpg",
-      "categories": [
-        "آیفون 17",
-        "آیفون 17 پرو مکس",
-        "آیفون 17 پرو مکس 512 گیگابایت"
-      ],
-      "variationId": 17916,
-      "color": "Cosmic Orange",
-      "priceUnregistered": 414700000,
-      "priceRegistered": null,
-      "isPhone": true,
-      "registryStatus": "بدون رجیستر"
-    },
-    {
-      "id": 17910,
-      "name": "آیفون 17 پرو مکس نات اکتیو دو سیم کارت حافظه 256 گیگابایت پارت نامبر CHA بدون رجیستری",
-      "permalink": "https://nolix.ir/product/%d8%a2%db%8c%d9%81%d9%88%d9%86-17-%d9%be%d8%b1%d9%88-%d9%85%da%a9%d8%b3-%d9%86%d8%a7%d8%aa-%d8%af%d9%88-%d8%b3%db%8c%d9%85-256/",
-      "image": "https://nolix.ir/wp-content/uploads/2025/09/iphone-17-pro-cosmic-orange-nolix.jpg",
-      "categories": [
-        "آیفون 17",
-        "آیفون 17 پرو مکس",
-        "آیفون 17 پرو مکس 256 گیگابایت"
-      ],
-      "variationId": 17911,
-      "color": "Cosmic Orange",
-      "priceUnregistered": 351000000,
       "priceRegistered": null,
       "isPhone": true,
       "registryStatus": "بدون رجیستر"
