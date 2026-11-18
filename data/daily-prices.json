@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-17T20:00:31.340Z",
+  "generatedAt": "2026-11-18T19:33:19.809Z",
   "sourceBaseUrl": "https://nolix.ir",
-  "totalItems": 61,
+  "totalItems": 60,
   "itemsWithDualPrice": 0,
   "items": [
     {
@@ -347,21 +347,6 @@
       "variationId": null,
       "color": "—",
       "priceUnregistered": 50200000,
-      "priceRegistered": null,
-      "isPhone": false,
-      "registryStatus": null
-    },
-    {
-      "id": 20279,
-      "name": "اپل واچ اولترا ۳ تیتانیوم ۴۹ میلی‌متری بند میلانس لوپ ۲۰۲۵",
-      "permalink": "https://nolix.ir/product/%d8%a7%d9%be%d9%84-%d9%88%d8%a7%da%86-%d8%a7%d9%88%d9%84%d8%aa%d8%b1%d8%a7-%db%b3-%d8%aa%db%8c%d8%aa%d8%a7%d9%86%db%8c%d9%88%d9%85-%db%b4%db%b9-%d9%85%db%8c%d9%84%db%8c%d9%85%d8%aa%d8%b1/",
-      "image": "https://nolix.ir/wp-content/uploads/2026/07/watch-ultra3-milanese-black-nolix.jpg",
-      "categories": [
-        "ساعت هوشمند"
-      ],
-      "variationId": 20280,
-      "color": "Black Titanium",
-      "priceUnregistered": 211400000,
       "priceRegistered": null,
       "isPhone": false,
       "registryStatus": null
