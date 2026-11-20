@@ -1,9 +1,43 @@
 {
-  "generatedAt": "2026-11-19T19:37:57.750Z",
+  "generatedAt": "2026-11-20T19:14:28.839Z",
   "sourceBaseUrl": "https://nolix.ir",
-  "totalItems": 60,
+  "totalItems": 62,
   "itemsWithDualPrice": 0,
   "items": [
+    {
+      "id": 21660,
+      "name": "آیفون 18 پرو نات اکتیو تک سیم کارت + eSIM حافظه 256 گیگابایت پارت نامبر ZPA رجیستر شده",
+      "permalink": "https://nolix.ir/product/18p-not-1se-zpa-256-reg/",
+      "image": "https://nolix.ir/wp-content/uploads/2026/09/iphone-18-pro-burgundy-nolix.jpg",
+      "categories": [
+        "آیفون 18",
+        "آیفون 18 پرو",
+        "آیفون 18 پرو 256 گیگابایت"
+      ],
+      "variationId": 21661,
+      "color": "Burgundy",
+      "priceUnregistered": 574400000,
+      "priceRegistered": null,
+      "isPhone": true,
+      "registryStatus": "رجیستر شده"
+    },
+    {
+      "id": 21655,
+      "name": "آیفون 18 پرو نات اکتیو تک سیم کارت + eSIM حافظه 256 گیگابایت پارت نامبر ZPA بدون رجیستری",
+      "permalink": "https://nolix.ir/product/18p-not-1se-zpa-256/",
+      "image": "https://nolix.ir/wp-content/uploads/2026/09/iphone-18-pro-burgundy-nolix.jpg",
+      "categories": [
+        "آیفون 18",
+        "آیفون 18 پرو",
+        "آیفون 18 پرو 256 گیگابایت"
+      ],
+      "variationId": 21656,
+      "color": "Burgundy",
+      "priceUnregistered": 379400000,
+      "priceRegistered": null,
+      "isPhone": true,
+      "registryStatus": "بدون رجیستر"
+    },
     {
       "id": 21471,
       "name": "هدفون بی‌سیم اپل مدل ایرپاد 5 با کیس شارژ بی‌سیم (AirPods 5 Wireless Charging Case)",
